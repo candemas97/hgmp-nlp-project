@@ -1,0 +1,3066 @@
+,Genero,Artista,Titulo,longitud_cancion,diversidad_lexica
+0,pop,Shakira,Waka Waka (Esto Es África),193.0,0.3679
+1,pop,Shakira,Gitana,94.0,0.5426
+2,pop,Shakira,"Te Aviso, Te Anuncio (Tango)",97.0,0.5361
+3,pop,Shakira,Addicted To You,95.0,0.5895
+4,pop,Shakira,Monotonía (part. Ozuna),70.0,0.6857
+5,pop,Shakira,Loba,126.0,0.7381
+6,pop,Shakira,Loca (part. El Cata),141.0,0.383
+7,pop,Shakira,Acróstico,81.0,0.716
+8,pop,Shakira,"Suerte (Whenever, Wherever)",110.0,0.4273
+9,pop,Shakira,Antología,77.0,0.8571
+10,pop,Shakira,"Ciega, Sordomuda",138.0,0.5797
+11,pop,Shakira,La Tortura (part. Alejandro Sanz),141.0,0.5745
+12,pop,Shakira,Día de Enero,80.0,0.75
+13,pop,Shakira,Inevitable,67.0,0.7313
+14,pop,Shakira,Te Dejo Madrid,102.0,0.4216
+15,pop,Shakira,Waka Waka (This Time For Africa),281.0,0.3096
+16,pop,Shakira,Copa Vacía (part. Manuel Turizo),144.0,0.4792
+17,pop,Shakira,Donde Estás Corazón,118.0,0.3559
+18,pop,Shakira,Ojos Así,133.0,0.3684
+19,pop,Shakira,La La La (Brasil 2014) (Versión en Español) (part. Carlinhos Brown),119.0,0.5966
+20,pop,Shakira,Hay Amores,67.0,0.597
+21,pop,Shakira,Hips Don't Lie (feat. Wyclef Jean),492.0,0.3232
+22,pop,Shakira,Tú,58.0,0.6897
+23,pop,Shakira,Las de La Intuición,87.0,0.3908
+24,pop,Shakira,Si Te Vas,112.0,0.5625
+25,pop,Shakira,Estoy Aquí,113.0,0.4513
+26,pop,Shakira,Lo Hecho Está Hecho,138.0,0.4348
+27,pop,Shakira,Gordita (part. Calle 13),180.0,0.5333
+28,pop,Shakira,Sale El Sol,63.0,0.4762
+29,pop,Shakira,"Whenever, Wherever",278.0,0.4388
+30,pop,Shakira,No,78.0,0.6154
+31,pop,Shakira,La Quiero a Morir (Je L'aime À Mourir),131.0,0.6412
+32,pop,Shakira,Chantaje (part. Maluma),153.0,0.5359
+33,pop,Shakira,"Pies Descalzos, Sueños Blancos",143.0,0.6434
+34,pop,Shakira,She Wolf,261.0,0.4713
+35,pop,Shakira,Que Me Quedes Tú,67.0,0.806
+36,pop,Shakira,Me Enamoré,132.0,0.447
+37,pop,Shakira,Deja Vu (part. Prince Royce),97.0,0.4433
+38,pop,Shakira,Try Everything,268.0,0.3358
+39,pop,Shakira,Clandestino (part. Maluma),150.0,0.5467
+40,pop,Shakira,Dónde Están Los Ladrones,59.0,0.6271
+41,pop,Shakira,La La La (Brazil 2014) (feat. Carlinhos Brown),225.0,0.4311
+42,pop,Shakira,Moscas En La Casa,62.0,0.8387
+43,pop,Shakira,Te Felicito (part. Rauw Alejandro),129.0,0.5969
+44,pop,Shakira,Perro Fiel (part. Nicky Jam),130.0,0.5923
+45,pop,Shakira,SHAKIRA (BZRP Music Sessions #53),208.0,0.4519
+46,pop,Shakira,Underneath Your Clothes,246.0,0.4187
+47,pop,Shakira,En Tus Pupilas,107.0,0.5794
+48,pop,Shakira,Quince Años,68.0,0.5588
+49,pop,Shakira,Antes de Las Seis,66.0,0.6818
+50,pop,Juanes,Es Por Ti,85.0,0.3765
+51,pop,Juanes,La Camisa Negra,135.0,0.437
+52,pop,Juanes,Somos El Mundo (We Are The World),238.0,0.4748
+53,pop,Juanes,A Dios Le Pido,130.0,0.3
+54,pop,Juanes,Para Tu Amor,74.0,0.3919
+55,pop,Juanes,La Tierra,93.0,0.3011
+56,pop,Juanes,La Luz,104.0,0.3558
+57,pop,Juanes,Nada Valgo Sin Tu Amor,105.0,0.4476
+58,pop,Juanes,Me Enamora,93.0,0.4946
+59,pop,Juanes,Mis Planes Son Amarte,109.0,0.4312
+60,pop,Juanes,Himno Antioqueño,67.0,0.4179
+61,pop,Juanes,Cuando El Tiempo Pasa,103.0,0.4466
+62,pop,Juanes,Fotografia (feat. Nelly Furtado),53.0,0.5472
+63,pop,Juanes,Volverte a ver,85.0,0.4235
+64,pop,Juanes,Tu guardián,47.0,0.5957
+65,pop,Juanes,La Paga,122.0,0.2213
+66,pop,Juanes,Fuego,119.0,0.3866
+67,pop,Juanes,Colombia Tierra Querida,66.0,0.4242
+68,pop,Juanes,Un Día Normal,34.0,0.6471
+69,pop,Juanes,Rosario Tijeras,69.0,0.7246
+70,pop,Juanes,Gotas de Agua Dulce,141.0,0.3333
+71,pop,Juanes,Yerbatero,94.0,0.5532
+72,pop,Juanes,La Vida es un Ratico,91.0,0.3626
+73,pop,Juanes,Las Mujeres (part. Carlos Vives),113.0,0.3805
+74,pop,Juanes,Más Que Tu Amigo,66.0,0.5152
+75,pop,Juanes,Una Flor,121.0,0.2645
+76,pop,Juanes,Daria Lo Que Fuera,85.0,0.4941
+77,pop,Juanes,Lo Que Me Gusta a Mí,98.0,0.4592
+78,pop,Juanes,Tequila (part. Christian Nodal),78.0,0.6154
+79,pop,Juanes,Mala Gente,75.0,0.4133
+80,pop,Juanes,Minas Piedras,102.0,0.549
+81,pop,Juanes,Odio por amor,104.0,0.375
+82,pop,Juanes,Bonita (part. Sebastián Yatra),151.0,0.4172
+83,pop,Juanes,Besos En Guerra (part. Morat),142.0,0.3732
+84,pop,Juanes,Es Tarde,93.0,0.4624
+85,pop,Juanes,La Noche,80.0,0.45
+86,pop,Juanes,Fijate Bien,93.0,0.3978
+87,pop,Juanes,Himno Nacional de Colombia,36.0,0.6944
+88,pop,Juanes,Luna,103.0,0.3398
+89,pop,Juanes,Amigos,68.0,0.4412
+90,pop,Juanes,Más Futuro Que Pasado,100.0,0.57
+91,pop,Juanes,Corazón Partío,214.0,0.2991
+92,pop,Juanes,Juntos (Together),121.0,0.405
+93,pop,Juanes,Solo,64.0,0.5781
+94,pop,Juanes,La Plata (part. Lalo Ebratt),175.0,0.3943
+95,pop,Juanes,Querer Mejor (part. Alessia Cara),96.0,0.5729
+96,pop,Juanes,Sueño libertad,47.0,0.7447
+97,pop,Juanes,Actitud,104.0,0.4615
+98,pop,Juanes,Ámame,115.0,0.3826
+99,pop,Juanes,Todo En Mi Vida Eres Tú,85.0,0.5412
+100,pop,Morat,Besos En Guerra (part. Juanes),145.0,0.3862
+101,pop,Morat,A Dónde Vamos,109.0,0.5046
+102,pop,Morat,No Se Va,98.0,0.4592
+103,pop,Morat,Cuando Nadie Ve,185.0,0.2486
+104,pop,Morat,Cuesta Abajo,72.0,0.7917
+105,pop,Morat,Cómo Te Atreves,133.0,0.5489
+106,pop,Morat,Acuérdate de Mí,134.0,0.5075
+107,pop,Morat,En Un Solo Día,96.0,0.4167
+108,pop,Morat,Otras Se Pierden,145.0,0.4897
+109,pop,Morat,23,107.0,0.4206
+110,pop,Morat,Debí Suponerlo,89.0,0.5506
+111,pop,Morat,Aprender a Quererte,96.0,0.5
+112,pop,Morat,506 (part. Juanes),88.0,0.5114
+113,pop,Morat,Enamórate de Alguien Más,98.0,0.4592
+114,pop,Morat,Mi Vida Entera,116.0,0.5345
+115,pop,Morat,París (part. Duki),79.0,0.6456
+116,pop,Morat,Segundos Platos,115.0,0.513
+117,pop,Morat,Amor Con Hielo,116.0,0.4828
+118,pop,Morat,No Hay Más Que Hablar,137.0,0.4745
+119,pop,Morat,Salir Con Vida (part. Feid),128.0,0.6406
+120,pop,Morat,Mi Suerte,145.0,0.3379
+121,pop,Morat,Punto y Aparte,125.0,0.504
+122,pop,Morat,Cuánto Me Duele,124.0,0.3548
+123,pop,Morat,Nunca Te Olvidé,118.0,0.4661
+124,pop,Morat,Debí Suponerlo (Versión Mariachi) (part. Camila Fernández),89.0,0.5506
+125,pop,Morat,Causa Perdida,87.0,0.4023
+126,pop,Morat,Eres Tú,30.0,0.7
+127,pop,Morat,La Correcta (part. Nabález),123.0,0.4309
+128,pop,Morat,Mi Nuevo Vicio,147.0,0.4082
+129,pop,Morat,Al Aire,105.0,0.4095
+130,pop,Morat,De Cero,125.0,0.472
+131,pop,Morat,Antes de Los 20,110.0,0.4455
+132,pop,Morat,Presiento (part. Aitana),170.0,0.2824
+133,pop,Morat,Idiota (part. Danna Paola),149.0,0.396
+134,pop,Morat,Cuando El Amor Se Escapa,109.0,0.4404
+135,pop,Morat,Date La Vuelta,95.0,0.5474
+136,pop,Morat,Mil Tormentas,153.0,0.634
+137,pop,Morat,23 (part. Mahou),47.0,0.6809
+138,pop,Morat,Primeras Veces,84.0,0.4881
+139,pop,Morat,Las Cometas Siempre Vuelan En Agosto,105.0,0.781
+140,pop,Morat,Parece Que,63.0,0.746
+141,pop,Morat,Bajo La Mesa (part. Sebastián Yatra),97.0,0.5567
+142,pop,Morat,Llamada Perdida,78.0,0.641
+143,pop,Morat,Si Ayer Fuera Hoy,58.0,0.7586
+144,pop,Morat,Si La Ves,116.0,0.5603
+145,pop,Morat,Maldita Costumbre,130.0,0.3538
+146,pop,Morat,11 Besos,53.0,0.6226
+147,pop,Morat,Celestina,117.0,0.5812
+148,pop,Morat,Di Que No Te Vas,99.0,0.5253
+149,pop,Morat,Nunca Al Revés,98.0,0.5816
+150,pop,Manuel Medrano,La Distancia,55.0,0.6727
+151,pop,Manuel Medrano,Bajo El Agua,89.0,0.427
+152,pop,Manuel Medrano,Una Y Otra Vez,45.0,0.4
+153,pop,Manuel Medrano,Si Pudiera,118.0,0.3729
+154,pop,Manuel Medrano,Afuera Del Planeta,83.0,0.3494
+155,pop,Manuel Medrano,Donde Nadie Pueda Ir,78.0,0.5
+156,pop,Manuel Medrano,Quédate,75.0,0.4533
+157,pop,Manuel Medrano,Ella Ya Me Olvidó,38.0,0.6842
+158,pop,Manuel Medrano,La Primera Vez (part. Juliana),97.0,0.5979
+159,pop,Manuel Medrano,La Mujer Que Bota Fuego,134.0,0.3881
+160,pop,Manuel Medrano,No Sé Si Salga El Sol,79.0,0.6709
+161,pop,Manuel Medrano,¿Cómo Hacer Para Olvidarte?,60.0,0.5
+162,pop,Manuel Medrano,El Swing de La Propuesta,95.0,0.6211
+163,pop,Manuel Medrano,Mi Otra Mitad,81.0,0.4691
+164,pop,Manuel Medrano,Sin Saber Por Qué,90.0,0.4333
+165,pop,Manuel Medrano,Nenita,86.0,0.6977
+166,pop,Manuel Medrano,Un Beso De Desayuno,180.0,0.6611
+167,pop,Manuel Medrano,Yo Sólo Nado Contigo,76.0,0.3421
+168,pop,Manuel Medrano,Cuando Te Pensaba,84.0,0.381
+169,pop,Manuel Medrano,Buena,119.0,0.4202
+170,pop,Manuel Medrano,Hay Una Luz Dentro de Ti,87.0,0.4483
+171,pop,Manuel Medrano,Así Fue,76.0,0.6579
+172,pop,Manuel Medrano,Hace Tiempo,24.0,0.7917
+173,pop,Manuel Medrano,Cielo,65.0,0.4308
+174,pop,Manuel Medrano,Costumbres,25.0,0.72
+175,pop,Manuel Medrano,Guajiro,129.0,0.5891
+176,pop,Manuel Medrano,Me Gustas,58.0,0.6379
+177,pop,Manuel Medrano,A La Orilla,60.0,0.6
+178,pop,Manuel Medrano,Complicidad,104.0,0.625
+179,pop,Manuel Medrano,Eco (part. Felipe Ospina),90.0,0.3333
+180,pop,Manuel Medrano,Si Tú No Vuelves,70.0,0.6143
+181,pop,Manuel Medrano,La Mala Mujer,139.0,0.4173
+182,pop,Manuel Medrano,Quién Fuera,24.0,0.8333
+183,pop,Manuel Medrano,Tengo Que Llegar A Tiempo,39.0,0.4359
+184,pop,Manuel Medrano,La Maza,148.0,0.3919
+185,pop,Manuel Medrano,La Muñeca,23.0,0.6957
+186,pop,Manuel Medrano,Navidad Sin Ti,77.0,0.4935
+187,pop,Manuel Medrano,Que Bello Es Vivir,188.0,0.4734
+188,pop,Manuel Medrano,Vagabundo,87.0,0.5632
+189,pop,Camilo,Manos de Tijera,118.0,0.6186
+190,pop,Camilo,Por Primera Vez (part. Evaluna Montaner),113.0,0.4336
+191,pop,Camilo,5:24,91.0,0.7363
+192,pop,Camilo,Vida de Rico,104.0,0.4423
+193,pop,Camilo,Tutu (part. Pedro Capó),84.0,0.4643
+194,pop,Camilo,De Adentro Pa Afuera,72.0,0.6944
+195,pop,Camilo,El Mismo Aire,112.0,0.4911
+196,pop,Camilo,Índigo (part. Evaluna Montaner),93.0,0.6452
+197,pop,Camilo,La Mitad (part. Christian Nodal),70.0,0.5429
+198,pop,Camilo,Millones,130.0,0.5769
+199,pop,Camilo,Favorito,120.0,0.35
+200,pop,Camilo,KESI (remix) (part. Shawn Mendes),152.0,0.4803
+201,pop,Camilo,Desconocidos (acústico),136.0,0.3971
+202,pop,Camilo,Ropa Cara,124.0,0.5
+203,pop,Camilo,Machu Picchu (part. Evaluna Montaner),169.0,0.2604
+204,pop,Camilo,NASA (part. Alejandro Sanz),102.0,0.6471
+205,pop,Camilo,BEBÉ (part. El Alfa),122.0,0.5082
+206,pop,Camilo,Laura No Está,52.0,0.8077
+207,pop,Camilo,Medialuna,73.0,0.6438
+208,pop,Camilo,BEBÊ (part. Gusttavo Lima),275.0,0.4109
+209,pop,Camilo,KESI,95.0,0.4316
+210,pop,Camilo,No Te Vayas,202.0,0.2772
+211,pop,Camilo,Tutu (remix) (part. Shakira y Pedro Capó),83.0,0.5301
+212,pop,Camilo,Regálame Tu Corazón,62.0,0.5323
+213,pop,Camilo,5 pa las 12,93.0,0.3333
+214,pop,Camilo,Cómo Le Digo,89.0,0.5056
+215,pop,Camilo,Enamorado de Ti,79.0,0.519
+216,pop,Camilo,La Difícil,110.0,0.3273
+217,pop,Camilo,Aeropuerto,152.0,0.3224
+218,pop,Camilo,Alaska (part. Grupo Firme),126.0,0.5
+219,pop,Camilo,Ojalá,103.0,0.5631
+220,pop,Camilo,Pegao,80.0,0.55
+221,pop,Camilo,Ambulancia (part. Camila Cabello),125.0,0.536
+222,pop,Camilo,Tuyo y Mío (part. Los Dos Carnales),90.0,0.5778
+223,pop,Camilo,El Mismo Aire (part. Pablo Alborán),112.0,0.5
+224,pop,Camilo,Pesadilla,154.0,0.3961
+225,pop,Camilo,Rolex (part. Mau y Ricky),108.0,0.3889
+226,pop,Camilo,Un Día Más Sin Verte,81.0,0.7654
+227,pop,Camilo,Las Flores,55.0,0.8182
+228,pop,Camilo,Llegaste a Mí,75.0,0.36
+229,pop,Camilo,Si Estoy Contigo,76.0,0.4474
+230,pop,Camilo,Aún Me Duele,77.0,0.6623
+231,pop,Camilo,Bebiendo Sola (part. Myke Towers),118.0,0.6271
+232,pop,Camilo,Corazón de Hojalata,90.0,0.5667
+233,pop,Camilo,Culpable,62.0,0.4839
+234,pop,Camilo,La Gloria de Dios (part. Evaluna Montaner),86.0,0.407
+235,pop,Camilo,Tutu (part. Evaluna Montaner),54.0,0.6296
+236,pop,Camilo,BEBÉ (Acústico),116.0,0.5259
+237,pop,Camilo,Buenos Días (part. Wisin y Los Legendarios),170.0,0.5176
+238,pop,Camilo,Eco (part. Evaluna Montaner),7.0,0.8571
+239,pop,Sebastián Yatra,No Hay Nadie Más,64.0,0.5938
+240,pop,Sebastián Yatra,Cómo Mirarte,77.0,0.6234
+241,pop,Sebastián Yatra,Tacones Rojos,122.0,0.4754
+242,pop,Sebastián Yatra,Un Año (part. Reik),114.0,0.4298
+243,pop,Sebastián Yatra,My Only One (No Hay Nadie Más) (feat. Isabela Merced),256.0,0.4062
+244,pop,Sebastián Yatra,VAGABUNDO (part. Manuel Turizo y Beéle),201.0,0.4577
+245,pop,Sebastián Yatra,Devuélveme El Corazón,101.0,0.4455
+246,pop,Sebastián Yatra,Dos Oruguitas,113.0,0.4248
+247,pop,Sebastián Yatra,Cristina,122.0,0.6475
+248,pop,Sebastián Yatra,Ojos Marrones (part. Lasso),61.0,0.4918
+249,pop,Sebastián Yatra,En Guerra (part. Camilo),104.0,0.5192
+250,pop,Sebastián Yatra,Pareja Del Año (part. Myke Towers),161.0,0.6149
+251,pop,Sebastián Yatra,Alguien Robó (part. Wisin y Nacho),203.0,0.468
+252,pop,Sebastián Yatra,Por Perro (part. Luis Figueroa y Lary Over),169.0,0.6036
+253,pop,Sebastián Yatra,Traicionera,166.0,0.2952
+254,pop,Sebastián Yatra,Sutra (part. Dalmata),138.0,0.5507
+255,pop,Sebastián Yatra,Mantra,113.0,0.3363
+256,pop,Sebastián Yatra,Contigo (part. Pablo Alborán),95.0,0.6526
+257,pop,Sebastián Yatra,Quererte Bonito (part. Elena Rose),70.0,0.6857
+258,pop,Sebastián Yatra,Chica Ideal (part. Guaynaa),206.0,0.4515
+259,pop,Sebastián Yatra,Quiero Decirte,104.0,0.3558
+260,pop,Sebastián Yatra,Traicionera (remix),183.0,0.4481
+261,pop,Sebastián Yatra,Ya No Tiene Novio (part. Mau y Ricky),176.0,0.2898
+262,pop,Sebastián Yatra,Falta Amor (part. Ricky Martin),111.0,0.5405
+263,pop,Sebastián Yatra,Tacones Rojos (part. John Legend),265.0,0.3472
+264,pop,Sebastián Yatra,Melancólicos Anónimos,195.0,0.6821
+265,pop,Sebastián Yatra,Como Si Nada (part. Cali),142.0,0.6972
+266,pop,Sebastián Yatra,Nervous (Remix) (part. John Legend),271.0,0.4317
+267,pop,Sebastián Yatra,Dharma (part. Jorge Celedón y Rosario),126.0,0.5
+268,pop,Sebastián Yatra,Fantasía,90.0,0.6
+269,pop,Sebastián Yatra,Me Estoy Enamorando (part. La Mafia),62.0,0.4839
+270,pop,Sebastián Yatra,"Runaway (feat. Jonas Brothers, Natti Natasha &amp; Daddy Yankee)",250.0,0.544
+271,pop,Sebastián Yatra,TBT (part. Rauw Alejandro y Manuel Turizo),174.0,0.4483
+272,pop,Sebastián Yatra,Adiós,99.0,0.5152
+273,pop,Sebastián Yatra,Una Noche Sin Pensar,96.0,0.5208
+274,pop,Sebastián Yatra,Vuelve (part. Beret),163.0,0.5276
+275,pop,Sebastián Yatra,Robarte Un Beso,147.0,0.3061
+276,pop,Sebastián Yatra,Til You're Home (feat. Rita Wilson),181.0,0.4475
+277,pop,Sebastián Yatra,Yo Te Extraño,79.0,0.5696
+278,pop,Sebastián Yatra,Aquí Estaré,71.0,0.5352
+279,pop,Sebastián Yatra,Elena,90.0,0.8
+280,pop,Sebastián Yatra,No Sé Vivir Sin Ti,39.0,0.8205
+281,pop,Sebastián Yatra,Oye (part. TINI),86.0,0.7209
+282,pop,Sebastián Yatra,A Partir de Hoy (part. David Bisbal),111.0,0.4234
+283,pop,Sebastián Yatra,Amor Pasajero,103.0,0.5049
+284,pop,Sebastián Yatra,Falta Amor,112.0,0.5446
+285,pop,Sebastián Yatra,Por Fin Te Encontré (part. Juan Magán y Cali Y El Dandee),191.0,0.3822
+286,pop,Sebastián Yatra,TV,116.0,0.5345
+287,pop,Sebastián Yatra,Corazón Sin Vida (part. Aitana),113.0,0.4513
+288,pop,Sebastián Yatra,Las Dudas (part. Aitana),106.0,0.5849
+289,pop,Reik,Ya Me Enteré,65.0,0.5538
+290,pop,Reik,Sabes,73.0,0.4932
+291,pop,Reik,Creo En Ti,56.0,0.7857
+292,pop,Reik,Yo Quisiera,81.0,0.5556
+293,pop,Reik,Noviembre Sin Ti,82.0,0.5366
+294,pop,Reik,Pero Te Conocí,63.0,0.5079
+295,pop,Reik,Te Fuiste de Aquí,99.0,0.5152
+296,pop,Reik,Inolvidable,80.0,0.55
+297,pop,Reik,"A Un Paso De La Luna (part. Rocco Hunt, Ana Mena)",144.0,0.5972
+298,pop,Reik,Me Niego (part. Wisin y Ozuna),181.0,0.5414
+299,pop,Reik,Un Amor de Verdad,48.0,0.5833
+300,pop,Reik,Si Me Dices Que Sí (part. Farruko y Camilo),145.0,0.5517
+301,pop,Reik,Amigos Con Derechos (part. Maluma),121.0,0.5868
+302,pop,Reik,Me Duele Amarte,79.0,0.4177
+303,pop,Reik,La Bella y La Bestia (part. Morat),100.0,0.4
+304,pop,Reik,Qué Vida La Mía,105.0,0.419
+305,pop,Reik,Qué Gano Olvidándote,75.0,0.5067
+306,pop,Reik,Con La Cara En Alto,76.0,0.5526
+307,pop,Reik,Perfecta (part. Maluma),106.0,0.7075
+308,pop,Reik,Voy a Olvidarte,71.0,0.6901
+309,pop,Reik,Ya Me Enteré (Urban Version) (part. Nicky Jam),126.0,0.4048
+310,pop,Reik,Te Hubieras Ido Antes,106.0,0.4717
+311,pop,Reik,Invierno,73.0,0.6301
+312,pop,Reik,Momentos,59.0,0.4746
+313,pop,Reik,Háblame de Ti,92.0,0.5978
+314,pop,Reik,Tu Mirada,84.0,0.5238
+315,pop,Reik,Eres Tu,50.0,0.56
+316,pop,Reik,Creo En Ti (Credo In Te) (Versión Italiano),123.0,0.4553
+317,pop,Reik,Creo En Ti (Finally) (Versión Inglés),189.0,0.5238
+318,pop,Reik,Vámonos Lejos,59.0,0.4746
+319,pop,Reik,Aleluya (part. Manuel Turizo),92.0,0.5761
+320,pop,Reik,De Que Sirve,73.0,0.4521
+321,pop,Reik,Creo En Ti (Creio Em Você) (Versión Portugués),108.0,0.6204
+322,pop,Reik,Fuerte No Soy,83.0,0.6747
+323,pop,Reik,A Mi Lado (part. Rusherking),131.0,0.5649
+324,pop,Reik,Poco (part. Christian Nodal),108.0,0.6574
+325,pop,Reik,Con La Falta Que Me Haces,43.0,0.6047
+326,pop,Reik,Lo Mejor Ya Va a Venir,81.0,0.6543
+327,pop,Reik,De Rodillas,56.0,0.5179
+328,pop,Reik,Estos Celos,66.0,0.4848
+329,pop,Reik,Me Niego (Versión Pop),110.0,0.5
+330,pop,Reik,Qué Gano Olvidándote (Versión Urbana) (part. Zion &amp; Lennox),131.0,0.5802
+331,pop,Reik,Si No Te Hubieras Ido,64.0,0.4531
+332,pop,Reik,Cuando Estás Conmigo,70.0,0.4429
+333,pop,Reik,Duele (part. Wisin y Yandel),169.0,0.6391
+334,pop,Reik,Es Mejor Así (part. Cristian Castro),47.0,0.617
+335,pop,Reik,Fui,39.0,0.6154
+336,pop,Reik,Vuelve,60.0,0.6
+337,pop,Reik,Peligro,110.0,0.4364
+338,pop,Reik,Adicto a Ti,72.0,0.5694
+339,pop,Julieta Venegas,Limón y Sal,85.0,0.4941
+340,pop,Julieta Venegas,Me Voy,59.0,0.5254
+341,pop,Julieta Venegas,Andar Conmigo,91.0,0.3516
+342,pop,Julieta Venegas,Chau (part. No Te Va Gustar),74.0,0.7027
+343,pop,Julieta Venegas,Eres Para Mí,77.0,0.6623
+344,pop,Julieta Venegas,Lento,66.0,0.4091
+345,pop,Julieta Venegas,Perfecta,135.0,0.4741
+346,pop,Julieta Venegas,Algo está cambiando,63.0,0.3968
+347,pop,Julieta Venegas,Eres Para Mi (version Mtv Unplugged Con Mala Rodriguez),139.0,0.6403
+348,pop,Julieta Venegas,Ilusión,32.0,0.5
+349,pop,Julieta Venegas,Bien o Mal,47.0,0.766
+350,pop,Julieta Venegas,Canciones de Amor,45.0,0.6667
+351,pop,Julieta Venegas,Nada Fue Un Error,104.0,0.3173
+352,pop,Julieta Venegas,El Presente,79.0,0.3924
+353,pop,Julieta Venegas,Sueños (part. Diego Torres),117.0,0.3932
+354,pop,Julieta Venegas,Tu Historia,70.0,0.5857
+355,pop,Julieta Venegas,Eres Para Mí (feat. Mala Rodriguez),116.0,0.75
+356,pop,Julieta Venegas,Sería Feliz,72.0,0.375
+357,pop,Julieta Venegas,Cuéntame,68.0,0.4706
+358,pop,Julieta Venegas,Despedida,56.0,0.6429
+359,pop,Julieta Venegas,Mi Principio,42.0,0.4762
+360,pop,Julieta Venegas,Perfecta (feat Miranda),101.0,0.5743
+361,pop,Julieta Venegas,Serenata Sin Luna,75.0,0.6533
+362,pop,Julieta Venegas,Algo Sucede,83.0,0.3253
+363,pop,Julieta Venegas,Caminar Sola,85.0,0.5765
+364,pop,Julieta Venegas,Dos Soledades,68.0,0.6765
+365,pop,Julieta Venegas,Pa'bailar (con BajoFondo),72.0,0.3889
+366,pop,Julieta Venegas,Adoro,69.0,0.4928
+367,pop,Julieta Venegas,Brillaremos,52.0,0.5385
+368,pop,Julieta Venegas,Dime La Verdad,84.0,0.369
+369,pop,Julieta Venegas,Mira la vida,115.0,0.3043
+370,pop,Julieta Venegas,Mírame Bien,59.0,0.5763
+371,pop,Julieta Venegas,Mujeres,96.0,0.6667
+372,pop,Julieta Venegas,Primer día,124.0,0.6371
+373,pop,Julieta Venegas,Simpre Quiero Más,60.0,0.4667
+374,pop,Julieta Venegas,Te Encontré,79.0,0.4051
+375,pop,Julieta Venegas,Dulce Compañía,78.0,0.5128
+376,pop,Julieta Venegas,El Ladrón (feat. La Sonora Santanera),101.0,0.2871
+377,pop,Julieta Venegas,El Sol No Regresa,69.0,0.5942
+378,pop,Julieta Venegas,Explosión,86.0,0.5349
+379,pop,Julieta Venegas,No seré,40.0,0.625
+380,pop,Julieta Venegas,Porque Te Vas?,51.0,0.6078
+381,pop,Julieta Venegas,Tiempo Suficiente,94.0,0.3085
+382,pop,Julieta Venegas,De mis pasos,62.0,0.5484
+383,pop,Julieta Venegas,De Qué Me Sirve,49.0,0.449
+384,pop,Julieta Venegas,Debajo de Mi Lengua,49.0,0.4694
+385,pop,Julieta Venegas,Donde Quiero Estar,37.0,0.4054
+386,pop,Julieta Venegas,Ese Camino,67.0,0.5821
+387,pop,Julieta Venegas,La Nostalgia,54.0,0.7222
+388,pop,Julieta Venegas,Lo Que Tu Me Das,29.0,0.7586
+389,pop,Camila,Mientes,72.0,0.5972
+390,pop,Camila,Todo Cambió,66.0,0.5
+391,pop,Camila,Aléjate de Mí,112.0,0.4107
+392,pop,Camila,Solo Para Ti,38.0,0.7105
+393,pop,Camila,Coleccionista de Canciones,93.0,0.5484
+394,pop,Camila,Bésame,63.0,0.4603
+395,pop,Camila,Perdón,70.0,0.7143
+396,pop,Camila,De Que Me Sirve La Vida,76.0,0.4737
+397,pop,Camila,Abrázame,92.0,0.337
+398,pop,Camila,De Mí,54.0,0.8519
+399,pop,Camila,En Mi Getsêmani,102.0,0.6471
+400,pop,Camila,Fugitivos,66.0,0.697
+401,pop,Camila,Nanga Ti Feo,80.0,0.2875
+402,pop,Camila,Entre Tus Alas,64.0,0.5781
+403,pop,Camila,Nueve Meses,101.0,0.6634
+404,pop,Camila,Decidiste Dejarme,72.0,0.6806
+405,pop,Camila,Dejarte de Amar,66.0,0.6061
+406,pop,Camila,picick,195.0,0.2974
+407,pop,Camila,Bésame,102.0,0.5686
+408,pop,Camila,Me Enamoro Sin Querer,58.0,0.5172
+409,pop,Camila,La Vida Entera (part. Marco Antonio Solís),58.0,0.7069
+410,pop,Camila,Volverte A Amar,63.0,0.5238
+411,pop,Camila,Que Me Faltas,44.0,0.5682
+412,pop,Camila,Te Confieso,64.0,0.625
+413,pop,Camila,Dos Palabras,56.0,0.3214
+414,pop,Camila,Entre Tus Alas (feat. Colbie Caillat),123.0,0.6098
+415,pop,Camila,Me Enseñaste A Odiar,88.0,0.4886
+416,pop,Camila,Cambiastes Mi Vida,81.0,0.4691
+417,pop,Camila,Contigo Quiero Estar,160.0,0.6812
+418,pop,Camila,Me Voy,43.0,0.6279
+419,pop,Camila,Perderte De Nuevo,71.0,0.5211
+420,pop,Camila,Yo Sin Tu Amor,50.0,0.5
+421,pop,Camila,Amor Eterno,51.0,0.6863
+422,pop,Camila,De Venus,71.0,0.507
+423,pop,Camila,Es Hora De Decir Adios,93.0,0.5914
+424,pop,Camila,Estaré aquí para Ti,19.0,0.6842
+425,pop,Camila,Quédate,87.0,0.4598
+426,pop,Camila,Sólo Para Tí,36.0,0.6944
+427,pop,Camila,Me Basto,82.0,0.3902
+428,pop,Camila,Mientes (Cover Audio),77.0,0.5974
+429,pop,Camila,Solo Tu,42.0,0.7381
+430,pop,Camila,Tú,43.0,0.7442
+431,pop,Camila,Adicto al dolor,89.0,0.4831
+432,pop,Camila,Besos Robados,36.0,0.8056
+433,pop,Camila,Cianuro y Miel,88.0,0.5682
+434,pop,Camila,Dos Segundos,41.0,0.561
+435,pop,Camila,El Amor Lo Puede Todo,203.0,0.5074
+436,pop,Camila,Equivocada,81.0,0.5062
+437,pop,Camila,Es Hora de Decir,93.0,0.6129
+438,pop,Camila,Este Momento (part. Manuel Medrano),76.0,0.7763
+439,pop,MC Tini,Intensamente,122.0,0.5246
+440,pop,MC Tini,Taça de Chandon,112.0,0.7589
+441,pop,RBD,Cerquita de Ti,98.0,0.3163
+442,pop,RBD,Rebelde,80.0,0.4
+443,pop,RBD,Sálvame,89.0,0.3483
+444,pop,RBD,Solo Quédate En Silencio,89.0,0.4045
+445,pop,RBD,Tras de Mí,97.0,0.3918
+446,pop,RBD,Ser O Parecer,118.0,0.4661
+447,pop,RBD,Este Corazón,83.0,0.4578
+448,pop,RBD,Y No Puedo Olvidarte,72.0,0.5833
+449,pop,RBD,Enséñame,91.0,0.4286
+450,pop,RBD,Nuestro Amor,46.0,0.3478
+451,pop,RBD,Inalcanzable,87.0,0.4483
+452,pop,RBD,Aún Hay Algo,67.0,0.4328
+453,pop,RBD,Cuando El Amor Se Acaba,98.0,0.4388
+454,pop,RBD,Para Olvidarte de Mí,65.0,0.6
+455,pop,RBD,Cariño Mío,348.0,0.2126
+456,pop,RBD,Una Canción,64.0,0.5938
+457,pop,RBD,Adiós,86.0,0.5349
+458,pop,RBD,Celestial,91.0,0.5495
+459,pop,RBD,I Wanna Be The Rain,291.0,0.2268
+460,pop,RBD,A Tu Lado,80.0,0.35
+461,pop,RBD,Otro Día Que Va,74.0,0.5
+462,pop,RBD,Tenerte y Quererte,109.0,0.3211
+463,pop,RBD,¿Qué Hay Detrás?,52.0,0.5
+464,pop,RBD,Qué Fue Del Amor,120.0,0.25
+465,pop,RBD,Empezar Desde Cero,90.0,0.5222
+466,pop,RBD,Me Voy,93.0,0.5484
+467,pop,RBD,Fui La Niña,65.0,0.3538
+468,pop,RBD,Hoy Que Te Vas,47.0,0.5319
+469,pop,RBD,No Pares,93.0,0.4301
+470,pop,RBD,Un Poco de Tu Amor,69.0,0.3623
+471,pop,RBD,Tu Amor,298.0,0.2617
+472,pop,RBD,Santa No Soy,123.0,0.2927
+473,pop,RBD,Bésame Sin Miedo,91.0,0.2967
+474,pop,RBD,Siempre He Estado Aquí,54.0,0.7407
+475,pop,RBD,Así Soy Yo,109.0,0.5688
+476,pop,RBD,Tal Vez Después,110.0,0.3545
+477,pop,RBD,Quisiera Ser,80.0,0.4
+478,pop,RBD,Algún Día,69.0,0.5072
+479,pop,RBD,Dame,148.0,0.3108
+480,pop,RBD,Feliz Cumpleaños,88.0,0.3636
+481,pop,RBD,Quizá,61.0,0.5738
+482,pop,RBD,Futuro Ex-novio,78.0,0.4487
+483,pop,RBD,S.H.E.A.,53.0,0.7358
+484,pop,RBD,Fuego,93.0,0.4301
+485,pop,RBD,Me Cansé,93.0,0.3871
+486,pop,RBD,Era La Musica,300.0,0.31
+487,pop,RBD,El Regalo Más Grande (part. Tiziano Ferro),122.0,0.5738
+488,pop,RBD,Wanna Play,399.0,0.2506
+489,pop,RBD,Aburrida y Sola,102.0,0.4412
+490,pop,RBD,El Mundo Detrás,70.0,0.5714
+491,pop,Danna Paola,Flor Que Da Fulgor,15.0,0.9333
+492,pop,Danna Paola,Veo En Ti La Luz (part. Chayanne),58.0,0.5172
+493,pop,Danna Paola,Cuándo Empezaré a Vivir,61.0,0.9016
+494,pop,Danna Paola,XT4S1S,231.0,0.2727
+495,pop,Danna Paola,Tenemos Que Hablar,83.0,0.5181
+496,pop,Danna Paola,Mundo de Caramelo,182.0,0.3352
+497,pop,Danna Paola,Mala Fama,93.0,0.4946
+498,pop,Danna Paola,1Trago,128.0,0.3594
+499,pop,Danna Paola,No Es Cierto (part. Noel Schajris),65.0,0.4308
+500,pop,Danna Paola,Amor Ordinario,86.0,0.6628
+501,pop,Danna Paola,Mala Fama (remix) (part. Greeicy),91.0,0.5055
+502,pop,Danna Paola,A Un Beso,115.0,0.5043
+503,pop,Danna Paola,Dos Extraños,82.0,0.5732
+504,pop,Danna Paola,El Primer Día Sin Ti,141.0,0.4752
+505,pop,Danna Paola,Los Papás de Mis Papitos,65.0,0.3538
+506,pop,Danna Paola,Know Me Too Well (feat. New Hope Club),352.0,0.2585
+507,pop,Danna Paola,TQ Y YA,89.0,0.573
+508,pop,Danna Paola,"Me, Myself (feat. MIKA)",147.0,0.5578
+509,pop,Danna Paola,Sodio,118.0,0.4492
+510,pop,Danna Paola,Viaje A La Luz,60.0,0.85
+511,pop,Danna Paola,Calla Tú,64.0,0.6875
+512,pop,Danna Paola,El Baile de Los Pajaritos,135.0,0.2667
+513,pop,Danna Paola,La Chica Ye Ye,116.0,0.2241
+514,pop,Danna Paola,Mañana,56.0,0.375
+515,pop,Danna Paola,Mi Dulce Niño,129.0,0.2558
+516,pop,Danna Paola,No Bailes Sola (part. Sebastián Yatra),95.0,0.5789
+517,pop,Danna Paola,Oye Pablo,106.0,0.4906
+518,pop,Danna Paola,¿Dónde Estabas Tu?,93.0,0.4301
+519,pop,Danna Paola,María Belén (part. Rabanitos Verdes),98.0,0.3469
+520,pop,Danna Paola,Y Ahora Qué,87.0,0.4483
+521,pop,Danna Paola,Hasta Vencer,125.0,0.376
+522,pop,Danna Paola,Subtitulos (part. Lasso),117.0,0.359
+523,pop,Danna Paola,T.A.C.O.,136.0,0.4118
+524,pop,Danna Paola,Idiota (part. Morat),149.0,0.396
+525,pop,Danna Paola,Kaprichosa,152.0,0.5395
+526,pop,Danna Paola,El Carrusel de La Esperanza,141.0,0.2482
+527,pop,Danna Paola,Las Divinas,82.0,0.4146
+528,pop,Danna Paola,Late Mi Corazón,118.0,0.1949
+529,pop,Danna Paola,Mariposa y Sol,65.0,0.5385
+530,pop,Danna Paola,Mi Globo Azul,97.0,0.4536
+531,pop,Danna Paola,Nada (part. Cali Y El Dandee),144.0,0.5486
+532,pop,Danna Paola,No Puedo Olvidarlo,59.0,0.8475
+533,pop,Danna Paola,Pintando El Amor (part. Eleazar Gómez),91.0,0.5934
+534,pop,Danna Paola,Puros Palos Dan,75.0,0.6933
+535,pop,Danna Paola,Sola,101.0,0.6733
+536,pop,Danna Paola,tqum (part. Sofía Reyes),142.0,0.4366
+537,pop,Danna Paola,Valientes,90.0,0.6556
+538,pop,Danna Paola,Alcanzar Una Estrella (part. Mariana Garza),86.0,0.5581
+539,pop,Danna Paola,Azul Como El Cielo (part. Tatiana),122.0,0.5082
+540,pop,Danna Paola,Huesito de Chabacano,96.0,0.2292
+541,pop,aitana,+ (más) (acústico),148.0,0.5608
+542,pop,aitana,+ (más) (part,162.0,0.5679
+543,pop,aitana,11 razones,127.0,0.5433
+544,pop,aitana,= (igual),63.0,0.5238
+545,pop,aitana,a la calle,91.0,0.5275
+546,pop,aitana,arde,82.0,0.4634
+547,pop,aitana,aunque no sea conmigo (part,80.0,0.575
+548,pop,aitana,bang bang (operación triunfo 2017),234.0,0.4231
+549,pop,aitana,barro y hielo,38.0,0.7895
+550,pop,aitana,berlín,108.0,0.3889
+551,pop,aitana,can't stop the feeling! (operación triunfo 2017),318.0,0.2799
+552,pop,aitana,chandelier,202.0,0.3317
+553,pop,aitana,chas! y aparezco a tu lado,71.0,0.5634
+554,pop,aitana,chasing pavements (operación triunfo 2017),176.0,0.4034
+555,pop,aitana,cheap thrills (operación triunfo 2017),259.0,0.1969
+556,pop,aitana,coldplay (part,165.0,0.5697
+557,pop,aitana,con la miel en los labios,96.0,0.6146
+558,pop,aitana,con las ganas (part,76.0,0.7368
+559,pop,aitana,corazón sin vida (part,113.0,0.4513
+560,pop,aitana,cristal,113.0,0.3805
+561,pop,aitana,cuando te fuiste (part,82.0,0.4756
+562,pop,aitana,dormir (versión acústica),77.0,0.7013
+563,pop,aitana,dormir,90.0,0.6556
+564,pop,aitana,el cine (version acustica),115.0,0.5565
+565,pop,aitana,el cine,104.0,0.6154
+566,pop,aitana,el mismo sol (part,70.0,0.3
+567,pop,aitana,el mundo entero (part,97.0,0.5773
+568,pop,aitana,el trece,112.0,0.4821
+569,pop,aitana,en el coche,63.0,0.5556
+570,pop,aitana,enemigos (part,127.0,0.3071
+571,pop,aitana,estupidez (part,103.0,0.5534
+572,pop,aitana,formentera (part,114.0,0.4649
+573,pop,aitana,friend de semana (part,188.0,0.5372
+574,pop,aitana,la última,70.0,0.6143
+575,pop,aitana,las babys,104.0,0.4231
+576,pop,aitana,las vegas,139.0,0.3453
+577,pop,aitana,let me love you (operación triunfo 2017),248.0,0.2419
+578,pop,aitana,lo malo (part,148.0,0.3243
+579,pop,aitana,lo malo (remix) (part,147.0,0.3469
+580,pop,aitana,los ángeles,74.0,0.6351
+581,pop,aitana,miamor (part,97.0,0.6392
+582,pop,aitana,mon amour (remix) (part,179.0,0.6201
+583,pop,aitana,no puedo vivir sin ti (no hay manera) (part,44.0,0.7273
+584,pop,aitana,no te has ido y ya te extraño,109.0,0.5138
+585,pop,aitana,otra vez,69.0,0.6522
+586,pop,aitana,si no vas a volver,83.0,0.5542
+587,pop,aitana,teléfono (remix) (part,103.0,0.3981
+588,pop,aitana,vas a quedarte,119.0,0.4622
+589,pop,aitana,÷ (dividido),118.0,0.339
+590,pop,arjona_ricardo,acompáñame a estar solo,101.0,0.5248
+591,pop,arjona_ricardo,amiga mía,88.0,0.6705
+592,pop,arjona_ricardo,amor de tele,66.0,0.803
+593,pop,arjona_ricardo,apague la luz y escuche,108.0,0.6204
+594,pop,arjona_ricardo,asignatura pendiente,111.0,0.6126
+595,pop,arjona_ricardo,ayudame freud,149.0,0.6376
+596,pop,arjona_ricardo,buenas noches don david,167.0,0.6707
+597,pop,arjona_ricardo,carabelas,40.0,0.925
+598,pop,arjona_ricardo,casa de locos,93.0,0.7097
+599,pop,arjona_ricardo,cavernícolas,117.0,0.6325
+600,pop,arjona_ricardo,como duele,108.0,0.6389
+601,pop,arjona_ricardo,cuándo,64.0,0.7188
+602,pop,arjona_ricardo,de vez en mes,104.0,0.6346
+603,pop,arjona_ricardo,desnuda,102.0,0.5784
+604,pop,arjona_ricardo,dime que no,95.0,0.5158
+605,pop,arjona_ricardo,duele verte,144.0,0.6111
+606,pop,arjona_ricardo,el amor,114.0,0.6842
+607,pop,arjona_ricardo,el invisible,85.0,0.6706
+608,pop,arjona_ricardo,el problema,113.0,0.3274
+609,pop,arjona_ricardo,el taxista,149.0,0.8389
+610,pop,arjona_ricardo,en vida,106.0,0.8019
+611,pop,arjona_ricardo,fuiste tú (part,119.0,0.5714
+612,pop,arjona_ricardo,historia de taxi,150.0,0.84
+613,pop,arjona_ricardo,iluso,139.0,0.8058
+614,pop,arjona_ricardo,jesus verbo no sustantivo,212.0,0.7594
+615,pop,arjona_ricardo,la nena ( bitacora de un secuestro),193.0,0.7358
+616,pop,arjona_ricardo,laura,104.0,0.6731
+617,pop,arjona_ricardo,lo mejor de lo peor,76.0,0.7895
+618,pop,arjona_ricardo,mi novia se me está poniendo vieja,98.0,0.6939
+619,pop,arjona_ricardo,mi país,111.0,0.6396
+620,pop,arjona_ricardo,minutos,148.0,0.6757
+621,pop,arjona_ricardo,mojado,111.0,0.7207
+622,pop,arjona_ricardo,mujer de guanahani,61.0,0.7541
+623,pop,arjona_ricardo,mujeres,100.0,0.47
+624,pop,arjona_ricardo,ni tu ni yo (part,98.0,0.7959
+625,pop,arjona_ricardo,olvidarte,130.0,0.5231
+626,pop,arjona_ricardo,pingüinos en la cama,127.0,0.6772
+627,pop,arjona_ricardo,por qué es tan cruel el amor,86.0,0.5233
+628,pop,arjona_ricardo,quiero,157.0,0.6115
+629,pop,arjona_ricardo,quinto piso,84.0,0.6667
+630,pop,arjona_ricardo,quién diría,92.0,0.5652
+631,pop,arjona_ricardo,remiendo al corazón,56.0,0.9821
+632,pop,arjona_ricardo,señora de las cuatro décadas,128.0,0.4844
+633,pop,arjona_ricardo,si el norte fuera el sur,139.0,0.7986
+634,pop,arjona_ricardo,si tú no existieras,86.0,0.6628
+635,pop,arjona_ricardo,"sin ti, sin mí",88.0,0.7727
+636,pop,arjona_ricardo,sobrevivirás,70.0,0.7143
+637,pop,arjona_ricardo,tarde (sin daños a terceros),88.0,0.8523
+638,pop,arjona_ricardo,te conozco,97.0,0.5464
+639,pop,arjona_ricardo,tu reputacion,94.0,0.766
+640,reggaeton,Bad Bunny,"Tú No Vive Así (part. Arcangel, DJ Luian y Mambo Kingz)",252.0,0.746
+641,reggaeton,Bad Bunny,"Te Bote (remix) (part. Casper, Nio García, Darell, Nicky Jam y Ozuna)",418.0,0.5215
+642,reggaeton,Bad Bunny,Me Porto Bonito (part. Chencho Corleone),142.0,0.7324
+643,reggaeton,Bad Bunny,Ojitos Lindos (part. Bomba Estéreo),138.0,0.6522
+644,reggaeton,Bad Bunny,Where She Goes [explicit],137.0,0.6058
+645,reggaeton,Bad Bunny,Yonaguni,184.0,0.5326
+646,reggaeton,Bad Bunny,Soy Peor,133.0,0.7368
+647,reggaeton,Bad Bunny,Tití Me Preguntó,204.0,0.4657
+648,reggaeton,Bad Bunny,Callaita,156.0,0.5192
+649,reggaeton,Bad Bunny,Otro Atardecer (part. The Marías),109.0,0.6422
+650,reggaeton,Bad Bunny,Sensualidad (part. Prince Royce y J Balvin),248.0,0.4194
+651,reggaeton,Bad Bunny,Moscow Mule,195.0,0.4462
+652,reggaeton,Bad Bunny,Amorfoda,97.0,0.6392
+653,reggaeton,Bad Bunny,Diabla (remix) (part. Farruko y Lary Over),311.0,0.582
+654,reggaeton,Bad Bunny,Un Verano Sin Ti,84.0,0.8929
+655,reggaeton,Bad Bunny,CANCIÓN CON YANDEL (part. Yandel),184.0,0.5435
+656,reggaeton,Bad Bunny,CÓMO SE SIENTE (remix) (part. Jhay Cortez),209.0,0.6459
+657,reggaeton,Bad Bunny,HACIENDO QUE ME AMAS,99.0,0.7879
+658,reggaeton,Bad Bunny,"Tú No Metes Cabra (remix) (part. Daddy Yankee, Anuel AA y Cosculluela)",417.0,0.6499
+659,reggaeton,Bad Bunny,La Corriente (part. Tony Dize),155.0,0.5613
+660,reggaeton,Bad Bunny,La Santa (part. Daddy Yankee),182.0,0.4396
+661,reggaeton,Bad Bunny,Un Coco,142.0,0.6408
+662,reggaeton,Bad Bunny,Tu No Metes Cabra,208.0,0.5433
+663,reggaeton,Bad Bunny,"Me Mata (part. Arcangel, Bryant Myers, Almighty, Noriel, Baby Rasta y Brytiago)",422.0,0.6896
+664,reggaeton,Bad Bunny,Tarot (part. Jhay Cortez),177.0,0.5763
+665,reggaeton,Bad Bunny,Agosto,71.0,0.6479
+666,reggaeton,Bad Bunny,Efecto,103.0,0.6699
+667,reggaeton,Bad Bunny,DÁKITI (part. Jhay Cortez),146.0,0.5205
+668,reggaeton,Bad Bunny,Una Vez (part. Mora),155.0,0.6645
+669,reggaeton,Bad Bunny,Andrea (part. Buscabulla),222.0,0.7568
+670,reggaeton,Maluma,11 PM,133.0,0.2932
+671,reggaeton,Maluma,ADMV,113.0,0.5752
+672,reggaeton,Maluma,"Cuatro Babys (part. Trap Capos, Noriel, Bryant Myers y Juhn)",230.0,0.6348
+673,reggaeton,Maluma,El Perdedor,182.0,0.5165
+674,reggaeton,Maluma,Borro Cassette,202.0,0.4901
+675,reggaeton,Maluma,Hawái,129.0,0.5504
+676,reggaeton,Maluma,Sobrio,124.0,0.5806
+677,reggaeton,Maluma,Felices Los 4,167.0,0.3174
+678,reggaeton,Maluma,Corazón (part. Nego do Borel),178.0,0.4213
+679,reggaeton,Maluma,COCO LOCO,147.0,0.5986
+680,reggaeton,Maluma,"Un Polvo (part. Bad Bunny, Arcángel, Ñengo Flow y De La Ghetto)",306.0,0.6307
+681,reggaeton,Maluma,Marinero,113.0,0.5133
+682,reggaeton,Maluma,Mojando Asientos (part. Feid),197.0,0.5685
+683,reggaeton,Maluma,La Reina,84.0,0.5952
+684,reggaeton,Maluma,Hola Señorita (Maria) (part. GIMS),250.0,0.472
+685,reggaeton,Maluma,"La Tierra Del Olvido (part. Carlos Vives, Fanny Lu, Fonseca y Andrea Echeverri)",163.0,0.5337
+686,reggaeton,Maluma,Ella Es Mi Fiesta (part. Carlos Vives),158.0,0.3354
+687,reggaeton,Maluma,Madrid (part. Myke Towers),159.0,0.6289
+688,reggaeton,Maluma,Hawái (remix) (part. The Weeknd),211.0,0.4976
+689,reggaeton,Maluma,"Aloha (part. Beéle, Rauw Alejandro, Darell, DJ Luian y Mambo Kingz)",254.0,0.689
+690,reggaeton,Maluma,HP,167.0,0.3234
+691,reggaeton,Maluma,Carnaval,173.0,0.4046
+692,reggaeton,Maluma,La Fórmula (part. Marc Anthony),158.0,0.5759
+693,reggaeton,Maluma,Sin Contrato,211.0,0.4171
+694,reggaeton,Maluma,Bella (part. Wolfine),162.0,0.5185
+695,reggaeton,Maluma,Parce (part. Lenny Tavárez y Justin Quiles),241.0,0.4108
+696,reggaeton,Maluma,La Temperatura (feat. Eli Palacios),209.0,0.3062
+697,reggaeton,Maluma,Mala Mía,104.0,0.4615
+698,reggaeton,Maluma,ADMV (Versión Urbana),113.0,0.5752
+699,reggaeton,Maluma,Desayun-Arte,91.0,0.5495
+700,reggaeton,Feid,Classy 101 (part. Young Miko),206.0,0.5874
+701,reggaeton,Feid,Ferxxo 100,119.0,0.5546
+702,reggaeton,Feid,Feliz Cumpleaños Ferxxo,104.0,0.5865
+703,reggaeton,Feid,Vente Conmigo,95.0,0.5895
+704,reggaeton,Feid,CHORRITO PA LAS ANIMAS,141.0,0.5248
+705,reggaeton,Feid,Niña Bonita (part. Sean Paul),228.0,0.557
+706,reggaeton,Feid,Normal,144.0,0.5347
+707,reggaeton,Feid,Zundada (Versión Acústica) (part. Zion),160.0,0.3688
+708,reggaeton,Feid,PROHIBIDOX,89.0,0.5955
+709,reggaeton,Feid,FUMETEO (remix) (part. Mora y Eladio Carrión),206.0,0.6311
+710,reggaeton,Feid,EXCXSXS,84.0,0.8452
+711,reggaeton,Feid,SI TÚ SUPIERAS,161.0,0.5404
+712,reggaeton,Feid,"PORFA (remix) (part. Justin Quiles, J Balvin, Nicky Jam, Maluma y Sech)",260.0,0.6269
+713,reggaeton,Feid,Sígueme (remix) (part. Sech),169.0,0.497
+714,reggaeton,Feid,EL CUARTO DE FERXXO,123.0,0.5285
+715,reggaeton,Feid,911,165.0,0.5636
+716,reggaeton,Feid,X19X,64.0,0.7812
+717,reggaeton,Feid,FRIKI (part. KAROL G),148.0,0.6622
+718,reggaeton,Feid,XX,68.0,0.7353
+719,reggaeton,Feid,AMOR DE MI VIDA,137.0,0.6423
+720,reggaeton,Feid,que putas,66.0,0.697
+721,reggaeton,Feid,X20X,47.0,0.6596
+722,reggaeton,Feid,Le Pido a DIOS (part. DJ Premier),98.0,0.7551
+723,reggaeton,Feid,CHIMBITA (part. Sky Rompiendo),108.0,0.6204
+724,reggaeton,Feid,CORONE,87.0,0.6207
+725,reggaeton,Feid,PORFA (part. Justin Quiles),136.0,0.5294
+726,reggaeton,Feid,confesión,89.0,0.6742
+727,reggaeton,Feid,FERXXO VI,50.0,0.84
+728,reggaeton,Feid,Castigo,142.0,0.5352
+729,reggaeton,Feid,Mxfix G5,97.0,0.6598
+730,reggaeton,KAROL G,MI EX TENÍA RAZÓN,71.0,0.6901
+731,reggaeton,KAROL G,OKI DOKI,163.0,0.4417
+732,reggaeton,KAROL G,QLONA (part. Peso Pluma),153.0,0.4771
+733,reggaeton,KAROL G,ME TENGO QUE IR (part. Kali Uchis),168.0,0.5
+734,reggaeton,KAROL G,S91,130.0,0.7
+735,reggaeton,KAROL G,Bichota,108.0,0.6019
+736,reggaeton,KAROL G,GATITA GANGSTER (part. Dei V),162.0,0.6914
+737,reggaeton,KAROL G,TQG (part. Shakira),140.0,0.6929
+738,reggaeton,KAROL G,BICHOTAG,106.0,0.6321
+739,reggaeton,KAROL G,AMARGURA,92.0,0.6739
+740,reggaeton,KAROL G,DISPO (part. Young Miko),157.0,0.5541
+741,reggaeton,KAROL G,200 COPAS,130.0,0.7231
+742,reggaeton,KAROL G,PROVENZA,151.0,0.4305
+743,reggaeton,KAROL G,UNA NOCHE EN MEDELLÍN (remix) (part. Cris Mj y Ryan Castro),230.0,0.6304
+744,reggaeton,KAROL G,MIENTRAS ME CURO DEL CORA,100.0,0.54
+745,reggaeton,KAROL G,MAÑANA SERÁ BONITO (part. Carla Morrison),142.0,0.5141
+746,reggaeton,KAROL G,X SI VOLVEMOS (part. Romeo Santos),116.0,0.75
+747,reggaeton,KAROL G,Ocean,73.0,0.6986
+748,reggaeton,KAROL G,GUCCI LOS PAÑOS,102.0,0.6765
+749,reggaeton,KAROL G,GATÚBELA (part. Maldy),166.0,0.5361
+750,reggaeton,KAROL G,Tusa (part. Nicki Minaj),225.0,0.6311
+751,reggaeton,KAROL G,WATATI (part. Aldo Ranks),193.0,0.4767
+752,reggaeton,KAROL G,EL BARCO,129.0,0.6977
+753,reggaeton,KAROL G,CAIRO (part. Ovy On The Drums),102.0,0.5588
+754,reggaeton,KAROL G,PERO TÚ (part. Quevedo),136.0,0.75
+755,reggaeton,KAROL G,CAROLINA,104.0,0.7212
+756,reggaeton,KAROL G,SEJODIOTO,148.0,0.4797
+757,reggaeton,KAROL G,PROVENZA (remix) (part. Tiësto),111.0,0.2432
+758,reggaeton,KAROL G,A Ella,77.0,0.4545
+759,reggaeton,KAROL G,TUS GAFITAS,92.0,0.5217
+760,reggaeton,J Balvin,"UN DÍA (ONE DAY) (part. Dua Lipa, Bad Bunny y Tainy)",320.0,0.4156
+761,reggaeton,J Balvin,Si Tu Novio Te Deja Sola (part. Bad Bunny),189.0,0.5926
+762,reggaeton,J Balvin,LA CANCIÓN (part. Bad Bunny),161.0,0.528
+763,reggaeton,J Balvin,"Poblado (remix) (part. Karol G, Nicky Jam, Crissin, Totoy El Frio y Natan &amp; Shander)",398.0,0.5804
+764,reggaeton,J Balvin,"Ahora Dice (Remix) (part. Ozuna, Arcángel, Anuel AA, Cardi B y Offset)",498.0,0.5582
+765,reggaeton,J Balvin,Perra (part. Tokischa) [explícita],245.0,0.3959
+766,reggaeton,J Balvin,"Safari (feat. Pharrell Williams, Sky and BIA)",189.0,0.2804
+767,reggaeton,J Balvin,Ay Vamos,160.0,0.325
+768,reggaeton,J Balvin,Qué Más Pues? (part. Maria Becerra),161.0,0.6832
+769,reggaeton,J Balvin,Mi Gente (part. Willy William),110.0,0.5455
+770,reggaeton,J Balvin,6 AM (part. Farruko),155.0,0.4387
+771,reggaeton,J Balvin,Rojo,86.0,0.4884
+772,reggaeton,J Balvin,"Dime (part. Revol, Bad Bunny, Arcángel y De La Ghetto)",330.0,0.5455
+773,reggaeton,J Balvin,Ahora Dice,209.0,0.6316
+774,reggaeton,J Balvin,QUÉ PRETENDES (part. Bad Bunny),147.0,0.5102
+775,reggaeton,J Balvin,Agua (part. Tainy),178.0,0.4663
+776,reggaeton,J Balvin,I Like It (feat. Bad Bunny &amp; Cardi B),641.0,0.3838
+777,reggaeton,J Balvin,Amarillo,141.0,0.4397
+778,reggaeton,J Balvin,"Bonita (Remix) (part. Jowell, Randy, Nicky Jam, Wisin, Yandel y Ozuna)",323.0,0.613
+779,reggaeton,J Balvin,Brillo (part. Rosalía),131.0,0.5725
+780,reggaeton,J Balvin,Downtown (part. Anitta),171.0,0.4444
+781,reggaeton,J Balvin,Tranquila,210.0,0.419
+782,reggaeton,J Balvin,Azul,176.0,0.4773
+783,reggaeton,J Balvin,Yo Te Lo Dije,142.0,0.3662
+784,reggaeton,J Balvin,No Es Justo (part. Zion y Lennox),205.0,0.3805
+785,reggaeton,J Balvin,Sigo Extrañandote,110.0,0.4364
+786,reggaeton,J Balvin,In Da Getto (part. Skrillex),210.0,0.319
+787,reggaeton,J Balvin,Morado,189.0,0.4762
+788,reggaeton,J Balvin,Si Necesitas Reggaeton Dale,128.0,0.375
+789,reggaeton,J Balvin,Reggaetón,174.0,0.3678
+790,reggaeton,Andy Rivera,Monumento (remix) (part. Ñejo y Ryan Castro),166.0,0.7289
+791,reggaeton,Andy Rivera,Monumento (part. Ñejo),115.0,0.7043
+792,reggaeton,Andy Rivera,Si Me Necesitas,111.0,0.3874
+793,reggaeton,Andy Rivera,Alguien Me Gusta (part. Jessi Uribe &amp; Jhonny Rivera),94.0,0.5213
+794,reggaeton,Andy Rivera,Te Pintaron Pajaritos,121.0,0.438
+795,reggaeton,Andy Rivera,Alguien Más,144.0,0.5556
+796,reggaeton,Andy Rivera,Espina de Rosa (part. Dálmata),130.0,0.4231
+797,reggaeton,Andy Rivera,Brisbane (part. Big Soto),127.0,0.6378
+798,reggaeton,Andy Rivera,La Oficial (remix) (part. Zion &amp; Lennox),154.0,0.5844
+799,reggaeton,Andy Rivera,Mañana,95.0,0.6947
+800,reggaeton,Andy Rivera,Te Perdí (part. Beele),104.0,0.6635
+801,reggaeton,Andy Rivera,Alguien Más (remix) (part. Carin Leon),118.0,0.6356
+802,reggaeton,Andy Rivera,Más Que Amigos,97.0,0.6186
+803,reggaeton,Andy Rivera,Mi Mundo Entero,100.0,0.61
+804,reggaeton,Andy Rivera,Tú Siempre Estás,106.0,0.5094
+805,reggaeton,Andy Rivera,Después De Tanto,73.0,0.6849
+806,reggaeton,Andy Rivera,Dudas De Mí,98.0,0.5816
+807,reggaeton,Andy Rivera,Lío,96.0,0.375
+808,reggaeton,Andy Rivera,Stripper (part. Noriel),155.0,0.5806
+809,reggaeton,Andy Rivera,Ateo,148.0,0.3784
+810,reggaeton,Andy Rivera,Corazón Maleante,95.0,0.5263
+811,reggaeton,Andy Rivera,La Oficial,113.0,0.5044
+812,reggaeton,Andy Rivera,Hollywood,204.0,0.5098
+813,reggaeton,Andy Rivera,Qué Le Pasa a Mi Ex,105.0,0.3048
+814,reggaeton,Andy Rivera,Que Rico Repetirlo,110.0,0.3545
+815,reggaeton,Andy Rivera,Qué Le Pasa a Mi Ex (Remix),123.0,0.5366
+816,reggaeton,Andy Rivera,Quédate,88.0,0.4886
+817,reggaeton,Andy Rivera,Algo Me Dijo,58.0,0.7931
+818,reggaeton,Andy Rivera,Involucrado,135.0,0.5481
+819,reggaeton,Andy Rivera,Los Perros Se Enamoran (part. Nicky Jam),172.0,0.4651
+820,reggaeton,Kevin Roldán,Hasta Abajo (part. Bryant Myers y Lyanno),229.0,0.6245
+821,reggaeton,Kevin Roldán,Una Noche Más (part. Nick Jam),154.0,0.5325
+822,reggaeton,Kevin Roldán,"Hasta Abajo (remix) (part. Mariah Angeliq, Bryant Myers, Brytiago, Lyanno, Brray y Jerry D)",490.0,0.598
+823,reggaeton,Kevin Roldán,PPP,70.0,0.5857
+824,reggaeton,Kevin Roldán,"Lejanía (Remix) (part. Ryan Castro, Andy Rivera, Mackie y Ben3detti)",227.0,0.6344
+825,reggaeton,Kevin Roldán,Bonita (part. Jhoni),243.0,0.465
+826,reggaeton,Kevin Roldán,Delicioso EQSEP,172.0,0.5465
+827,reggaeton,Kevin Roldán,Salgamos (part. Maluma Andy Rivera),115.0,0.6087
+828,reggaeton,Kevin Roldán,After Party (part. Bryant Myers),226.0,0.5
+829,reggaeton,Kevin Roldán,S.E.X.O (part. Bryant Myers),188.0,0.633
+830,reggaeton,Kevin Roldán,Ruleta Rusa,131.0,0.5115
+831,reggaeton,Kevin Roldán,"Manantial (remix) (part. De La Ghetto, Mackie Feat. Lyanno, Miky Woodz y KEVVO)",427.0,0.5597
+832,reggaeton,Kevin Roldán,Las 12 (part. Mackie),152.0,0.5132
+833,reggaeton,Kevin Roldán,PPP (remix) (part. Zyon y Lennox),214.0,0.5654
+834,reggaeton,Kevin Roldán,Me Hace Falta (Remix),126.0,0.5397
+835,reggaeton,Kevin Roldán,Medellín (part. Ryan Castro y Reykon),195.0,0.5641
+836,reggaeton,Kevin Roldán,Quien Te Va Amar Como Yo (ft. Ronald El Killa),123.0,0.7154
+837,reggaeton,Kevin Roldán,Nadie Como Yo,142.0,0.5423
+838,reggaeton,Kevin Roldán,UFFF (part. Bryant Myers),251.0,0.4741
+839,reggaeton,Kevin Roldán,KATERINE,159.0,0.6164
+840,reggaeton,Kevin Roldán,Si No Te Enamoras,168.0,0.5417
+841,reggaeton,Kevin Roldán,Te Odio (part. Ronald el Killa),160.0,0.5438
+842,reggaeton,Kevin Roldán,Tu Silueta (part. Almighty),213.0,0.6291
+843,reggaeton,Kevin Roldán,Na Na Na,179.0,0.4637
+844,reggaeton,Kevin Roldán,"Noche En Medallo (part. Sharik, Ryan Castro y Totoy El Frío)",256.0,0.6445
+845,reggaeton,Kevin Roldán,Ruleta Rusa (remix),222.0,0.518
+846,reggaeton,Kevin Roldán,Te Confieso,88.0,0.5682
+847,reggaeton,Kevin Roldán,Besándomeee,248.0,0.5444
+848,reggaeton,Kevin Roldán,Cali,322.0,0.4317
+849,reggaeton,Kevin Roldán,CARTAGENA (part. Bryant Myers),151.0,0.5497
+850,reggaeton,Blessd,Ziploc (Blessd Version) (part. Pirlo),267.0,0.5843
+851,reggaeton,Blessd,Instagram,174.0,0.4655
+852,reggaeton,Blessd,Ojitos Rojos (remix) (part. Ryan Castro y SOG),198.0,0.6162
+853,reggaeton,Blessd,"Dos Problemas (remix) (part. Big Soto, Javiielo y Neutro Shorty)",224.0,0.6027
+854,reggaeton,Blessd,Palabras Sobran,178.0,0.5056
+855,reggaeton,Blessd,EL RELOJ (part. Maluma),158.0,0.5759
+856,reggaeton,Blessd,Instagram (remix) (part. de La Ghetto y Darell),228.0,0.6316
+857,reggaeton,Blessd,Medallo (part. Justin Quiles y Lenny Tavárez),253.0,0.4111
+858,reggaeton,Blessd,Ojitos Rojos,156.0,0.4423
+859,reggaeton,Blessd,VICE (part. Pirlo),197.0,0.5838
+860,reggaeton,Blessd,Mi Gata (Remix) (part. Standly y El Barto),213.0,0.6667
+861,reggaeton,Blessd,BILLBOARD (part. Ovy On The Drums),171.0,0.5497
+862,reggaeton,Blessd,Qué Duro,150.0,0.5467
+863,reggaeton,Blessd,Quien TV (remix) (part. Ryan Castro),177.0,0.5819
+864,reggaeton,Blessd,Hace Tiempo,125.0,0.632
+865,reggaeton,Blessd,Imposible (remix) (part. Maluma),215.0,0.5767
+866,reggaeton,Blessd,Tendencia Global (part. Myke Towers y Ovy On The Drums),228.0,0.5746
+867,reggaeton,Blessd,Barrio Antioquia,169.0,0.7396
+868,reggaeton,Blessd,Una,138.0,0.558
+869,reggaeton,Blessd,FUMANDO (part. Ryan Castro),162.0,0.5679
+870,reggaeton,Blessd,Mi Niña (part. Ovy On The Drums),182.0,0.4231
+871,reggaeton,Blessd,Bandida (part. Philip Ariaz),164.0,0.4756
+872,reggaeton,Blessd,AP,132.0,0.75
+873,reggaeton,Blessd,El Mensaje,110.0,0.6273
+874,reggaeton,Blessd,Dos Problemas,136.0,0.5809
+875,reggaeton,Blessd,Fendi &amp; Valentino (part. Dei V y Sahir),277.0,0.5921
+876,reggaeton,Blessd,Solitario (part. Ñengo Flow),176.0,0.7045
+877,reggaeton,Blessd,Quien TV,154.0,0.5195
+878,reggaeton,Blessd,Envidia,273.0,0.8425
+879,reggaeton,Blessd,De Todo,124.0,0.5484
+880,reggaeton,Anuel AA,Yeezy (part. Ñengo Flow),372.0,0.5027
+881,reggaeton,Anuel AA,"Sola (Remix) (part. Daddy Yankee, Wisin, Farruko, Zion y Lennox)",337.0,0.6142
+882,reggaeton,Anuel AA,La Última Vez (part. Bad Bunny),285.0,0.3895
+883,reggaeton,Anuel AA,Intocable,197.0,0.7614
+884,reggaeton,Anuel AA,Ayer,209.0,0.5072
+885,reggaeton,Anuel AA,Mejor Que Yo (part. DJ Luian y Mambo Kingz) [explícita],203.0,0.5074
+886,reggaeton,Anuel AA,Nunca Sapo,263.0,0.6692
+887,reggaeton,Anuel AA,Intocable (Tiraera a Cosculluela),722.0,0.5499
+888,reggaeton,Anuel AA,Me Contagié 2,170.0,0.7471
+889,reggaeton,Anuel AA,23 Preguntas,259.0,0.5328
+890,reggaeton,Anuel AA,Me Contagié (part. Kendo Kaponi),349.0,0.616
+891,reggaeton,Anuel AA,Más Rica Que Ayer (part. Mambo Kingz y DJ Luian),188.0,0.5638
+892,reggaeton,Anuel AA,Sexo Con Cristina,286.0,0.6888
+893,reggaeton,Anuel AA,"Baby (part. Quavo, DJ Luian y Mambo Kingz)",276.0,0.6014
+894,reggaeton,Anuel AA,23 (part. Cosculluela),271.0,0.6974
+895,reggaeton,Anuel AA,Secreto (part. KAROL G),169.0,0.3964
+896,reggaeton,Anuel AA,Amanece (part. Haze),164.0,0.4817
+897,reggaeton,Anuel AA,Or Nah (Spanish remix),301.0,0.392
+898,reggaeton,Anuel AA,To Toto (part. Jon Z y Ele A El Dominio,269.0,0.4498
+899,reggaeton,Anuel AA,Tú No Lo Amas,204.0,0.5147
+900,reggaeton,Anuel AA,"47 (part. Ñengo Flow, Farruko, Bad Bunny, Darrel y Casper)",688.0,0.5262
+901,reggaeton,Anuel AA,Ella Quiere Beber (remix),194.0,0.5773
+902,reggaeton,Anuel AA,Esa Cruz,116.0,0.7845
+903,reggaeton,Anuel AA,Hasta Que Dios Diga (part. Bad Bunny),262.0,0.5458
+904,reggaeton,Anuel AA,1942,108.0,0.8241
+905,reggaeton,Anuel AA,Soldado y Profeta,538.0,0.7677
+906,reggaeton,Anuel AA,¿Qué Nos Pasó?,216.0,0.6852
+907,reggaeton,Anuel AA,"China (part. Daddy Yankee, Karol G, Ozuna y J Balvin)",291.0,0.5258
+908,reggaeton,Anuel AA,"Esclava (remix) (part. Bryant Myers, Anonimus y Almighty) [explícita]",300.0,0.7333
+909,reggaeton,Anuel AA,"Ayer 2 (part. J Balvin, Cosculluela y Nicky Jam)",402.0,0.5249
+910,reggaeton,Daddy Yankee,Dónde Están Las Gatas (part. Nicky Jam),193.0,0.2746
+911,reggaeton,Daddy Yankee,"Danza Kuduro (Remix) (part. Don Omar, Lucenzo y Arcangel)",207.0,0.4831
+912,reggaeton,Daddy Yankee,Gasolina,180.0,0.3889
+913,reggaeton,Daddy Yankee,Hasta Abajo (remix) (part. Don Omar),312.0,0.5128
+914,reggaeton,Daddy Yankee,Somos de Calle,150.0,0.66
+915,reggaeton,Daddy Yankee,"Somos De Calle (remix) (part. Arcángel, De La Ghetto, Guelo Star, MC Ceja, Voltio, Ñejo, Chyno Nyno, Cosculluela y Baby Rasta)",547.0,0.7258
+916,reggaeton,Daddy Yankee,La Despedida,147.0,0.4286
+917,reggaeton,Daddy Yankee,Llamado de Emergencia,157.0,0.5032
+918,reggaeton,Daddy Yankee,Pasarela,162.0,0.3951
+919,reggaeton,Daddy Yankee,Los 12 Discipulos,277.0,0.769
+920,reggaeton,Daddy Yankee,La Quemona,450.0,0.4956
+921,reggaeton,Daddy Yankee,"Lo Que Pasó, Pasó",148.0,0.4122
+922,reggaeton,Daddy Yankee,Con Calma (part. Snow),284.0,0.4718
+923,reggaeton,Daddy Yankee,De Vuelta Pa' La Vuelta (part. Marc Anthony),178.0,0.6236
+924,reggaeton,Daddy Yankee,Si Supieras (part. Wisin y Yandel),165.0,0.5818
+925,reggaeton,Daddy Yankee,"Llegamos a La Disco (feat. De La Ghetto, Baby Rasta &amp; Gringo, Kendo Kaponi, Ñengo Flow, Farruko, Kyza y Arcángel)",540.0,0.7056
+926,reggaeton,Daddy Yankee,Vuelve (part. Bad Bunny),218.0,0.6697
+927,reggaeton,Daddy Yankee,"La, La, La, La (feat. Baby Rasta Y Gringo)",287.0,0.5192
+928,reggaeton,Daddy Yankee,Limbo,215.0,0.4419
+929,reggaeton,Daddy Yankee,Ella Me Levantó,192.0,0.3177
+930,reggaeton,Daddy Yankee,Me Quedo,149.0,0.3087
+931,reggaeton,Daddy Yankee,Dura,263.0,0.403
+932,reggaeton,Daddy Yankee,"Dura (remix) (part. Bad Bunny, Natti Natasha y Becky G)",308.0,0.4448
+933,reggaeton,Daddy Yankee,La Nueva y La Ex,124.0,0.5565
+934,reggaeton,Daddy Yankee,No Es Culpa Mía,89.0,0.427
+935,reggaeton,Daddy Yankee,Yo Voy (part. Zion &amp; Lennox),140.0,0.4857
+936,reggaeton,Daddy Yankee,Tu Príncipe (part. Zion y Lennox),170.0,0.4529
+937,reggaeton,Daddy Yankee,La fuga,211.0,0.4787
+938,reggaeton,Daddy Yankee,Mas Fama Y Dinero,193.0,0.7098
+939,reggaeton,Daddy Yankee,Rompe,269.0,0.4015
+940,reggaeton,Don Omar,Ojitos Chiquititos,199.0,0.5578
+941,reggaeton,Don Omar,Blue Zone,294.0,0.398
+942,reggaeton,Don Omar,Ojitos Chiquitos,201.0,0.5672
+943,reggaeton,Don Omar,El Señor de La Noche,121.0,0.5207
+944,reggaeton,Don Omar,Dutty Love (part. Natti Natasha),242.0,0.2934
+945,reggaeton,Don Omar,Danza Kuduro (part. Lucenzo),265.0,0.2302
+946,reggaeton,Don Omar,Bandoleros (part. Tego Calderón),253.0,0.6522
+947,reggaeton,Don Omar,Anda Sola,163.0,0.4294
+948,reggaeton,Don Omar,Dile,143.0,0.3077
+949,reggaeton,Don Omar,Te Quiero Pa´Mi,149.0,0.5302
+950,reggaeton,Don Omar,La vecinita tiene antojo,199.0,0.5879
+951,reggaeton,Don Omar,Hasta Abajo,273.0,0.4103
+952,reggaeton,Don Omar,Salió El Sol,409.0,0.2616
+953,reggaeton,Don Omar,Taboo,192.0,0.3438
+954,reggaeton,Don Omar,Virtual Diva,179.0,0.4749
+955,reggaeton,Don Omar,Dale Don Dale,197.0,0.3807
+956,reggaeton,Don Omar,Hooka,330.0,0.4788
+957,reggaeton,Don Omar,Asi Hasta Abajo Soy Yo  Remix (feat Daddy Yankee),237.0,0.6287
+958,reggaeton,Don Omar,La Traicionera,121.0,0.4463
+959,reggaeton,Don Omar,Conteo,161.0,0.5031
+960,reggaeton,Don Omar,Podemos Repetirlo (part. Chencho Corleone),165.0,0.5818
+961,reggaeton,Don Omar,La Batidora,176.0,0.2557
+962,reggaeton,Don Omar,Angelito Vuelva,184.0,0.4293
+963,reggaeton,Don Omar,Pobre Diabla,114.0,0.193
+964,reggaeton,Don Omar,Aunque Te Fuiste,166.0,0.3434
+965,reggaeton,Don Omar,Flow natural,350.0,0.5629
+966,reggaeton,Don Omar,Otra Noche,145.0,0.3034
+967,reggaeton,Don Omar,"El Duro Remix (feat. Kendo Kaponi, Daddy Yankee Y Baby Rasta)",302.0,0.7748
+968,reggaeton,Don Omar,"Danza Kuduro (remix Feat Lucenzo, Daddy Yankee &amp; Arcangel)",239.0,0.4937
+969,reggaeton,Don Omar,Agradecido,168.0,0.5536
+970,reggaeton,Arcángel,Por Amar a Ciegas,99.0,0.6061
+971,reggaeton,Arcángel,JS4E,246.0,0.4878
+972,reggaeton,Arcángel,La Jumpa (part. Bad Bunny) [explícita],294.0,0.7007
+973,reggaeton,Arcángel,Me Prefieres a Mí,130.0,0.5
+974,reggaeton,Arcángel,Aparentemente (part. De La Ghetto y Yaga &amp; Mackie),167.0,0.6587
+975,reggaeton,Arcángel,Hace Mucho Tiempo,151.0,0.5894
+976,reggaeton,Arcángel,Flow Cabron,151.0,0.6755
+977,reggaeton,Arcángel,Me Acostumbré,229.0,0.7118
+978,reggaeton,Arcángel,Original (part. Bad Bunny),237.0,0.4641
+979,reggaeton,Arcángel,Ayer Te Vi Bonita,147.0,0.4626
+980,reggaeton,Arcángel,A Ella Le Gusta Agresivo,20.0,0.8
+981,reggaeton,Arcángel,Soy una gargola,192.0,0.4948
+982,reggaeton,Arcángel,Contigo Quiero Amores,175.0,0.6629
+983,reggaeton,Arcángel,Bonita,146.0,0.4521
+984,reggaeton,Arcángel,Flow Violento,183.0,0.6066
+985,reggaeton,Arcángel,La Ruta (part. YOVNGCHIMI),278.0,0.5612
+986,reggaeton,Arcángel,Andan Diciendo,147.0,0.7007
+987,reggaeton,Arcángel,Sigues Con Él (part. Sech),156.0,0.5833
+988,reggaeton,Arcángel,Tengo Tantas Ganas de Ti,91.0,0.7363
+989,reggaeton,Arcángel,50 Sombras De Austin,114.0,0.6579
+990,reggaeton,Arcángel,"Millones (part. J. Menez, Jon Z, DJ Luian, Mambo Kingz, Bryant Myers, El Alfa y Mozart La Para)",437.0,0.6957
+991,reggaeton,Arcángel,Sigues Con Él (remix) (part. Sech y Romeo Santos),133.0,0.7218
+992,reggaeton,Arcángel,Pa Que La Pases Bien,200.0,0.53
+993,reggaeton,Arcángel,Mi Testimonio,226.0,0.8274
+994,reggaeton,Arcángel,Vamos En Un Viaje,158.0,0.5443
+995,reggaeton,Arcángel,"Nos Vamos de Shopping (remix) (part. Yaga y Mackie, J Alvarez, Jory y Farruko)",384.0,0.6562
+996,reggaeton,Arcángel,Agresivo,164.0,0.5915
+997,reggaeton,Arcángel,Po' Encima (part. Bryant Myers),264.0,0.5909
+998,reggaeton,Arcángel,"Tussi (part. Justin Quiles, Eladio Carrion y De La Ghetto)",226.0,0.5708
+999,reggaeton,Arcángel,Favorito de Los Capos (Remix) (part. Bad Bunny y Flow Mafia),347.0,0.5331
+1000,reggaeton,Farruko,Delincuente (part. Anuel AA y Kendo Kaponi),354.0,0.6723
+1001,reggaeton,Farruko,Pepas,140.0,0.4214
+1002,reggaeton,Farruko,"No Te Enamores (remix) (part. Milly, Jay Wheeler, Nio Garcia y Amenazzy)",258.0,0.5504
+1003,reggaeton,Farruko,"Me Quieren Matar (part. Super Yei, Anuel AA, Kendo Kaponi, Ozuna, Cosculluela, Juanka El Problematik, Noriel y PACHO)",670.0,0.6657
+1004,reggaeton,Farruko,"Panda (Remix) (part. Almighty, Daddy Yankee y Cosculluela)",514.0,0.5545
+1005,reggaeton,Farruko,Quiéreme (part. Jacob Forever),163.0,0.4785
+1006,reggaeton,Farruko,"Maliante HP (Remix) (part. Anuel AA, Noriel, Nio Garcia, Darkiel, Almighty Benny Benni y Bryant Myers)",420.0,0.6548
+1007,reggaeton,Farruko,Esta Vida (part. Marshmello),123.0,0.4309
+1008,reggaeton,Farruko,Cositas Que Haciamos,167.0,0.5389
+1009,reggaeton,Farruko,Chillax,130.0,0.7231
+1010,reggaeton,Farruko,Lejos de aquí,128.0,0.6406
+1011,reggaeton,Farruko,Luz (part. Akim),233.0,0.4163
+1012,reggaeton,Farruko,Pa' Romper La Discoteca (Remix) (part. Daddy Yankee y Yomo),323.0,0.5789
+1013,reggaeton,Farruko,Passion Wine,364.0,0.4148
+1014,reggaeton,Farruko,Besas Tan Bien,134.0,0.4776
+1015,reggaeton,Farruko,Si Se Da (part. Myke Towers),220.0,0.6136
+1016,reggaeton,Farruko,Misericordia (part. Onell Diaz),109.0,0.6422
+1017,reggaeton,Farruko,Baby (part. Nicky Jam y Amenazzy),176.0,0.5057
+1018,reggaeton,Farruko,"No Hago Coro (remix) (part. Ghetto, El Alfa, Nino Freestyle, Bryant Myers, Miky Woods &amp; Secreto)",385.0,0.787
+1019,reggaeton,Farruko,Hola Beba,112.0,0.6339
+1020,reggaeton,Farruko,Hoy (remix),229.0,0.6463
+1021,reggaeton,Farruko,"Si Me Muero (part. Pepe Quintana, Ñengo Flow, Lary Over y Darell)",316.0,0.519
+1022,reggaeton,Farruko,Pierdo La Cabeza (Remix) (part. Zion &amp; Lennox y Yandel),231.0,0.5541
+1023,reggaeton,Farruko,Obsesionado,178.0,0.4326
+1024,reggaeton,Farruko,Pasa_je_ro,160.0,0.4875
+1025,reggaeton,Farruko,"Liberace (Remix 2) (part. De La Ghetto, Bad Bunny, Bryant Myers, Darell, Noriel, Alexio La Bestia y Anuel AA)",460.0,0.7326
+1026,reggaeton,Farruko,Su Hija Me Gusta (feat. José Feliciano),181.0,0.5525
+1027,reggaeton,Farruko,Mi Forma de Ser,145.0,0.531
+1028,reggaeton,Farruko,El Incomprendido (part. Victor Cardenas y Dj Adoni),175.0,0.5086
+1029,reggaeton,Farruko,"Lo Que Yo Diga (Dema Ga Ge Gi Go Gu Remix) (part. Bad Bunny, El Alfa El Jefe, Jon Z y Miky Woodz)",318.0,0.6321
+1030,reggaeton,Wisin &amp; Yandel,Me Estas Tentando [explícita],253.0,0.4862
+1031,reggaeton,Wisin &amp; Yandel,"Mayor Que Yo (part. Daddy Yankee, Baby Ranks y Tony Tun Tun)",265.0,0.6415
+1032,reggaeton,Wisin &amp; Yandel,Abusadora,163.0,0.6503
+1033,reggaeton,Wisin &amp; Yandel,Mirala Bien,137.0,0.5839
+1034,reggaeton,Wisin &amp; Yandel,El Telefono,169.0,0.497
+1035,reggaeton,Wisin &amp; Yandel,Rakata,164.0,0.5122
+1036,reggaeton,Wisin &amp; Yandel,Algo Me Gusta de Ti (part. Chris Brown y T-pain),174.0,0.4598
+1037,reggaeton,Wisin &amp; Yandel,Ahora Es,222.0,0.464
+1038,reggaeton,Wisin &amp; Yandel,Besos Mojados,229.0,0.5109
+1039,reggaeton,Wisin &amp; Yandel,Dime que te paso,234.0,0.4316
+1040,reggaeton,Wisin &amp; Yandel,Estoy Enamorado,175.0,0.52
+1041,reggaeton,Wisin &amp; Yandel,Gracias a Ti,162.0,0.5556
+1042,reggaeton,Wisin &amp; Yandel,Pam Pam,194.0,0.5052
+1043,reggaeton,Wisin &amp; Yandel,Nuestro amor se acabó,291.0,0.5911
+1044,reggaeton,Wisin &amp; Yandel,Besos Moja2 (part. ROSALÍA),188.0,0.6968
+1045,reggaeton,Wisin &amp; Yandel,Yo No Necesito Vacaciones,219.0,0.4338
+1046,reggaeton,Wisin &amp; Yandel,Sexy Movimiento,193.0,0.5389
+1047,reggaeton,Wisin &amp; Yandel,Noche de Entierro,304.0,0.5724
+1048,reggaeton,Wisin &amp; Yandel,Yo Te Quiero,173.0,0.6012
+1049,reggaeton,Wisin &amp; Yandel,Lloro por ti (ft. Enrique Iglesias),142.0,0.6268
+1050,reggaeton,Wisin &amp; Yandel,Pegao,227.0,0.4758
+1051,reggaeton,Wisin &amp; Yandel,Ganas de Ti (part. Sech),165.0,0.6061
+1052,reggaeton,Wisin &amp; Yandel,Nadie Como Tu,213.0,0.5164
+1053,reggaeton,Wisin &amp; Yandel,Aullando (part. Romeo Santos),188.0,0.6862
+1054,reggaeton,Wisin &amp; Yandel,MySpace (feat don omar),214.0,0.4486
+1055,reggaeton,Wisin &amp; Yandel,No Se Olvida,201.0,0.5672
+1056,reggaeton,Wisin &amp; Yandel,Porque Me Tratas Así?,218.0,0.4404
+1057,reggaeton,Wisin &amp; Yandel,Quizás (Remix),189.0,0.5873
+1058,reggaeton,Wisin &amp; Yandel,BAILANDO LA TOQUE,189.0,0.5079
+1059,reggaeton,Wisin &amp; Yandel,El Que Te Puso A Bellaquiar,141.0,0.6738
+1060,reggaeton,Nicky Jam,El Perdón (part. Enrique Iglesias),105.0,0.581
+1061,reggaeton,Nicky Jam,"Travesuras (remix) (part. De La Ghetto, J Balvin, Zion y Arcangel)",298.0,0.5134
+1062,reggaeton,Nicky Jam,Travesuras,153.0,0.4575
+1063,reggaeton,Nicky Jam,El Amante (Remix) (part. Ozuna y Bad Bunny),186.0,0.5
+1064,reggaeton,Nicky Jam,En La Cama (part. Daddy Yankee),195.0,0.2
+1065,reggaeton,Nicky Jam,Te Busco,199.0,0.7035
+1066,reggaeton,Nicky Jam,Hasta El Amanecer,85.0,0.6941
+1067,reggaeton,Nicky Jam,"La Ocasión (Remix) (part. Ozuna, De La Ghetto, Farruko, Arcangel, J Balvin, Daddy Yankee, Zion, Anuel)",458.0,0.6507
+1068,reggaeton,Nicky Jam,69 (part. Feid) [explícita],169.0,0.6154
+1069,reggaeton,Nicky Jam,El Amante,122.0,0.4426
+1070,reggaeton,Nicky Jam,X (part. J Balvin),83.0,0.6988
+1071,reggaeton,Nicky Jam,Por El Momento (part. Plan B),135.0,0.6074
+1072,reggaeton,Nicky Jam,"X (Remix) (part. J Balvin, Maluma y Ozuna)",188.0,0.6755
+1073,reggaeton,Nicky Jam,Te Robaré (part. Ozuna),125.0,0.584
+1074,reggaeton,Nicky Jam,Mil Lágrimas,117.0,0.5556
+1075,reggaeton,Nicky Jam,Voy a Beber,130.0,0.4462
+1076,reggaeton,Nicky Jam,Piensas En Mi,142.0,0.4648
+1077,reggaeton,Nicky Jam,Si Tu La Ves (part. Wisin),159.0,0.522
+1078,reggaeton,Nicky Jam,"Ven y Hazlo Tú (part. J Balvin, Anuel AA y Arcángel)",300.0,0.63
+1079,reggaeton,Nicky Jam,Travesuras,110.0,0.6273
+1080,reggaeton,Nicky Jam,Atrévete (part. Sech),142.0,0.4507
+1081,reggaeton,Nicky Jam,Yo No Soy Tu Marido,172.0,0.3721
+1082,reggaeton,Nicky Jam,El Ganador,139.0,0.777
+1083,reggaeton,Nicky Jam,"No Llores Más (remix) (part. J Alvarez, Nicky Jam y Ñejo)",211.0,0.5592
+1084,reggaeton,Nicky Jam,Si Tu No Estas,167.0,0.4491
+1085,reggaeton,Nicky Jam,Juegos Prohibidos (Remix) (part. Maluma),103.0,0.7476
+1086,reggaeton,Nicky Jam,Live It Up (feat. Will Smith &amp; Era Istrefi),482.0,0.2469
+1087,reggaeton,Nicky Jam,Estrella,100.0,0.41
+1088,reggaeton,Nicky Jam,"Sunflower (remix) (feat. Swae Lee, &amp; Prince Royce)",173.0,0.526
+1089,reggaeton,Nicky Jam,Desahogo,196.0,0.8112
+1090,reggaeton,Sech,Miss Lonely (remix 2) (part. Karol G y Anuel AA),236.0,0.4576
+1091,reggaeton,Sech,"Quizás (part. Rich Music, Dalex, Justin Quiles, Wisin, Zion, Lenny Tavarez y Feid)",204.0,0.6618
+1092,reggaeton,Sech,"Qué Más Pues (remix) (part. Justin Quiles, Maluma, Nicky Jam, Farruko, Dalex y Lenny Tavárez)",293.0,0.5597
+1093,reggaeton,Sech,"Relación (remix) (part. Daddy Yankee, J Balvin, Rosalía y Farruko)",254.0,0.6732
+1094,reggaeton,Sech,911 (remix) (part. Jhay Cortez),229.0,0.6463
+1095,reggaeton,Sech,"Otro Trago (remix) (part. Darell, Nicky Jam, Ozuna y Anuel AA)",312.0,0.5256
+1096,reggaeton,Sech,"Miss Lonely (remix) (part. Justin Quiles, Dimelo Flow y De La Ghetto)",173.0,0.6647
+1097,reggaeton,Sech,911,168.0,0.4286
+1098,reggaeton,Sech,Cafe Malibú (part. Mora y Saiko),181.0,0.768
+1099,reggaeton,Sech,Otro Trago (part. Darell),204.0,0.5735
+1100,reggaeton,Sech,Qué Más Pues (part. Justin Quiles),150.0,0.4667
+1101,reggaeton,Sech,X Ti,97.0,0.4227
+1102,reggaeton,Sech,Sal y Perrea (remix) (part. Daddy Yankee y J Balvin),302.0,0.5066
+1103,reggaeton,Sech,Por Ti,97.0,0.3918
+1104,reggaeton,Sech,Wao,181.0,0.3702
+1105,reggaeton,Sech,Falsas Promesas,134.0,0.4776
+1106,reggaeton,Sech,Relación,143.0,0.4615
+1107,reggaeton,Sech,"Perreo En La Luna (part. Rich Music, Dalex, Justin Quiles, Lenny Tavárez y Feid)",198.0,0.5354
+1108,reggaeton,Sech,Sal y Perrea,280.0,0.3643
+1109,reggaeton,Sech,Playa (part. Nicky Jam y Rauw Alejandro),117.0,0.6581
+1110,reggaeton,Sech,Trofeo,165.0,0.503
+1111,reggaeton,Sech,La Vida,111.0,0.7297
+1112,reggaeton,Sech,Si Te Vas (part. Ozuna),141.0,0.461
+1113,reggaeton,Sech,Con bochinche,162.0,0.6049
+1114,reggaeton,Sech,5 Estrellas (part. Reik),119.0,0.5798
+1115,reggaeton,Sech,Miss Lonely,121.0,0.5289
+1116,reggaeton,Sech,PSL,139.0,0.5971
+1117,reggaeton,Sech,Borracho (part. DJ Khaled),192.0,0.5
+1118,reggaeton,Sech,Feliz de Mentira,191.0,0.3927
+1119,reggaeton,Sech,"Solita (part. Farruko, Zion y Lennox)",195.0,0.5949
+1120,reggaeton,Plan B,¿Por Que Te Demoras?,171.0,0.5673
+1121,reggaeton,Plan B,Candy,247.0,0.4939
+1122,reggaeton,Plan B,Es Un Secreto,136.0,0.5294
+1123,reggaeton,Plan B,Fanática Sensual,157.0,0.5096
+1124,reggaeton,Plan B,Si No Le Contesto (remix) (part. Tony Dize y Zion &amp; Lennox),170.0,0.6235
+1125,reggaeton,Plan B,Si No Le Contesto,144.0,0.5764
+1126,reggaeton,Plan B,Choca,214.0,0.4065
+1127,reggaeton,Plan B,Guatauba,136.0,0.4559
+1128,reggaeton,Plan B,Automovil,136.0,0.6397
+1129,reggaeton,Plan B,Plan B,235.0,0.5872
+1130,reggaeton,Plan B,Te Dijeron,118.0,0.8305
+1131,reggaeton,Plan B,Amor de Antes,260.0,0.7077
+1132,reggaeton,Plan B,Zapatito Roto (feat. Tego Calderón),245.0,0.6776
+1133,reggaeton,Plan B,Mi Vecinita,258.0,0.3605
+1134,reggaeton,Plan B,Te Acuerdas De Mi,156.0,0.7244
+1135,reggaeton,Plan B,Se Cree Mala,217.0,0.5668
+1136,reggaeton,Plan B,Frikitona,132.0,0.5833
+1137,reggaeton,Plan B,Partysera,308.0,0.5487
+1138,reggaeton,Plan B,Bellaqueo,168.0,0.4405
+1139,reggaeton,Plan B,El Amor No Existe,119.0,0.6807
+1140,reggaeton,Plan B,Es Un Secreto,92.0,0.7826
+1141,reggaeton,Plan B,Chica Ven,258.0,0.3915
+1142,reggaeton,Plan B,Juegas Con Mi Mente (feat. J Alvarez),185.0,0.5189
+1143,reggaeton,Plan B,Love And Sex,165.0,0.6182
+1144,reggaeton,Plan B,No Quiero Que Te Vayas,126.0,0.873
+1145,reggaeton,Plan B,Fronteo,130.0,0.8769
+1146,reggaeton,Plan B,Lloras,137.0,0.562
+1147,reggaeton,Plan B,No Puedo Estar Sin Sex,114.0,0.6754
+1148,reggaeton,Plan B,No Puedo Estar Sin Ti,109.0,0.6697
+1149,reggaeton,Plan B,Tu Sabes,130.0,0.6077
+1150,reggaeton,Zion &amp; Lennox,Hay Algo En Ti,165.0,0.4061
+1151,reggaeton,Zion &amp; Lennox,Me Pones En Tension,166.0,0.3434
+1152,reggaeton,Zion &amp; Lennox,More,167.0,0.4192
+1153,reggaeton,Zion &amp; Lennox,Otra vez (part. J. Balvin),106.0,0.5189
+1154,reggaeton,Zion &amp; Lennox,Zun Dada,238.0,0.3235
+1155,reggaeton,Zion &amp; Lennox,Bandida,133.0,0.3985
+1156,reggaeton,Zion &amp; Lennox,Amor Genuino,220.0,0.5727
+1157,reggaeton,Zion &amp; Lennox,Hoy Lo Siento,190.0,0.4316
+1158,reggaeton,Zion &amp; Lennox,Berlin (part. Maria Becerra),167.0,0.479
+1159,reggaeton,Zion &amp; Lennox,Pierdo La Cabeza,157.0,0.4204
+1160,reggaeton,Zion &amp; Lennox,Mi Tesoro (part. Nicky Jam),178.0,0.6011
+1161,reggaeton,Zion &amp; Lennox,La Player (Bandolera),203.0,0.3596
+1162,reggaeton,Zion &amp; Lennox,Mi Cama Huele a Ti,151.0,0.3576
+1163,reggaeton,Zion &amp; Lennox,Vamonos feat. Eloy,241.0,0.4647
+1164,reggaeton,Zion &amp; Lennox,Yo Voy A Llegar,109.0,0.4037
+1165,reggaeton,Zion &amp; Lennox,Cuanto Tengo Que Esperar,167.0,0.3413
+1166,reggaeton,Zion &amp; Lennox,Yo Voy,138.0,0.4783
+1167,reggaeton,Zion &amp; Lennox,Doncella,134.0,0.5299
+1168,reggaeton,Zion &amp; Lennox,A Ti Yo No Te Miento,82.0,0.6585
+1169,reggaeton,Zion &amp; Lennox,Yo Tengo Una Gata,745.0,0.6067
+1170,reggaeton,Zion &amp; Lennox,Embriágame,137.0,0.5474
+1171,reggaeton,Zion &amp; Lennox,Veo,198.0,0.3788
+1172,reggaeton,Zion &amp; Lennox,Perdoname,93.0,0.6022
+1173,reggaeton,Zion &amp; Lennox,Ahora lloras por mi,120.0,0.6
+1174,reggaeton,Zion &amp; Lennox,Momentos remix (feat. Arcangel e De la Ghetto),150.0,0.74
+1175,reggaeton,Zion &amp; Lennox,Seré Yo,109.0,0.5688
+1176,reggaeton,Zion &amp; Lennox,Te Vas,146.0,0.4247
+1177,reggaeton,Zion &amp; Lennox,Celos,148.0,0.3851
+1178,reggaeton,Zion &amp; Lennox,Ella es una bandolera,137.0,0.4818
+1179,reggaeton,Zion &amp; Lennox,Guayo (part. Anuel AA y Haze),191.0,0.4241
+1180,reggaeton,Chino &amp; Nacho,Me Voy Enamorando (remix) (part. Farruko),166.0,0.506
+1181,reggaeton,Chino &amp; Nacho,Andas En Mi Cabeza (part. Daddy Yankee),238.0,0.4664
+1182,reggaeton,Chino &amp; Nacho,Niña Bonita,162.0,0.5802
+1183,reggaeton,Chino &amp; Nacho,Tu Angelito,172.0,0.314
+1184,reggaeton,Chino &amp; Nacho,El Poeta,171.0,0.4269
+1185,reggaeton,Chino &amp; Nacho,Ya Se Apagó La Llama (part. Ken-Y),129.0,0.5659
+1186,reggaeton,Chino &amp; Nacho,Tu Me Quemas,222.0,0.2928
+1187,reggaeton,Chino &amp; Nacho,Niña Bonita,172.0,0.5291
+1188,reggaeton,Chino &amp; Nacho,Lo Que No Sabes Tú,181.0,0.674
+1189,reggaeton,Chino &amp; Nacho,Mi Chica Ideal,161.0,0.559
+1190,reggaeton,Chino &amp; Nacho,"Andas En Mi Cabeza (Remix) (part. Daddy Yankee, Don Omar y Wisin)",255.0,0.5843
+1191,reggaeton,Chino &amp; Nacho,"Bla,Bla,Bla",231.0,0.4372
+1192,reggaeton,Chino &amp; Nacho,¿Será Que Tengo La Culpa? (part. Luis Enrique),75.0,0.64
+1193,reggaeton,Chino &amp; Nacho,Queriéndote,119.0,0.6387
+1194,reggaeton,Chino &amp; Nacho,Raro,156.0,0.6603
+1195,reggaeton,Chino &amp; Nacho,Bebé Bonita,178.0,0.382
+1196,reggaeton,Chino &amp; Nacho,Dame Un Besito,154.0,0.4545
+1197,reggaeton,Chino &amp; Nacho,"Me mata, Me mata",189.0,0.4762
+1198,reggaeton,Chino &amp; Nacho,Miss Venezuela 2007,103.0,0.4854
+1199,reggaeton,Chino &amp; Nacho,Una Oportunidad,145.0,0.5655
+1200,reggaeton,Chino &amp; Nacho,Antivirus,163.0,0.6074
+1201,reggaeton,Chino &amp; Nacho,Sin Ti,151.0,0.5033
+1202,reggaeton,Chino &amp; Nacho,Tu Perfil (part. Rafa Pabön),149.0,0.4899
+1203,reggaeton,Chino &amp; Nacho,Asi Eres Tu,140.0,0.6
+1204,reggaeton,Chino &amp; Nacho,Amarte Así,154.0,0.4675
+1205,reggaeton,Chino &amp; Nacho,Don Juan,247.0,0.3887
+1206,reggaeton,Chino &amp; Nacho,Esos Besos Que Me Das,108.0,0.4722
+1207,reggaeton,Chino &amp; Nacho,Haz Lo Que Quieras,165.0,0.5636
+1208,reggaeton,Chino &amp; Nacho,Tú Y Yo,156.0,0.6282
+1209,reggaeton,Chino &amp; Nacho,Cantinero,211.0,0.2607
+1210,reggaeton,Andy Rivera,Monumento (remix) (part. Ñejo y Ryan Castro),166.0,0.7289
+1211,reggaeton,Andy Rivera,Monumento (part. Ñejo),115.0,0.7043
+1212,reggaeton,Andy Rivera,Si Me Necesitas,111.0,0.3874
+1213,reggaeton,Andy Rivera,Alguien Me Gusta (part. Jessi Uribe &amp; Jhonny Rivera),94.0,0.5213
+1214,reggaeton,Andy Rivera,Te Pintaron Pajaritos,121.0,0.438
+1215,reggaeton,Andy Rivera,Alguien Más,144.0,0.5556
+1216,reggaeton,Andy Rivera,Brisbane (part. Big Soto),127.0,0.6378
+1217,reggaeton,Andy Rivera,Espina de Rosa (part. Dálmata),130.0,0.4231
+1218,reggaeton,Andy Rivera,Mañana,95.0,0.6947
+1219,reggaeton,Andy Rivera,Te Perdí (part. Beele),104.0,0.6635
+1220,reggaeton,Andy Rivera,Alguien Más (remix) (part. Carin Leon),118.0,0.6356
+1221,reggaeton,Andy Rivera,La Oficial (remix) (part. Zion &amp; Lennox),154.0,0.5844
+1222,reggaeton,Andy Rivera,Después De Tanto,73.0,0.6849
+1223,reggaeton,Andy Rivera,Más Que Amigos,97.0,0.6186
+1224,reggaeton,Andy Rivera,Mi Mundo Entero,100.0,0.61
+1225,reggaeton,Andy Rivera,Stripper (part. Noriel),155.0,0.5806
+1226,reggaeton,Andy Rivera,La Oficial,113.0,0.5044
+1227,reggaeton,Andy Rivera,Algo Me Dijo,58.0,0.7931
+1228,reggaeton,Andy Rivera,Dudas De Mí,98.0,0.5816
+1229,reggaeton,Andy Rivera,Ateo,148.0,0.3784
+1230,reggaeton,Andy Rivera,Lío,96.0,0.375
+1231,reggaeton,Andy Rivera,Que Rico Repetirlo,110.0,0.3545
+1232,reggaeton,Andy Rivera,Tú Siempre Estás,106.0,0.5094
+1233,reggaeton,Andy Rivera,Corazón Maleante,95.0,0.5263
+1234,reggaeton,Andy Rivera,Qué Le Pasa a Mi Ex,105.0,0.3048
+1235,reggaeton,Andy Rivera,Hollywood,204.0,0.5098
+1236,reggaeton,Andy Rivera,Me Haces Falta,112.0,0.5268
+1237,reggaeton,Andy Rivera,Por Todo Me Peleas,57.0,0.6491
+1238,reggaeton,Andy Rivera,Quédate,88.0,0.4886
+1239,reggaeton,Andy Rivera,Fuego,122.0,0.4426
+1240,rock,albertucho,alimaña pasajera,108.0,0.5278
+1241,rock,albertucho,asi me va,96.0,0.8438
+1242,rock,albertucho,basura en la que nacen flores,62.0,0.6774
+1243,rock,albertucho,cristal ahumado,81.0,0.716
+1244,rock,albertucho,descuida,89.0,0.809
+1245,rock,albertucho,el pais de los televisores,119.0,0.7899
+1246,rock,albertucho,el pisito,87.0,0.5632
+1247,rock,albertucho,el ángel de la guarda,63.0,0.7143
+1248,rock,albertucho,frio,83.0,0.6747
+1249,rock,albertucho,la carta,58.0,0.8966
+1250,rock,albertucho,la gata,88.0,0.7727
+1251,rock,albertucho,la persiana,121.0,0.595
+1252,rock,albertucho,la silla de plástico,92.0,0.7065
+1253,rock,albertucho,las moscas,75.0,0.6667
+1254,rock,albertucho,lo venidero,41.0,0.9024
+1255,rock,albertucho,los mastodontes de corazón,92.0,0.6522
+1256,rock,albertucho,manos de trapo (mas de locos que de sabios),88.0,0.6591
+1257,rock,albertucho,matanza de almas,53.0,0.717
+1258,rock,albertucho,mentira,70.0,0.9714
+1259,rock,albertucho,mi conciencia,62.0,0.7419
+1260,rock,albertucho,mi estrella,87.0,0.5977
+1261,rock,albertucho,mi voz,41.0,0.9268
+1262,rock,albertucho,ni el mismo dios,71.0,0.7324
+1263,rock,albertucho,no pueden florecer,64.0,0.6094
+1264,rock,albertucho,partira,59.0,0.7119
+1265,rock,albertucho,pelos gato,70.0,0.7857
+1266,rock,albertucho,piltrafilla (con kutxi romero),88.0,0.5909
+1267,rock,albertucho,que se callen los profetas,156.0,0.5513
+1268,rock,albertucho,vivir viviendo,42.0,0.7857
+1269,rock,albertucho,volvi a la barra,95.0,0.6316
+1270,rock,andrés calamaro,alta suciedad,78.0,0.5641
+1271,rock,andrés calamaro,cartas sin marcar,121.0,0.2231
+1272,rock,andrés calamaro,crimenes perfectos,95.0,0.4
+1273,rock,andrés calamaro,donde manda marinero,94.0,0.6064
+1274,rock,andrés calamaro,el salmón,107.0,0.6355
+1275,rock,andrés calamaro,estadio azteca,55.0,0.8364
+1276,rock,andrés calamaro,flaca,54.0,0.7778
+1277,rock,andrés calamaro,la lengua popular,88.0,0.7955
+1278,rock,andrés calamaro,la noche,81.0,0.4321
+1279,rock,andrés calamaro,la parte de adelante,124.0,0.5
+1280,rock,andrés calamaro,loco,67.0,0.4179
+1281,rock,andrés calamaro,los aviones,36.0,0.5556
+1282,rock,andrés calamaro,media verónica,77.0,0.7662
+1283,rock,andrés calamaro,mi enfermedad,56.0,0.6071
+1284,rock,andrés calamaro,mil horas,81.0,0.4321
+1285,rock,andrés calamaro,paloma,86.0,0.7674
+1286,rock,andrés calamaro,rehenes,60.0,0.8167
+1287,rock,andrés calamaro,sin documentos,101.0,0.3663
+1288,rock,andrés calamaro,te quiero igual,78.0,0.359
+1289,rock,andrés calamaro,tuyo siempre,39.0,0.7692
+1290,rock,café tacvba,aviéntame,41.0,0.6829
+1291,rock,café tacvba,chilanga banda,133.0,0.5714
+1292,rock,café tacvba,déjate caer,150.0,0.3733
+1293,rock,café tacvba,el baile y el salón,55.0,0.7818
+1294,rock,café tacvba,el espacio,146.0,0.3288
+1295,rock,café tacvba,eres,44.0,0.8864
+1296,rock,café tacvba,ingrata,134.0,0.5075
+1297,rock,café tacvba,la ingrata,134.0,0.5075
+1298,rock,café tacvba,labios jaguar,52.0,0.7692
+1299,rock,café tacvba,las batallas,55.0,0.6364
+1300,rock,café tacvba,las flores,167.0,0.6287
+1301,rock,café tacvba,maría,42.0,0.7857
+1302,rock,café tacvba,mediodía,112.0,0.3839
+1303,rock,café tacvba,olita del altamar,95.0,0.3474
+1304,rock,café tacvba,quiero ver,49.0,0.6531
+1305,rock,café tacvba,volver a comenzar,85.0,0.6235
+1306,rock,caifanes,afuera,59.0,0.3729
+1307,rock,caifanes,aqui no es asi,68.0,0.5735
+1308,rock,caifanes,avientame,61.0,0.6393
+1309,rock,caifanes,ay maría,57.0,0.807
+1310,rock,caifanes,de noche todos los gatos son pardos,69.0,0.4493
+1311,rock,caifanes,detras de ti,23.0,0.6957
+1312,rock,caifanes,hasta morir,38.0,0.5
+1313,rock,caifanes,la celula que explota,27.0,0.8148
+1314,rock,caifanes,la llorona,60.0,0.55
+1315,rock,caifanes,la negra tomasa,68.0,0.1912
+1316,rock,caifanes,miedo,52.0,0.6538
+1317,rock,caifanes,mátenme porque me muero,44.0,0.6591
+1318,rock,caifanes,nada,18.0,1.0
+1319,rock,caifanes,no dejes que nos coma el diablo,45.0,0.7333
+1320,rock,caifanes,no dejes que,45.0,0.7333
+1321,rock,caifanes,nubes,44.0,0.6591
+1322,rock,caifanes,para que no digas que no pienso en ti,35.0,0.7714
+1323,rock,caifanes,quisiera ser alcohol,49.0,0.6939
+1324,rock,caifanes,te estoy mirando,46.0,0.6957
+1325,rock,caifanes,viento,56.0,0.5
+1326,rock,chancho en piedra,animales disfrazados,96.0,0.7604
+1327,rock,chancho en piedra,da la claridad a nuestro sol,101.0,0.6436
+1328,rock,chancho en piedra,dejando libre el amor,104.0,0.5865
+1329,rock,chancho en piedra,del porque se cohibe el ano,139.0,0.5396
+1330,rock,chancho en piedra,discojapi,58.0,0.7414
+1331,rock,chancho en piedra,eden,112.0,0.5089
+1332,rock,chancho en piedra,el impostor,80.0,0.725
+1333,rock,chancho en piedra,eligiendo una reina,104.0,0.9038
+1334,rock,chancho en piedra,guach perry,45.0,0.4
+1335,rock,chancho en piedra,huevos revueltos,111.0,0.6486
+1336,rock,chancho en piedra,la vida del oso,143.0,0.5594
+1337,rock,chancho en piedra,locura espacial,113.0,0.6991
+1338,rock,chancho en piedra,lophophora,45.0,0.8889
+1339,rock,chancho en piedra,mi mejor momento,90.0,0.7556
+1340,rock,chancho en piedra,multi,96.0,0.5625
+1341,rock,chancho en piedra,sinfonia de cuna,93.0,0.6882
+1342,rock,chancho en piedra,solo contra el mundo,100.0,0.69
+1343,rock,chancho en piedra,tren a la luna,82.0,0.7195
+1344,rock,chancho en piedra,volantín,111.0,0.6847
+1345,rock,chancho en piedra,yakuza,75.0,0.7733
+1346,rock,el cuarteto de nos,apocalipsis zombi,120.0,0.7083
+1347,rock,el cuarteto de nos,así soy yo,83.0,0.8193
+1348,rock,el cuarteto de nos,breve descripción de mi persona,191.0,0.8534
+1349,rock,el cuarteto de nos,buen día benito,164.0,0.8598
+1350,rock,el cuarteto de nos,cómo pasa el tiempo,148.0,0.5878
+1351,rock,el cuarteto de nos,de a ratitos,84.0,0.5
+1352,rock,el cuarteto de nos,el hijo de hernández,127.0,0.685
+1353,rock,el cuarteto de nos,el incendio de mi alma,56.0,0.7857
+1354,rock,el cuarteto de nos,el príncipe,220.0,0.7818
+1355,rock,el cuarteto de nos,gaucho power,104.0,0.7019
+1356,rock,el cuarteto de nos,invierno del '92,213.0,0.6197
+1357,rock,el cuarteto de nos,lo malo de ser bueno,172.0,0.6686
+1358,rock,el cuarteto de nos,me amo,69.0,0.6377
+1359,rock,el cuarteto de nos,no llora,137.0,0.6204
+1360,rock,el cuarteto de nos,punta cana,71.0,0.7887
+1361,rock,el cuarteto de nos,raro,210.0,0.8333
+1362,rock,el cuarteto de nos,roberto,146.0,0.7397
+1363,rock,el cuarteto de nos,voy a volver,120.0,0.6333
+1364,rock,el cuarteto de nos,ya no sé qué hacer conmigo,178.0,0.8202
+1365,rock,el cuarteto de nos,yendo a la casa de damián,254.0,0.7559
+1366,rock,extremoduro,"ama, ama, ama y ensancha el alma",46.0,0.9783
+1367,rock,extremoduro,buscando una luna,108.0,0.5278
+1368,rock,extremoduro,decidi,39.0,0.9231
+1369,rock,extremoduro,dulce introducción al caos,104.0,0.5481
+1370,rock,extremoduro,extremaydura,150.0,0.4533
+1371,rock,extremoduro,golfa,95.0,0.6105
+1372,rock,extremoduro,jesucristo garcía,94.0,0.617
+1373,rock,extremoduro,la hoguera,51.0,0.8039
+1374,rock,extremoduro,"la primera, el borracho",45.0,0.8889
+1375,rock,extremoduro,la vereda de la puerta de atrás,106.0,0.7642
+1376,rock,extremoduro,locura transitoria,181.0,0.7348
+1377,rock,extremoduro,mi espíritu imperecedero,132.0,0.5152
+1378,rock,extremoduro,pedrá,461.0,0.7896
+1379,rock,extremoduro,pepe botika,126.0,0.6032
+1380,rock,extremoduro,salir,130.0,0.4385
+1381,rock,extremoduro,si te vas,179.0,0.6425
+1382,rock,extremoduro,so payaso,92.0,0.3261
+1383,rock,extremoduro,standby,83.0,0.5783
+1384,rock,extremoduro,sucede,96.0,0.5625
+1385,rock,fito y fitipaldis,a la luna se le ve el ombligo,60.0,0.7
+1386,rock,fito y fitipaldis,acabo de llegar,85.0,0.4471
+1387,rock,fito y fitipaldis,antes de que cuente diez,78.0,0.9103
+1388,rock,fito y fitipaldis,después de la tormenta,69.0,0.7101
+1389,rock,fito y fitipaldis,entre la espada y la pared,78.0,0.8718
+1390,rock,fito y fitipaldis,la casa por el tejado,125.0,0.552
+1391,rock,fito y fitipaldis,las nubes de tu pelo,32.0,0.9375
+1392,rock,fito y fitipaldis,los divinos,78.0,0.8718
+1393,rock,fito y fitipaldis,me equivocaría otra vez,93.0,0.5591
+1394,rock,fito y fitipaldis,nada de nada,63.0,0.6349
+1395,rock,fito y fitipaldis,no soy de nadie,72.0,0.3056
+1396,rock,fito y fitipaldis,para toda la vida,82.0,0.4878
+1397,rock,fito y fitipaldis,por la boca vive el pez,85.0,0.7294
+1398,rock,fito y fitipaldis,rojitas las orejas,49.0,0.8163
+1399,rock,fito y fitipaldis,ruido,89.0,0.5281
+1400,rock,fito y fitipaldis,siempre estoy soñando,47.0,0.766
+1401,rock,fito y fitipaldis,sobra la luz,63.0,0.6508
+1402,rock,fito y fitipaldis,soldadito marinero,69.0,0.7101
+1403,rock,fito y fitipaldis,tarde o temprano,47.0,0.8298
+1404,rock,fito y fitipaldis,viene y va,89.0,0.5281
+1405,rock,fito y fitipaldis,whisky barato,42.0,0.7857
+1406,rock,héroes del silencio,apuesta por el rock 'n' roll,62.0,0.6774
+1407,rock,héroes del silencio,avalancha,69.0,0.6667
+1408,rock,héroes del silencio,bendecida,90.0,0.8
+1409,rock,héroes del silencio,con nombre de guerra,45.0,0.8667
+1410,rock,héroes del silencio,despertar,35.0,0.5429
+1411,rock,héroes del silencio,el camino del exceso,82.0,0.6951
+1412,rock,héroes del silencio,en brazos de la fiebre,56.0,0.7143
+1413,rock,héroes del silencio,entre dos tierras,91.0,0.4176
+1414,rock,héroes del silencio,flor de loto,90.0,0.6
+1415,rock,héroes del silencio,héroe de leyenda,41.0,0.5122
+1416,rock,héroes del silencio,iberia sumergida,46.0,0.8478
+1417,rock,héroes del silencio,la carta,44.0,0.6818
+1418,rock,héroes del silencio,la chispa adecuada,86.0,0.7093
+1419,rock,héroes del silencio,la herida,103.0,0.4854
+1420,rock,héroes del silencio,maldito duende,56.0,0.6071
+1421,rock,héroes del silencio,mar adentro,59.0,0.5932
+1422,rock,héroes del silencio,nuestros nombres,62.0,0.7581
+1423,rock,héroes del silencio,oración,47.0,0.5319
+1424,rock,héroes del silencio,sirena varada,88.0,0.8295
+1425,rock,héroes del silencio,tumbas de sal,60.0,0.7833
+1426,rock,la renga,el final es en donde parti,84.0,0.6786
+1427,rock,la renga,la balada del diablo y la muerte,94.0,0.7872
+1428,rock,la renga,la razon que te demora,75.0,0.6
+1429,rock,la renga,panic show,38.0,0.6579
+1430,rock,la renga,veneno,63.0,0.619
+1431,rock,la vela puerca,alta magia,67.0,0.597
+1432,rock,la vela puerca,clones,93.0,0.6237
+1433,rock,la vela puerca,de atar,112.0,0.6339
+1434,rock,la vela puerca,dice,78.0,0.6923
+1435,rock,la vela puerca,doble filo,84.0,0.5714
+1436,rock,la vela puerca,el gavilán,82.0,0.3537
+1437,rock,la vela puerca,el huracán,60.0,0.95
+1438,rock,la vela puerca,el profeta,50.0,0.96
+1439,rock,la vela puerca,el viejo,115.0,0.6348
+1440,rock,la vela puerca,en el limbo,72.0,0.7222
+1441,rock,la vela puerca,llenos de magia,84.0,0.7738
+1442,rock,la vela puerca,lágrimas de sangre,84.0,0.9405
+1443,rock,la vela puerca,para no verme más,46.0,1.0
+1444,rock,la vela puerca,por la ciudad,64.0,0.8594
+1445,rock,la vela puerca,potosí,59.0,0.9153
+1446,rock,la vela puerca,sin palabras,49.0,0.898
+1447,rock,la vela puerca,va a escampar,117.0,0.6496
+1448,rock,la vela puerca,zafar,104.0,0.5673
+1449,rock,los bunkers,ahora que no estás,62.0,0.5968
+1450,rock,los bunkers,bailando solo,53.0,0.6604
+1451,rock,los bunkers,bajo los árboles,49.0,0.4898
+1452,rock,los bunkers,canción de lejos,48.0,0.7292
+1453,rock,los bunkers,delirio,72.0,0.5694
+1454,rock,los bunkers,el detenido,33.0,0.9091
+1455,rock,los bunkers,el dia feliz que está llegando,49.0,0.8571
+1456,rock,los bunkers,la exiliada del sur,109.0,0.8807
+1457,rock,los bunkers,las cosas que cambié y dejé por ti,38.0,0.5526
+1458,rock,los bunkers,llanto de corazón,70.0,0.5714
+1459,rock,los bunkers,llueve sobre la ciudad,68.0,0.5147
+1460,rock,los bunkers,mientele,64.0,0.6719
+1461,rock,los bunkers,miño,88.0,0.7386
+1462,rock,los bunkers,nada nuevo bajo el sol,56.0,0.6964
+1463,rock,los bunkers,no me hables de sufrir,62.0,0.5323
+1464,rock,los bunkers,quién fuera,72.0,0.5694
+1465,rock,los bunkers,santiago de chile,89.0,0.6854
+1466,rock,los bunkers,sí o no,48.0,0.7292
+1467,rock,los bunkers,ven aquí,54.0,0.463
+1468,rock,los bunkers,vida de perros,46.0,0.8043
+1469,rock,los bunkers,y volveré,64.0,0.5625
+1470,rock,los enanitos verdes,amores lejanos,43.0,0.814
+1471,rock,los enanitos verdes,así es el calor,141.0,0.4113
+1472,rock,los enanitos verdes,cada vez que digo adiós,73.0,0.6712
+1473,rock,los enanitos verdes,contra reloj,42.0,0.6429
+1474,rock,los enanitos verdes,cordillera,88.0,0.3864
+1475,rock,los enanitos verdes,el extraño de pelo largo,59.0,0.3729
+1476,rock,los enanitos verdes,ella estrella,62.0,0.4194
+1477,rock,los enanitos verdes,es por ti,114.0,0.3246
+1478,rock,los enanitos verdes,eterna soledad,59.0,0.4915
+1479,rock,los enanitos verdes,frances limón,58.0,0.431
+1480,rock,los enanitos verdes,guitarras blancas,50.0,0.48
+1481,rock,los enanitos verdes,la miré de atrás,38.0,0.4474
+1482,rock,los enanitos verdes,la muralla verde,48.0,0.4583
+1483,rock,los enanitos verdes,la nena de diecisiete,42.0,0.619
+1484,rock,los enanitos verdes,lamento boliviano,67.0,0.4776
+1485,rock,los enanitos verdes,mil horas,79.0,0.443
+1486,rock,los enanitos verdes,no me verás,57.0,0.5263
+1487,rock,los enanitos verdes,por el resto,41.0,0.6341
+1488,rock,los enanitos verdes,siglos de amor,79.0,0.4557
+1489,rock,los enanitos verdes,tus viejas cartas,54.0,0.7037
+1490,rock,los estómagos,amo de la noche,74.0,0.3919
+1491,rock,los estómagos,avril,41.0,0.9268
+1492,rock,los estómagos,baila baila,58.0,0.8448
+1493,rock,los estómagos,cambalache,108.0,0.9259
+1494,rock,los estómagos,cuatro brujas,23.0,0.9565
+1495,rock,los estómagos,errantes,62.0,0.8548
+1496,rock,los estómagos,esa pasión,47.0,0.6383
+1497,rock,los estómagos,frio oscuro,45.0,0.6889
+1498,rock,los estómagos,fuera de control,38.0,0.3947
+1499,rock,los estómagos,gritar,33.0,0.4545
+1500,rock,los estómagos,hijos del imperio,86.0,0.5
+1501,rock,los estómagos,la canción,34.0,0.8824
+1502,rock,los estómagos,la música está enferma,25.0,0.8
+1503,rock,los estómagos,la solución,40.0,0.75
+1504,rock,los estómagos,lo que ves,56.0,0.7143
+1505,rock,los estómagos,ningun lugar,26.0,0.9231
+1506,rock,los estómagos,seguridad,14.0,0.7857
+1507,rock,los estómagos,sólo,22.0,0.8182
+1508,rock,los estómagos,torturador,14.0,1.0
+1509,rock,los estómagos,una ola,39.0,0.6923
+1510,rock,los estómagos,vicios,55.0,0.5636
+1511,rock,los jaivas,aconcagua,44.0,0.75
+1512,rock,los jaivas,amor americano,103.0,0.9126
+1513,rock,los jaivas,arauco tiene una pena,96.0,0.8333
+1514,rock,los jaivas,arrebol,52.0,0.7308
+1515,rock,los jaivas,cancion del sur,36.0,0.6667
+1516,rock,los jaivas,canción del sur,36.0,0.6667
+1517,rock,los jaivas,debajo de las higueras,25.0,0.8
+1518,rock,los jaivas,desde un barrial,60.0,0.8167
+1519,rock,los jaivas,guajira cosmica,50.0,0.7
+1520,rock,los jaivas,hijos de la tierra,74.0,0.6216
+1521,rock,los jaivas,la conquistada,70.0,0.2857
+1522,rock,los jaivas,la poderosa muerte,85.0,0.8706
+1523,rock,los jaivas,la quebrá del ají,62.0,0.9516
+1524,rock,los jaivas,la ventana,25.0,0.64
+1525,rock,los jaivas,la vida mágica,26.0,0.4231
+1526,rock,los jaivas,mambo de machaguay,72.0,0.2083
+1527,rock,los jaivas,mira niñita,73.0,0.3699
+1528,rock,los jaivas,pregon para iluminarse,67.0,0.6567
+1529,rock,los jaivas,si tú no estás,46.0,0.2826
+1530,rock,los jaivas,sube a nacer conmigo hermano,118.0,0.839
+1531,rock,los jaivas,todos juntos,26.0,0.8846
+1532,rock,los jaivas,un día de tus días,16.0,0.3125
+1533,rock,los jaivas,un mar de gente,53.0,0.3774
+1534,rock,los jaivas,valparaíso,67.0,0.9104
+1535,rock,los jaivas,violeta ausente,99.0,0.5657
+1536,rock,los piojos,amar y odiar,395.0,0.8861
+1537,rock,los piojos,ando ganas,84.0,0.4167
+1538,rock,los piojos,arco,56.0,0.6071
+1539,rock,los piojos,babilonia,30.0,0.5333
+1540,rock,los piojos,civilización,142.0,0.4789
+1541,rock,los piojos,como alí,131.0,0.6183
+1542,rock,los piojos,cruel,60.0,0.6833
+1543,rock,los piojos,desde lejos no se ve,133.0,0.609
+1544,rock,los piojos,dientes de cordero,88.0,0.8864
+1545,rock,los piojos,el balneario de los doctores crotos,123.0,0.8374
+1546,rock,los piojos,el farolito,90.0,0.5667
+1547,rock,los piojos,fantasma,95.0,0.4316
+1548,rock,los piojos,genius,79.0,0.5316
+1549,rock,los piojos,la luna y la cabra,105.0,0.3905
+1550,rock,los piojos,marado,136.0,0.6838
+1551,rock,los piojos,muy despacito,48.0,0.7917
+1552,rock,los piojos,pacífico,65.0,0.7846
+1553,rock,los piojos,ruleta,63.0,0.746
+1554,rock,los piojos,tan solo,73.0,0.5753
+1555,rock,los piojos,verano del '92,100.0,0.29
+1556,rock,los redondos,blues de la libertad,44.0,0.6591
+1557,rock,los redondos,el final es en donde parti,84.0,0.6786
+1558,rock,los redondos,el regreso de mao,74.0,0.6757
+1559,rock,los redondos,el templo de momo,55.0,0.8909
+1560,rock,los redondos,esa estrella era mi lujo,24.0,0.9167
+1561,rock,los redondos,ji ji ji,88.0,0.6136
+1562,rock,los redondos,la bestia pop,66.0,0.3636
+1563,rock,los redondos,la murga de los renegados,49.0,0.7143
+1564,rock,los redondos,la parabellum del buen psicópata,40.0,1.0
+1565,rock,los redondos,me matan limón,48.0,0.7083
+1566,rock,los redondos,noticias de ayer,65.0,0.7077
+1567,rock,los redondos,nuestro amo juega al esclavo,41.0,1.0
+1568,rock,los redondos,ropa sucia,51.0,0.7647
+1569,rock,los redondos,semen,26.0,0.8077
+1570,rock,los redondos,todo un palo,26.0,0.6923
+1571,rock,los redondos,toxi,30.0,0.8667
+1572,rock,los redondos,un poco de amor francés,38.0,0.6842
+1573,rock,los redondos,un ángel para tu soledad,61.0,0.8361
+1574,rock,los redondos,vamos las bandas,58.0,0.6552
+1575,rock,los redondos,vencedores vencidos,80.0,0.7375
+1576,rock,los rodríguez,a los ojos,40.0,0.35
+1577,rock,los rodríguez,"adiós, amigos adiós",65.0,0.6
+1578,rock,los rodríguez,algo se está rompiendo,62.0,0.5806
+1579,rock,los rodríguez,aquí no podemos hacerlo,62.0,0.7581
+1580,rock,los rodríguez,brindo,103.0,0.6019
+1581,rock,los rodríguez,buena suerte,33.0,0.6061
+1582,rock,los rodríguez,copa rota,92.0,0.5978
+1583,rock,los rodríguez,diez años después,79.0,0.7722
+1584,rock,los rodríguez,dulce condena,83.0,0.4458
+1585,rock,los rodríguez,el tiempo lo dirá,94.0,0.766
+1586,rock,los rodríguez,hace calor,112.0,0.5
+1587,rock,los rodríguez,la puerta de al lado,115.0,0.6
+1588,rock,los rodríguez,mi enfermedad,67.0,0.5075
+1589,rock,los rodríguez,milonga del marinero y el capitán,69.0,0.6667
+1590,rock,los rodríguez,mucho mejor,74.0,0.7568
+1591,rock,los rodríguez,"palabras más, palabras menos",71.0,0.2676
+1592,rock,los rodríguez,para no olvidar,98.0,0.6531
+1593,rock,los rodríguez,salud (dinero & amor),95.0,0.6316
+1594,rock,los rodríguez,sin documentos,108.0,0.3519
+1595,rock,los rodríguez,todavía una canción de amor,80.0,0.7125
+1596,rock,luis alberto spinetta,alma de diamante,63.0,0.4921
+1597,rock,luis alberto spinetta,bajan,41.0,0.7317
+1598,rock,luis alberto spinetta,barro tal vez,58.0,0.6379
+1599,rock,luis alberto spinetta,cantata de puentes amarillos,114.0,0.7105
+1600,rock,luis alberto spinetta,durazno sangrando,58.0,0.8448
+1601,rock,luis alberto spinetta,el anillo del capitán beto ,93.0,0.8172
+1602,rock,luis alberto spinetta,el anillo del capitán beto,92.0,0.8043
+1603,rock,luis alberto spinetta,el lenguaje del cielo,76.0,0.5395
+1604,rock,luis alberto spinetta,holanda,78.0,0.5513
+1605,rock,luis alberto spinetta,la búsqueda de la estrella,58.0,0.5
+1606,rock,luis alberto spinetta,la miel en tu ventana,32.0,0.3125
+1607,rock,luis alberto spinetta,los libros de la buena memoria,79.0,0.9494
+1608,rock,luis alberto spinetta,maribel se durmió,37.0,0.5676
+1609,rock,luis alberto spinetta,muchacha (ojos de papel),65.0,0.5692
+1610,rock,luis alberto spinetta,no te busques ya en el umbral,65.0,0.8308
+1611,rock,luis alberto spinetta,rezo por vos,51.0,0.5686
+1612,rock,luis alberto spinetta,seguir viviendo sin tu amor,53.0,0.434
+1613,rock,luis alberto spinetta,sexo,51.0,0.4706
+1614,rock,luis alberto spinetta,todas las hojas son del viento,44.0,0.5455
+1615,rock,luis alberto spinetta,tu nombre sobre mi nombre,80.0,0.4
+1616,rock,maná,amor clandestino,120.0,0.5
+1617,rock,maná,bendita tu luz,120.0,0.3417
+1618,rock,maná,como dueles en los labios,52.0,0.4808
+1619,rock,maná,corazón espinado,76.0,0.3026
+1620,rock,maná,de pies a cabeza,72.0,0.4306
+1621,rock,maná,déjame entrar,83.0,0.3253
+1622,rock,maná,el rey tiburón,147.0,0.2721
+1623,rock,maná,el verdadero amor perdona,120.0,0.5583
+1624,rock,maná,en el muelle de san blas,94.0,0.5957
+1625,rock,maná,eres mi religión,123.0,0.4065
+1626,rock,maná,labios compartidos,128.0,0.5312
+1627,rock,maná,mariposa traicionera,109.0,0.4954
+1628,rock,maná,me vale,135.0,0.5037
+1629,rock,maná,oye mi amor,63.0,0.4444
+1630,rock,maná,rayando el sol,74.0,0.4189
+1631,rock,maná,si no te hubieras ido,63.0,0.4127
+1632,rock,maná,te lloré un río,95.0,0.4737
+1633,rock,maná,un nuevo amanecer,72.0,0.5278
+1634,rock,maná,vivir sin aire,69.0,0.4638
+1635,rock,maná,ángel de amor,92.0,0.3696
+1636,rock,mar de copas,a tu lado,54.0,0.7963
+1637,rock,mar de copas,adiós amor,54.0,0.8519
+1638,rock,mar de copas,al pasar de las horas,54.0,0.7407
+1639,rock,mar de copas,balada de un encuentro fugaz,110.0,0.5455
+1640,rock,mar de copas,cancion,71.0,0.3099
+1641,rock,mar de copas,cuenta la historia,54.0,0.8333
+1642,rock,mar de copas,de tierra,57.0,0.8246
+1643,rock,mar de copas,devuélveme,49.0,0.9184
+1644,rock,mar de copas,déjame respirar,79.0,0.6709
+1645,rock,mar de copas,en la tierra de nadie,57.0,0.8246
+1646,rock,mar de copas,entre los arboles,106.0,0.6226
+1647,rock,mar de copas,estrella fugaz,110.0,0.5455
+1648,rock,mar de copas,fugitivo,113.0,0.5398
+1649,rock,mar de copas,la maquina del tiempo,127.0,0.3701
+1650,rock,mar de copas,la vida eterna,261.0,0.7395
+1651,rock,mar de copas,lb,28.0,0.7857
+1652,rock,mar de copas,lisa en el espejo,43.0,0.6744
+1653,rock,mar de copas,llévame,78.0,0.5256
+1654,rock,mar de copas,mujer noche,145.0,0.4345
+1655,rock,mar de copas,ni para rogar un beso,85.0,0.6941
+1656,rock,mar de copas,no me imagino,34.0,0.7941
+1657,rock,mar de copas,otra cancion,29.0,0.8621
+1658,rock,mar de copas,si algo así como el amor está en el aire,74.0,0.7568
+1659,rock,mar de copas,si alguna vez (versión en vivo),109.0,0.7798
+1660,rock,mar de copas,si alguna vez,66.0,0.5
+1661,rock,mar de copas,suna,76.0,0.6053
+1662,rock,mar de copas,sunshine,130.0,0.7231
+1663,rock,mar de copas,tras esa puerta,66.0,0.9242
+1664,rock,mar de copas,un dia sin sexo,53.0,0.7547
+1665,rock,mar de copas,un día sin sexo,53.0,0.7547
+1666,rock,mar de copas,un minuto de amor,74.0,0.7568
+1667,rock,mar de copas,un nuevo día,34.0,0.8529
+1668,rock,mar de copas,viejo amor nuevo amor,34.0,0.8529
+1669,rock,marea,aceitunero,128.0,0.875
+1670,rock,marea,buenos días tristeza,234.0,0.7949
+1671,rock,marea,como el viento de poniente,60.0,0.95
+1672,rock,marea,corazón de mimbre,134.0,0.8433
+1673,rock,marea,el hombre del sacoo,103.0,0.7767
+1674,rock,marea,en tu agujero,149.0,0.7315
+1675,rock,marea,"gallo rojo, gallo negro",116.0,0.75
+1676,rock,marea,la luna me sabe a poco,77.0,0.9481
+1677,rock,marea,la noche de viernes santo,169.0,0.5858
+1678,rock,marea,la puta del día,141.0,0.5816
+1679,rock,marea,la rabia que siente el corazón,305.0,0.6623
+1680,rock,marea,la rueca,135.0,0.6148
+1681,rock,marea,la sartén por el mango,128.0,0.875
+1682,rock,marea,las putas son las únicas que me quieren,425.0,0.5859
+1683,rock,marea,leyenda de juan el tonto,64.0,0.7188
+1684,rock,marea,mierda y cuchara,99.0,0.8283
+1685,rock,marea,pan duro,69.0,0.9855
+1686,rock,marea,que se joda el viento,101.0,0.8119
+1687,rock,marea,virgen del mar,109.0,0.5046
+1688,rock,platero y tu,a un tipo listo,27.0,0.9259
+1689,rock,platero y tu,al cantar,46.0,0.8043
+1690,rock,platero y tu,alucinante,47.0,0.8723
+1691,rock,platero y tu,bebiendo del mismo vaso,39.0,0.9487
+1692,rock,platero y tu,bobo,26.0,0.8462
+1693,rock,platero y tu,caminar cuesta arriba,81.0,0.5556
+1694,rock,platero y tu,canción pa' ti,55.0,0.5455
+1695,rock,platero y tu,cantalojas,45.0,0.7333
+1696,rock,platero y tu,cigarrito,45.0,0.8
+1697,rock,platero y tu,contaminamos,48.0,0.6042
+1698,rock,platero y tu,cómo has perdido tú,78.0,0.641
+1699,rock,platero y tu,desertor,49.0,0.8367
+1700,rock,platero y tu,déjame en paz,65.0,0.6462
+1701,rock,platero y tu,el roce de tu cuerpo,54.0,0.6667
+1702,rock,platero y tu,entre dos mares,80.0,0.7625
+1703,rock,platero y tu,hay poco rock &amp; roll,39.0,0.6154
+1704,rock,platero y tu,humo de mis pies,42.0,0.9048
+1705,rock,platero y tu,juliette,53.0,0.6981
+1706,rock,platero y tu,la maté porque era mía,45.0,0.8889
+1707,rock,platero y tu,la noche,77.0,0.6883
+1708,rock,platero y tu,la vecina,44.0,0.7955
+1709,rock,platero y tu,lo que os merecéis,31.0,0.9032
+1710,rock,platero y tu,naufragio,46.0,0.7609
+1711,rock,platero y tu,no hierve tu sangre,60.0,0.8
+1712,rock,platero y tu,qué demonios,35.0,0.8857
+1713,rock,platero y tu,si miro a las nubes,43.0,0.814
+1714,rock,platero y tu,si tú te vas,46.0,0.7174
+1715,rock,platero y tu,tras la barra,71.0,0.8451
+1716,rock,platero y tu,voy a acabar borracho,62.0,0.7742
+1717,rock,platero y tu,¡déjame en paz!,69.0,0.6087
+1718,rock,poncho k,abuela,94.0,0.617
+1719,rock,poncho k,al loro,150.0,0.54
+1720,rock,poncho k,al marchar,87.0,0.8276
+1721,rock,poncho k,amor platónico,53.0,0.9811
+1722,rock,poncho k,arrebatos de primavera,94.0,0.617
+1723,rock,poncho k,así me lo invento,100.0,0.94
+1724,rock,poncho k,aunque con sangre lloremos,63.0,0.8571
+1725,rock,poncho k,avaricia de vejez,88.0,0.5795
+1726,rock,poncho k,ay ay,146.0,0.5068
+1727,rock,poncho k,"bla, bla, bla",68.0,0.9265
+1728,rock,poncho k,borracho de la madruga (cuantovaquere),91.0,0.7253
+1729,rock,poncho k,borracho de la madruga,91.0,0.7253
+1730,rock,poncho k,camino (destino de pluma y mano),63.0,0.8095
+1731,rock,poncho k,carnívoro cuchillo,104.0,0.6635
+1732,rock,poncho k,"cine, cine",67.0,0.8657
+1733,rock,poncho k,corrientes demolientes,66.0,0.8333
+1734,rock,poncho k,"cárcel, hospital y cementerio",92.0,0.3804
+1735,rock,poncho k,de ninguna parte,71.0,0.8169
+1736,rock,poncho k,er tio del saco,120.0,0.6333
+1737,rock,poncho k,fijo en las paredes,82.0,0.7073
+1738,rock,poncho k,la cuenca,171.0,0.614
+1739,rock,poncho k,lo tierno y la corteza,92.0,0.4891
+1740,rock,poncho k,mentiras de sal,90.0,0.3556
+1741,rock,poncho k,muero,106.0,0.717
+1742,rock,poncho k,nana a un cocodrilo,100.0,0.66
+1743,rock,poncho k,pescaitos,135.0,0.6148
+1744,rock,poncho k,sino te gusta la quitamos,75.0,0.7867
+1745,rock,poncho k,una historia con las manos,212.0,0.7594
+1746,rock,rata blanca,abrazando al rock and roll,52.0,0.7308
+1747,rock,rata blanca,"agord, la bruja",51.0,0.902
+1748,rock,rata blanca,aún estás en mis sueños,70.0,0.6143
+1749,rock,rata blanca,bajo control,88.0,0.7386
+1750,rock,rata blanca,chico callejero,55.0,0.7818
+1751,rock,rata blanca,dias duros,47.0,0.6383
+1752,rock,rata blanca,el beso de la bruja,41.0,0.8049
+1753,rock,rata blanca,el círculo de fuego,70.0,0.6143
+1754,rock,rata blanca,el guardián de la luz,68.0,0.4559
+1755,rock,rata blanca,el sueño de la gitana,102.0,0.8039
+1756,rock,rata blanca,la canción del guerrero,50.0,0.94
+1757,rock,rata blanca,la leyenda del hada y el mago,86.0,0.8023
+1758,rock,rata blanca,la llave de la puerta secreta,60.0,0.4833
+1759,rock,rata blanca,la misma mujer,56.0,0.8571
+1760,rock,rata blanca,la otra cara de la moneda,65.0,0.5538
+1761,rock,rata blanca,la raza del sol,41.0,0.878
+1762,rock,rata blanca,mujer amante,93.0,0.5161
+1763,rock,rata blanca,preludio obsesivo,0.0,0.0
+1764,rock,rata blanca,solo para amarte,108.0,0.463
+1765,rock,rata blanca,sombra inerte del amor,57.0,0.7018
+1766,rock,rata blanca,volviendo a casa,93.0,0.5161
+1767,rock,rosendo,a la sombra de una mentira,50.0,0.8
+1768,rock,rosendo,agradecido,92.0,0.3478
+1769,rock,rosendo,amable,48.0,0.5
+1770,rock,rosendo,atajo de cobayas,46.0,0.8261
+1771,rock,rosendo,bajo cuerda,39.0,0.7692
+1772,rock,rosendo,crucifixión,65.0,0.8923
+1773,rock,rosendo,date por disimulao,49.0,0.7143
+1774,rock,rosendo,depresor,57.0,0.5439
+1775,rock,rosendo,desdela barrerra,56.0,0.5179
+1776,rock,rosendo,dos no siempre son pares,22.0,0.6818
+1777,rock,rosendo,el asa del cubo,73.0,0.5205
+1778,rock,rosendo,"entonces, duerme",38.0,0.7368
+1779,rock,rosendo,flojos de pantalón,56.0,0.8214
+1780,rock,rosendo,hasta de perfil,80.0,0.65
+1781,rock,rosendo,jugar al gua,41.0,0.7317
+1782,rock,rosendo,la triste cagalera,67.0,0.6567
+1783,rock,rosendo,loco por incordiar,58.0,0.3793
+1784,rock,rosendo,maneras de vivir,53.0,0.6981
+1785,rock,rosendo,pan de higo,51.0,0.5098
+1786,rock,rosendo,por meter entre mis cosas la nariz,69.0,0.4928
+1787,rock,soda estero,corazón delator,67.0,0.6119
+1788,rock,soda estero,crema de estrellas,43.0,0.814
+1789,rock,soda estero,cuando pase el temblor,67.0,0.4925
+1790,rock,soda estero,de música ligera,39.0,0.6154
+1791,rock,soda estero,ella usó mi cabeza como un revólver,39.0,0.7949
+1792,rock,soda estero,en el borde,153.0,0.6078
+1793,rock,soda estero,en la ciudad de la furia,91.0,0.5934
+1794,rock,soda estero,entre caníbales,54.0,0.5
+1795,rock,soda estero,fue,26.0,0.8846
+1796,rock,soda estero,nada personal,111.0,0.2973
+1797,rock,soda estero,persiana americana,81.0,0.5185
+1798,rock,soda estero,prófugos,56.0,0.6071
+1799,rock,soda estero,signos,58.0,0.6034
+1800,rock,soda estero,sueles dejarme solo,33.0,0.5152
+1801,rock,soda estero,te hacen falta vitaminas,67.0,0.5522
+1802,rock,soda estero,texturas,37.0,0.6486
+1803,rock,soda estero,trátame suavemente,58.0,0.5172
+1804,rock,soda estero,un millón de años luz,78.0,0.3718
+1805,rock,soda estero,zoom ,56.0,0.6071
+1806,rock,soda estero,zoom,34.0,0.8824
+1807,rock,triana,a través del aire,60.0,0.8833
+1808,rock,triana,abre la puerta,63.0,0.619
+1809,rock,triana,aroma fresco,31.0,0.9355
+1810,rock,triana,caudaloso río,31.0,0.871
+1811,rock,triana,como el viento,34.0,0.6765
+1812,rock,triana,corre,23.0,0.7826
+1813,rock,triana,de una nana siendo niño,79.0,0.5063
+1814,rock,triana,desnuda la mañana,49.0,0.8367
+1815,rock,triana,diálogo,40.0,0.575
+1816,rock,triana,en el lago,64.0,0.5312
+1817,rock,triana,encuentro fugaz,41.0,0.7073
+1818,rock,triana,es algo tan maravilloso,21.0,0.7143
+1819,rock,triana,hasta volver,70.0,0.7429
+1820,rock,triana,hijos del agobio,38.0,0.7895
+1821,rock,triana,llégo el día,54.0,0.9259
+1822,rock,triana,luminosa mañana,34.0,1.0
+1823,rock,triana,necesito,38.0,0.8421
+1824,rock,triana,perdido por las calles,42.0,0.7857
+1825,rock,triana,por el camino,25.0,0.8
+1826,rock,triana,rumor,34.0,0.8235
+1827,rock,triana,sentimento de amor,25.0,0.84
+1828,rock,triana,sombra y luz,16.0,0.875
+1829,rock,triana,sr,28.0,0.9643
+1830,rock,triana,todo es de color,14.0,0.6429
+1831,rock,triana,tu frialdad,44.0,0.3409
+1832,rock,triana,un mal sueño,27.0,0.7778
+1833,rock,triana,un nido en mi ventana,25.0,0.8
+1834,rock,triana,una historia,36.0,0.8611
+1835,rock,triana,una noche de amor desesperada,31.0,0.8065
+1836,rock,triana,¡ya está bien!,13.0,1.0
+1837,rock,vetusta morla,23 de junio,99.0,0.6465
+1838,rock,vetusta morla,al respirar,66.0,0.5
+1839,rock,vetusta morla,autocritica,67.0,0.6866
+1840,rock,vetusta morla,boca en la tierra,67.0,0.7463
+1841,rock,vetusta morla,cancion de vuelta,45.0,0.8222
+1842,rock,vetusta morla,consejo de sabios,88.0,0.8182
+1843,rock,vetusta morla,copenhage,67.0,0.6716
+1844,rock,vetusta morla,copenhague,71.0,0.6338
+1845,rock,vetusta morla,cuarteles de invierno,94.0,0.7979
+1846,rock,vetusta morla,finisterre,77.0,0.7403
+1847,rock,vetusta morla,golpe maestro,88.0,0.7045
+1848,rock,vetusta morla,iglús sin primavera,59.0,0.6271
+1849,rock,vetusta morla,la cuadratura del círculo,48.0,0.6875
+1850,rock,vetusta morla,la deriva,58.0,0.8103
+1851,rock,vetusta morla,la marea,85.0,0.5176
+1852,rock,vetusta morla,la vieja escuela,64.0,0.8281
+1853,rock,vetusta morla,lo que te hace grande,74.0,0.7432
+1854,rock,vetusta morla,los buenos,56.0,0.6607
+1855,rock,vetusta morla,los días raros,61.0,0.8033
+1856,rock,vetusta morla,maldita dulzura,67.0,0.6716
+1857,rock,vetusta morla,otro dia en el mundo,86.0,0.5581
+1858,rock,vetusta morla,puntos suspensivos,83.0,0.7711
+1859,rock,vetusta morla,puñalada trapera,78.0,0.6026
+1860,rock,vetusta morla,rey sol,72.0,0.7361
+1861,rock,vetusta morla,saharabbey road,59.0,0.5932
+1862,rock,vetusta morla,sálvese quien pueda,71.0,0.6338
+1863,rock,vetusta morla,tour de francia,65.0,0.8769
+1864,rock,vetusta morla,un dia en el mundo,86.0,0.5581
+1865,rock,vetusta morla,valiente,92.0,0.4674
+1866,vallenato, Diomedes Díaz,Tu Cumpleanos,112.0,0.6071
+1867,vallenato, Diomedes Díaz,Tú Eres La Reina,123.0,0.6179
+1868,vallenato, Diomedes Díaz,Tres Canciones,50.0,0.9
+1869,vallenato, Diomedes Díaz,A Un Cariño Del Alma,147.0,0.5034
+1870,vallenato, Diomedes Díaz,Amarte Más No Pude,141.0,0.6667
+1871,vallenato, Diomedes Díaz,Condor Herido,100.0,0.59
+1872,vallenato, Diomedes Díaz,Injusticia,79.0,0.8481
+1873,vallenato, Diomedes Díaz,Sin Medir Distancias,125.0,0.632
+1874,vallenato, Diomedes Díaz,Manguito Biche,96.0,0.8333
+1875,vallenato, Diomedes Díaz,Bonita,129.0,0.5581
+1876,vallenato, Diomedes Díaz,Mi Primera Cana,74.0,0.6892
+1877,vallenato, Diomedes Díaz,La Inconforme,124.0,0.4839
+1878,vallenato, Diomedes Díaz,Sueños y Vivencias,151.0,0.6093
+1879,vallenato, Diomedes Díaz,No Comprendo,64.0,0.7812
+1880,vallenato, Diomedes Díaz,Pidiendo Via,120.0,0.4333
+1881,vallenato, Diomedes Díaz,Ilusiones,118.0,0.5932
+1882,vallenato, Diomedes Díaz,La Suerte Esta Echada,147.0,0.5102
+1883,vallenato, Diomedes Díaz,Tira La Primera Piedra,129.0,0.6279
+1884,vallenato, Diomedes Díaz,Por Que Razón,64.0,0.7031
+1885,vallenato, Diomedes Díaz,Así Me Hizo Dios,134.0,0.403
+1886,vallenato, Diomedes Díaz,Periquito Con Arroz,70.0,0.7
+1887,vallenato, Diomedes Díaz,Lo Mismo de Ayer,147.0,0.6599
+1888,vallenato, Diomedes Díaz,Sin Saber Que Me Espera,98.0,0.7143
+1889,vallenato, Diomedes Díaz,Doblaron Las Campanas,123.0,0.7154
+1890,vallenato, Diomedes Díaz,La Falla Fue Tuya,77.0,0.6104
+1891,vallenato, Diomedes Díaz,El Hombre de Mama,163.0,0.2025
+1892,vallenato, Diomedes Díaz,La Plata,104.0,0.375
+1893,vallenato, Diomedes Díaz,Mi Ahijado,81.0,0.6296
+1894,vallenato, Diomedes Díaz,Simulación,78.0,0.8077
+1895,vallenato, Diomedes Díaz,Te Quiero Mucho,102.0,0.7255
+1896,vallenato, Diomedes Díaz,Un Canto Celestial,77.0,0.6883
+1897,vallenato, Diomedes Díaz,Aunque No Quieran,81.0,0.7407
+1898,vallenato, Diomedes Díaz,Listo Pa La Foto,135.0,0.4
+1899,vallenato, Diomedes Díaz,Lucero Espiritual,46.0,0.6087
+1900,vallenato, Diomedes Díaz,El Verdadero Culpable,147.0,0.7551
+1901,vallenato, Diomedes Díaz,Volvamos,135.0,0.6148
+1902,vallenato, Diomedes Díaz,El Jean,76.0,0.3816
+1903,vallenato, Diomedes Díaz,Titulo de Amor,83.0,0.5783
+1904,vallenato, Diomedes Díaz,Todo És Para Ti,91.0,0.6264
+1905,vallenato, Diomedes Díaz,Ven Conmigo,122.0,0.7213
+1906,vallenato, Diomedes Díaz,Esos Ojos Negros,149.0,0.5302
+1907,vallenato, Diomedes Díaz,Experiencias Vividas,147.0,0.6531
+1908,vallenato, Diomedes Díaz,Mi Muchacho,121.0,0.7851
+1909,vallenato, Diomedes Díaz,Gaviota Herida,128.0,0.7422
+1910,vallenato, Diomedes Díaz,Mujereando,106.0,0.5472
+1911,vallenato, Diomedes Díaz,Al Final Del Sendero,87.0,0.8621
+1912,vallenato, Diomedes Díaz,Cabeza de Hacha,79.0,0.3924
+1913,vallenato, Diomedes Díaz,El Culpable Soy Yo,145.0,0.6759
+1914,vallenato, Diomedes Díaz,Era Como Yo,118.0,0.7373
+1915,vallenato, Diomedes Díaz,Lluvia de Verano,95.0,0.6421
+1916,vallenato, Diomedes Díaz,Te Necesito,107.0,0.6729
+1917,vallenato, Diomedes Díaz,Amor De Mi Juventud,112.0,0.6339
+1918,vallenato, Diomedes Díaz,Los Recuerdos de Ella,77.0,0.6883
+1919,vallenato, Diomedes Díaz,Muchas Gracias,87.0,0.6667
+1920,vallenato, Diomedes Díaz,Ay La Vida,84.0,0.631
+1921,vallenato, Diomedes Díaz,Fantasía,137.0,0.6277
+1922,vallenato, Diomedes Díaz,Hija,106.0,0.6415
+1923,vallenato, Diomedes Díaz,Bajo El Palo e Mango,41.0,0.6829
+1924,vallenato, Diomedes Díaz,El Regreso Del Condor,117.0,0.6667
+1925,vallenato, Diomedes Díaz,Ganó El Folclor,135.0,0.6963
+1926,vallenato, Diomedes Díaz,Me Deja El AvióN,75.0,0.96
+1927,vallenato, Diomedes Díaz,Otro Adios Es Morirme,116.0,0.6983
+1928,vallenato, Diomedes Díaz,Sin Ti,76.0,0.6053
+1929,vallenato, Diomedes Díaz,26 de Mayo,104.0,0.8558
+1930,vallenato, Diomedes Díaz,Compadre Querido,97.0,0.4433
+1931,vallenato, Diomedes Díaz,Dos Claveles,109.0,0.8257
+1932,vallenato, Diomedes Díaz,Duerme Conmigo Esta Noche,122.0,0.6148
+1933,vallenato, Diomedes Díaz,Mi Biografia,43.0,0.9302
+1934,vallenato, Diomedes Díaz,Brindo Con El Alma,78.0,0.6923
+1935,vallenato, Diomedes Díaz,Dejala,116.0,0.5776
+1936,vallenato, Diomedes Díaz,Dos Corazones,173.0,0.289
+1937,vallenato, Diomedes Díaz,La Doctora,110.0,0.3545
+1938,vallenato, Diomedes Díaz,La Envidia,116.0,0.6379
+1939,vallenato, Diomedes Díaz,Mujer Del Alma,83.0,0.7952
+1940,vallenato, Diomedes Díaz,Sufro Por Ella,98.0,0.3265
+1941,vallenato, Diomedes Díaz,Caracoles de Colores,86.0,0.3256
+1942,vallenato, Diomedes Díaz,Cundé Cundé,84.0,0.4524
+1943,vallenato, Diomedes Díaz,Dejame Llorar,72.0,0.6944
+1944,vallenato, Diomedes Díaz,El Mártir,165.0,0.6
+1945,vallenato, Diomedes Díaz,Esta Voz Es Para Siempre,97.0,0.6907
+1946,vallenato, Diomedes Díaz,A Mi Papa,78.0,0.7821
+1947,vallenato, Diomedes Díaz,Ayudame a Quererte,53.0,0.8302
+1948,vallenato, Diomedes Díaz,Corazón Callejero,62.0,0.8065
+1949,vallenato, Diomedes Díaz,Cristina Isabel,95.0,0.4947
+1950,vallenato, Diomedes Díaz,Has Cambiado,91.0,0.4615
+1951,vallenato, Diomedes Díaz,Hay Amores,71.0,0.5915
+1952,vallenato, Diomedes Díaz,Cesantías de Amor,132.0,0.5909
+1953,vallenato, Diomedes Díaz,Enseame Como Te Olvido,107.0,0.6542
+1954,vallenato, Diomedes Díaz,La Semillita,96.0,0.4271
+1955,vallenato, Diomedes Díaz,Perita En Dulce,111.0,0.5315
+1956,vallenato, Diomedes Díaz,Que Hubo Linda,68.0,0.7941
+1957,vallenato, Diomedes Díaz,Recordandote,79.0,0.7089
+1958,vallenato, Diomedes Díaz,Usted (part. Juancho Rois),117.0,0.6667
+1959,vallenato, Diomedes Díaz,Con La Misma Vaina,77.0,0.6364
+1960,vallenato, Diomedes Díaz,El Esqueleto,90.0,0.4667
+1961,vallenato, Diomedes Díaz,El Tigrillo,54.0,0.7778
+1962,vallenato, Diomedes Díaz,Buenas Tardes,38.0,0.7895
+1963,vallenato, Diomedes Díaz,Cantando,86.0,0.6628
+1964,vallenato, Diomedes Díaz,Entre Placer y Penas,112.0,0.5804
+1965,vallenato, Diomedes Díaz,Penas de Un Soldado,112.0,0.7411
+1966,vallenato,Kaleth Morales,Siete Palabras,137.0,0.6423
+1967,vallenato,Kaleth Morales,Todo de Cabeza,149.0,0.4027
+1968,vallenato,Kaleth Morales,Ella Es Mi Todo,115.0,0.7391
+1969,vallenato,Kaleth Morales,La Nota Mas Linda,66.0,0.8485
+1970,vallenato,Kaleth Morales,Destrozas Mi Alma,103.0,0.7184
+1971,vallenato,Kaleth Morales,Angel Del Camino,97.0,0.5052
+1972,vallenato,Kaleth Morales,Vivo En Limbo,144.0,0.4861
+1973,vallenato,Kaleth Morales,A Ser El Novio Tuyo,78.0,0.8462
+1974,vallenato,Kaleth Morales,Acróstico,327.0,0.1865
+1975,vallenato,Kaleth Morales,Derrotado En El Dolor,92.0,0.8478
+1976,vallenato,Kaleth Morales,Transforma Mi Mundo,182.0,0.4615
+1977,vallenato,Kaleth Morales,No Sere Tu Payaso,128.0,0.6875
+1978,vallenato,Kaleth Morales,De Millón a Cero,105.0,0.619
+1979,vallenato,Kaleth Morales,El Guante,78.0,0.8974
+1980,vallenato,Kaleth Morales,Estoy Que Salgo a Gritarlo,133.0,0.4135
+1981,vallenato,Kaleth Morales,Gracias,113.0,0.8053
+1982,vallenato,Kaleth Morales,Mis Cinco Sentidos,60.0,0.9
+1983,vallenato,Kaleth Morales,Sombra de Mi Alma,143.0,0.6923
+1984,vallenato,Kaleth Morales,A blanco y negro,123.0,0.4553
+1985,vallenato,Kaleth Morales,Anonimo,125.0,0.536
+1986,vallenato,Kaleth Morales,Despertar Contigo,113.0,0.6903
+1987,vallenato,Kaleth Morales,La Hora de La Verdad,93.0,0.5806
+1988,vallenato,Kaleth Morales,Mary,73.0,0.589
+1989,vallenato,Kaleth Morales,Unica,76.0,0.7368
+1990,vallenato,Kaleth Morales,Culpable de Tu Amor,124.0,0.5968
+1991,vallenato,Kaleth Morales,Dos Segundos,129.0,0.6899
+1992,vallenato,Kaleth Morales,Eres Lo Mas Bello,76.0,0.8947
+1993,vallenato,Kaleth Morales,Dile,100.0,0.69
+1994,vallenato,Kaleth Morales,Indiferencia,111.0,0.6486
+1995,vallenato,Kaleth Morales,Me Tienes Enamorado,167.0,0.4311
+1996,vallenato,Kaleth Morales,El Pirata,118.0,0.7288
+1997,vallenato,Kaleth Morales,Me La Juego Toda,123.0,0.7398
+1998,vallenato,Kaleth Morales,Novios Cruzados,123.0,0.7724
+1999,vallenato,Kaleth Morales,Cada Minuto,147.0,0.551
+2000,vallenato,Kaleth Morales,La indiferencia,101.0,0.7129
+2001,vallenato,Kaleth Morales,Aparentemente,81.0,0.7654
+2002,vallenato,Kaleth Morales,La Purita Verdad,102.0,0.6569
+2003,vallenato,Kaleth Morales,Lloran Las Palabras,144.0,0.5903
+2004,vallenato,Kaleth Morales,Dejame En Paz,181.0,0.5746
+2005,vallenato,Kaleth Morales,Un Caso Especial,174.0,0.4138
+2006,vallenato,Kaleth Morales,Ya No Eres Princesa,60.0,0.4833
+2007,vallenato,Kaleth Morales,Se va a formar,107.0,0.8131
+2008,vallenato,Kaleth Morales,Sin Tener Defensas,81.0,0.9753
+2009,vallenato,Kaleth Morales,Acepto El Reto,65.0,0.8462
+2010,vallenato,Kaleth Morales,Cara de Niña,97.0,0.8144
+2011,vallenato,Kaleth Morales,No Sientas Miedo,106.0,0.7547
+2012,vallenato,Kaleth Morales,La Reina de Mis Sueños,110.0,0.6273
+2013,vallenato,Kaleth Morales,No Aguanta (new Version),84.0,0.7143
+2014,vallenato,Kaleth Morales,Pa' Mañana Es Tarde,103.0,0.7767
+2015,vallenato,Kaleth Morales,Sin Fecha de Vencimiento,141.0,0.4894
+2016,vallenato,Kaleth Morales,Dame Un Beso,95.0,0.4947
+2017,vallenato,Kaleth Morales,Me Canse,132.0,0.7273
+2018,vallenato,Kaleth Morales,Me estoy Cansando,94.0,0.7872
+2019,vallenato,Kaleth Morales,Caso Cerrado,59.0,0.8136
+2020,vallenato,Kaleth Morales,Espérate Ahi,115.0,0.6261
+2021,vallenato,Kaleth Morales,La Mano En El Hombro,81.0,0.4568
+2022,vallenato,Kaleth Morales,La Pelusa,113.0,0.8053
+2023,vallenato,Kaleth Morales,La Que Tanto Quiero,26.0,0.8846
+2024,vallenato,Kaleth Morales,Ojala,94.0,0.8298
+2025,vallenato,Kaleth Morales,Tu No Comprendes,100.0,0.55
+2026,vallenato,Kaleth Morales,Algún día,118.0,0.7966
+2027,vallenato,Kaleth Morales,Asi No Se Puede,66.0,0.8485
+2028,vallenato,Kaleth Morales,Bastante Complicado,96.0,0.5729
+2029,vallenato,Kaleth Morales,Como Los Rayos Del Sol,141.0,0.7021
+2030,vallenato,Kaleth Morales,La Película,85.0,0.9176
+2031,vallenato,Kaleth Morales,BAILA VALLENATO,128.0,0.5469
+2032,vallenato,Kaleth Morales,Con El Alma En Pedazos,132.0,0.697
+2033,vallenato,Kaleth Morales,Con Que Derecho,82.0,0.9634
+2034,vallenato,Kaleth Morales,Cuando No Estas,116.0,0.6897
+2035,vallenato,Kaleth Morales,El Alma En Pedazos,111.0,0.8018
+2036,vallenato,Kaleth Morales,Polos opuestos,59.0,0.9492
+2037,vallenato,Kaleth Morales,Recuerdos,138.0,0.6304
+2038,vallenato,Kaleth Morales,Te Llama Te Busco,66.0,0.7879
+2039,vallenato,Kaleth Morales,Amame,65.0,0.8308
+2040,vallenato,Kaleth Morales,Que Mal Hicimos,120.0,0.6583
+2041,vallenato,Kaleth Morales,Tarde,80.0,0.9
+2042,vallenato,Kaleth Morales,Lo Tuyo Es Demencia,86.0,0.9186
+2043,vallenato,Nelson Velasquez,Me Matará El Sentimiento,133.0,0.6241
+2044,vallenato,Nelson Velasquez,Despues de amar,109.0,0.6514
+2045,vallenato,Nelson Velasquez,Recuérdame,53.0,0.717
+2046,vallenato,Nelson Velasquez,Buscare otro amor,47.0,0.9362
+2047,vallenato,Nelson Velasquez,Entregame Tu Amor,191.0,0.5602
+2048,vallenato,Nelson Velasquez,Vine a pedir perdon,136.0,0.4265
+2049,vallenato,Nelson Velasquez,Ven Y Dime,182.0,0.4505
+2050,vallenato,Nelson Velasquez,Vuelve Vuelve,173.0,0.6532
+2051,vallenato,Nelson Velasquez,El cielo a tus pies,107.0,0.6822
+2052,vallenato,Nelson Velasquez,No Merezco Tu Perdon,143.0,0.5455
+2053,vallenato,Nelson Velasquez,No queda nada,98.0,0.602
+2054,vallenato,Nelson Velasquez,Me Cuesta Tanto,101.0,0.8218
+2055,vallenato,Nelson Velasquez,Perdidos,70.0,0.8
+2056,vallenato,Nelson Velasquez,Casualidad,176.0,0.6364
+2057,vallenato,Nelson Velasquez,Soy de ti,117.0,0.5726
+2058,vallenato,Nelson Velasquez,Volver,158.0,0.5949
+2059,vallenato,Nelson Velasquez,Ahora Te Vas,156.0,0.5449
+2060,vallenato,Nelson Velasquez,No he podido olvidarte,85.0,0.6235
+2061,vallenato,Nelson Velasquez,Ven a Mi,80.0,0.7875
+2062,vallenato,Nelson Velasquez,La cura de mis penas,74.0,0.5811
+2063,vallenato,Nelson Velasquez,Nunca niegues que yo te amo,168.0,0.6667
+2064,vallenato,Nelson Velasquez,Ajena,74.0,0.6081
+2065,vallenato,Nelson Velasquez,Luto En Mi Corazon,82.0,0.8171
+2066,vallenato,Nelson Velasquez,Suave brisa,94.0,0.4468
+2067,vallenato,Nelson Velasquez,Tu historieta,138.0,0.5072
+2068,vallenato,Nelson Velasquez,T amo a morir,120.0,0.8417
+2069,vallenato,Nelson Velasquez,Mejor no somos nada,72.0,0.6806
+2070,vallenato,Nelson Velasquez,Me estoy enamorado,32.0,0.9375
+2071,vallenato,Nelson Velasquez,Amame,139.0,0.4892
+2072,vallenato,Nelson Velasquez,Di que si,85.0,0.4941
+2073,vallenato,Nelson Velasquez,Te amaré,99.0,0.8586
+2074,vallenato,Nelson Velasquez,Toma tú recuerdo,131.0,0.5649
+2075,vallenato,Nelson Velasquez,Tristeza,64.0,0.75
+2076,vallenato,Nelson Velasquez,Asi es la vida,125.0,0.376
+2077,vallenato,Nelson Velasquez,Mi dulce amor,95.0,0.9263
+2078,vallenato,Nelson Velasquez,Mi verdad,131.0,0.6183
+2079,vallenato,Nelson Velasquez,Por querer olvidarte,117.0,0.453
+2080,vallenato,Nelson Velasquez,Vivimos Lo Nuestro,63.0,0.6032
+2081,vallenato,Nelson Velasquez,Atrévete a Quererme,171.0,0.3743
+2082,vallenato,Nelson Velasquez,Un millón de besos,136.0,0.5809
+2083,vallenato,Nelson Velasquez,Cuanto diera,85.0,0.8
+2084,vallenato,Nelson Velasquez,Despues de ti,47.0,0.7234
+2085,vallenato,Nelson Velasquez,Es por ti,115.0,0.4783
+2086,vallenato,Nelson Velasquez,eTERNAMENTE JUNTO A TI,135.0,0.563
+2087,vallenato,Nelson Velasquez,Pensando en ti,119.0,0.4454
+2088,vallenato,Nelson Velasquez,Enamorame,153.0,0.6078
+2089,vallenato,Nelson Velasquez,Por Querer Olvidarte,118.0,0.4576
+2090,vallenato,Nelson Velasquez,Beso tras beso,121.0,0.4959
+2091,vallenato,Nelson Velasquez,Dos locos,65.0,0.5385
+2092,vallenato,Nelson Velasquez,Pideme lo que quieras,118.0,0.4322
+2093,vallenato,Nelson Velasquez,Quien Como Yo,100.0,0.51
+2094,vallenato,Nelson Velasquez,El centro de mi alma,70.0,0.8143
+2095,vallenato,Nelson Velasquez,El frio de tu corazon,63.0,0.873
+2096,vallenato,Nelson Velasquez,Para entregarte el alma,113.0,0.5487
+2097,vallenato,Nelson Velasquez,Quisiera ser como tú,103.0,0.6408
+2098,vallenato,Nelson Velasquez,Si me vas a amar,110.0,0.4273
+2099,vallenato,Nelson Velasquez,Ven tú,71.0,0.7746
+2100,vallenato,Nelson Velasquez,No puedo perdonarte,80.0,0.775
+2101,vallenato,Nelson Velasquez,Será el final,89.0,0.7303
+2102,vallenato,Nelson Velasquez,Solo amaré,104.0,0.6635
+2103,vallenato,Nelson Velasquez,Tienes que entenderme,119.0,0.5042
+2104,vallenato,Nelson Velasquez,Triste ha quedado,71.0,0.7324
+2105,vallenato,Nelson Velasquez,Y dime,123.0,0.5935
+2106,vallenato,Nelson Velasquez,Y pasara,117.0,0.6068
+2107,vallenato,Nelson Velasquez,Piel a piel,107.0,0.514
+2108,vallenato,Nelson Velasquez,Si la ves,83.0,0.7711
+2109,vallenato,Nelson Velasquez,Entiendelo,73.0,0.6986
+2110,vallenato,Nelson Velasquez,Impredecible,86.0,0.6047
+2111,vallenato,Nelson Velasquez,Ojitos de gato,112.0,0.6339
+2112,vallenato,Silvestre Dangond,Las Locuras Mías,139.0,0.6763
+2113,vallenato,Silvestre Dangond,Niégame Tres Veces,124.0,0.6694
+2114,vallenato,Silvestre Dangond,Después de Tantos Años,88.0,0.7727
+2115,vallenato,Silvestre Dangond,Cásate Conmigo (part. Nicky Jam),113.0,0.4336
+2116,vallenato,Silvestre Dangond,La Indiferencia,192.0,0.3698
+2117,vallenato,Silvestre Dangond,Esa Mujer,77.0,0.8182
+2118,vallenato,Silvestre Dangond,A Blanco Y Negro,124.0,0.4597
+2119,vallenato,Silvestre Dangond,Como Lo Hizo,86.0,0.5581
+2120,vallenato,Silvestre Dangond,Justicia (part. Natti Natasha),138.0,0.5217
+2121,vallenato,Silvestre Dangond,Si Yo Supiera,125.0,0.696
+2122,vallenato,Silvestre Dangond,La Difunta,160.0,0.5875
+2123,vallenato,Silvestre Dangond,Culpa de Los Dos,115.0,0.5739
+2124,vallenato,Silvestre Dangond,Ya No Me Duele Más,110.0,0.3818
+2125,vallenato,Silvestre Dangond,Un Beso de Tu Boca,75.0,0.5333
+2126,vallenato,Silvestre Dangond,El Pasado Es Pasado,121.0,0.5537
+2127,vallenato,Silvestre Dangond,Materialista,117.0,0.5897
+2128,vallenato,Silvestre Dangond,La Que Me Quiera La Quiero,90.0,0.7
+2129,vallenato,Silvestre Dangond,No Me Compares Con Nadie,124.0,0.6129
+2130,vallenato,Silvestre Dangond,La Gringa,142.0,0.5704
+2131,vallenato,Silvestre Dangond,Un Amor Verdadero,173.0,0.4913
+2132,vallenato,Silvestre Dangond,Me gusta,188.0,0.3457
+2133,vallenato,Silvestre Dangond,Dile,101.0,0.5644
+2134,vallenato,Silvestre Dangond,El Tiempo,113.0,0.7345
+2135,vallenato,Silvestre Dangond,Pierde Conmigo La Razón,114.0,0.4386
+2136,vallenato,Silvestre Dangond,Ni Punto E' Comparacion (part. Rolando Ochoa),107.0,0.7944
+2137,vallenato,Silvestre Dangond,La Varita de San José,39.0,0.4872
+2138,vallenato,Silvestre Dangond,La Última Vez,78.0,0.6282
+2139,vallenato,Silvestre Dangond,Calidad de Vida,121.0,0.4793
+2140,vallenato,Silvestre Dangond,Con Agua Fria,111.0,0.5856
+2141,vallenato,Silvestre Dangond,El Dilema,106.0,0.5755
+2142,vallenato,Silvestre Dangond,Lo Ajeno Se Respeta,132.0,0.2652
+2143,vallenato,Silvestre Dangond,Loco Paranoico,130.0,0.4923
+2144,vallenato,Silvestre Dangond,Cantinero,126.0,0.5159
+2145,vallenato,Silvestre Dangond,El Glu Glu,156.0,0.5192
+2146,vallenato,Silvestre Dangond,La Tartamuda,113.0,0.5664
+2147,vallenato,Silvestre Dangond,Mi Amor Eres Tu,124.0,0.4435
+2148,vallenato,Silvestre Dangond,La Llamadita,107.0,0.4299
+2149,vallenato,Silvestre Dangond,Sigo Siendo El Papa,119.0,0.4538
+2150,vallenato,Silvestre Dangond,Volvi a Llorar,121.0,0.8182
+2151,vallenato,Silvestre Dangond,Baila Vallenato,134.0,0.5448
+2152,vallenato,Silvestre Dangond,Mala Jugada,101.0,0.5842
+2153,vallenato,Silvestre Dangond,Loco Por Tu Amor,149.0,0.6107
+2154,vallenato,Silvestre Dangond,Parranda Celestial,231.0,0.7056
+2155,vallenato,Silvestre Dangond,Vivir Bailando (part. Maluma),192.0,0.4479
+2156,vallenato,Silvestre Dangond,A Escondidas,94.0,0.7021
+2157,vallenato,Silvestre Dangond,Ahí Viene Ahí Va,145.0,0.7034
+2158,vallenato,Silvestre Dangond,Déjame Quererte,151.0,0.4503
+2159,vallenato,Silvestre Dangond,El Que Te Gusta Soy Yo,15.0,0.7333
+2160,vallenato,Silvestre Dangond,Los Tengo de Payasos (part. Rolando Ochoa),49.0,0.7347
+2161,vallenato,Silvestre Dangond,Manda Cachaza,100.0,0.6
+2162,vallenato,Silvestre Dangond,El Confite,110.0,0.5545
+2163,vallenato,Silvestre Dangond,EL Silvestrazo,92.0,0.4674
+2164,vallenato,Silvestre Dangond,Estupido,155.0,0.7548
+2165,vallenato,Silvestre Dangond,Mi Deseo (part Américo),117.0,0.359
+2166,vallenato,Silvestre Dangond,No Tenemos La Culpa (part. Monáco),80.0,0.65
+2167,vallenato,Silvestre Dangond,Estamos Jodidos,57.0,0.7018
+2168,vallenato,Silvestre Dangond,Me Tiene Pechichón,137.0,0.2263
+2169,vallenato,Silvestre Dangond,No Voy a Dejarla,167.0,0.4671
+2170,vallenato,Silvestre Dangond,Firi Firi,104.0,0.8462
+2171,vallenato,Silvestre Dangond,Hoy Me Emborracho,102.0,0.4902
+2172,vallenato,Silvestre Dangond,La Ciquitrilla,84.0,0.619
+2173,vallenato,Silvestre Dangond,Pa Que,91.0,0.6484
+2174,vallenato,Silvestre Dangond,Sé Que Estás Con Él (part. Reik y Boza),110.0,0.6
+2175,vallenato,Silvestre Dangond,Tengo Un Dios,55.0,0.8182
+2176,vallenato,Silvestre Dangond,Tu Amor No Fue Amor (part. Rubén Lanao),103.0,0.6796
+2177,vallenato,Silvestre Dangond,Un Motivo Especial,99.0,0.7071
+2178,vallenato,Silvestre Dangond,Vallenato Apretao,103.0,0.5631
+2179,vallenato,Silvestre Dangond,Rico Yo,157.0,0.5478
+2180,vallenato,Silvestre Dangond,Mi Debilidad,90.0,0.5444
+2181,vallenato,Adriana Lucía,Llegaste Tu,125.0,0.56
+2182,vallenato,Adriana Lucía,En Los Dias Que Te Quise,131.0,0.7099
+2183,vallenato,Adriana Lucía,Enamórate Como Yo,94.0,0.8404
+2184,vallenato,Adriana Lucía,Olvidarte Es Imposible,106.0,0.6321
+2185,vallenato,Adriana Lucía,Quiero Que Te Quedes,112.0,0.4643
+2186,vallenato,Adriana Lucía,Quisiera Olvidarme de Ti,115.0,0.5913
+2187,vallenato,Adriana Lucía,Dilo,86.0,0.6628
+2188,vallenato,Adriana Lucía,Bendita Luna,174.0,0.5
+2189,vallenato,Adriana Lucía,Cedro,97.0,0.3918
+2190,vallenato,Adriana Lucía,Dime,89.0,0.5056
+2191,vallenato,Adriana Lucía,No Importa,116.0,0.4828
+2192,vallenato,Adriana Lucía,No Se Como Se Llama,14.0,0.9286
+2193,vallenato,Adriana Lucía,No Hay Una Vida Que No Nos Duela,94.0,0.4255
+2194,vallenato,Adriana Lucía,Champeta Rosa,76.0,0.5789
+2195,vallenato,Adriana Lucía,Siempre Te Voy a Esperar,114.0,0.6053
+2196,vallenato,Felipe Peláez,Loco,78.0,0.6026
+2197,vallenato,Felipe Peláez,Cuando Quieras Quiero,181.0,0.4586
+2198,vallenato,Felipe Peláez,Te Amo y Te Amo,155.0,0.5161
+2199,vallenato,Felipe Peláez,Tan Natural,112.0,0.4464
+2200,vallenato,Felipe Peláez,Vivo Pensando En Ti (part. Maluma),141.0,0.461
+2201,vallenato,Felipe Peláez,El Amor Mas Grande Del Planeta,121.0,0.4545
+2202,vallenato,Felipe Peláez,Lo Tienes Todo,131.0,0.6641
+2203,vallenato,Felipe Peláez,Pide Lo que Quieras,102.0,0.8725
+2204,vallenato,Felipe Peláez,Algún día,150.0,0.4467
+2205,vallenato,Felipe Peláez,Caminare,149.0,0.4094
+2206,vallenato,Felipe Peláez,Famoso por Quererte,133.0,0.4962
+2207,vallenato,Felipe Peláez,Solo Tuyo,129.0,0.4109
+2208,vallenato,Felipe Peláez,"La Que Se Fue, Se Fue",129.0,0.6357
+2209,vallenato,Felipe Peláez,Una Aventura Más!,55.0,0.8909
+2210,vallenato,Felipe Peláez,Fue un amor de verdad,96.0,0.4792
+2211,vallenato,Felipe Peláez,Demasiado tarde,78.0,0.8333
+2212,vallenato,Felipe Peláez,Mi Celosa Hermosa,66.0,0.4848
+2213,vallenato,Felipe Peláez,Dame Un Besito,145.0,0.4552
+2214,vallenato,Felipe Peláez,Quiero Enamorarme de Ti,154.0,0.526
+2215,vallenato,Felipe Peláez,Después de Ti,68.0,0.8971
+2216,vallenato,Felipe Peláez,Que me puedas amar,91.0,0.5824
+2217,vallenato,Felipe Peláez,Encontré Lo Que Quería,177.0,0.5085
+2218,vallenato,Felipe Peláez,Se te hizo tarde,91.0,0.7473
+2219,vallenato,Felipe Peláez,Amapola,49.0,0.6735
+2220,vallenato,Felipe Peláez,Cadenas de Amor,98.0,0.7857
+2221,vallenato,Felipe Peláez,Cuando Vuelvas!,135.0,0.4444
+2222,vallenato,Felipe Peláez,La Mitad De Mi Vida,99.0,0.6061
+2223,vallenato,Felipe Peláez,Te amo,88.0,0.6818
+2224,vallenato,Felipe Peláez,Todo de mi todo,101.0,0.5644
+2225,vallenato,Felipe Peláez,Que más puedo hacer,89.0,0.7191
+2226,vallenato,Felipe Peláez,Te estoy queriendo,135.0,0.5037
+2227,vallenato,Felipe Peláez,Te Tengo Ganas,103.0,0.3592
+2228,vallenato,Felipe Peláez,Una como tu,100.0,0.62
+2229,vallenato,Felipe Peláez,Yo quiero volver,137.0,0.5328
+2230,vallenato,Felipe Peláez,Me Gustas,99.0,0.8586
+2231,vallenato,Felipe Peláez,Vivo Enamorado,142.0,0.7042
+2232,vallenato,Felipe Peláez,Y entonces,205.0,0.3317
+2233,vallenato,Felipe Peláez,Buscaré Quién Me Quiera,146.0,0.4452
+2234,vallenato,Felipe Peláez,De lejitos mejor,91.0,0.6923
+2235,vallenato,Felipe Peláez,El amor de los dos,99.0,0.8182
+2236,vallenato,Felipe Peláez,El Tornillo,180.0,0.4278
+2237,vallenato,Felipe Peláez,Lo que estoy sintiendo( yo quisiera saber),97.0,0.4845
+2238,vallenato,Felipe Peláez,No te escondas (con Silvestre Dangond),89.0,0.8427
+2239,vallenato,Felipe Peláez,Ojalà,73.0,0.7945
+2240,vallenato,Felipe Peláez,Tu Hombre Soy Yo,121.0,0.3636
+2241,vallenato,Felipe Peláez,Ahora dime tú,128.0,0.5078
+2242,vallenato,Felipe Peláez,Amor Del Bueno,133.0,0.4887
+2243,vallenato,Felipe Peláez,Cariñito donde estas,68.0,0.4853
+2244,vallenato,Felipe Peláez,Ella y Tú,68.0,0.7794
+2245,vallenato,Felipe Peláez,Empecemos de cero,97.0,0.5979
+2246,vallenato,Felipe Peláez,Llegaste tú,126.0,0.3095
+2247,vallenato,Felipe Peláez,Llego el momento,84.0,0.869
+2248,vallenato,Felipe Peláez,Otro cuento,89.0,0.8315
+2249,vallenato,Felipe Peláez,Pase lo que pase,145.0,0.6207
+2250,vallenato,Felipe Peláez,Serás mía,61.0,0.7213
+2251,vallenato,Felipe Peláez,Un millon de estrellas,262.0,0.2786
+2252,vallenato,Felipe Peláez,Verso inteligente,220.0,0.4545
+2253,vallenato,Felipe Peláez,Borracha,121.0,0.3554
+2254,vallenato,Felipe Peláez,Cada minuto,109.0,0.7982
+2255,vallenato,Felipe Peláez,Catapun,185.0,0.3351
+2256,vallenato,Felipe Peláez,Culpable de tu amor,128.0,0.6328
+2257,vallenato,Felipe Peláez,Decirte preciosa,114.0,0.5965
+2258,vallenato,Felipe Peláez,El final de aquella historia,117.0,0.6923
+2259,vallenato,Felipe Peláez,El Papa de los Amores,97.0,0.701
+2260,vallenato,Felipe Peláez,Entonses no serás,80.0,0.9
+2261,vallenato,Felipe Peláez,Esperaré por ti,38.0,0.7632
+2262,vallenato,Felipe Peláez,La chispita,96.0,0.4375
+2263,vallenato,Felipe Peláez,La Consentida,108.0,0.7963
+2264,vallenato,Felipe Peláez,La Mía Eres Tú,95.0,0.5368
+2265,vallenato,Felipe Peláez,Mi Mundo,122.0,0.4262
+2266,vallenato,Felipe Peláez,Mi nene lindo,76.0,0.6711
+2267,vallenato,Felipe Peláez,No Juegues Conmigo,101.0,0.7228
+2268,vallenato,Felipe Peláez,No Te Creo (part. Nacho y Noriel),151.0,0.5762
+2269,vallenato,Felipe Peláez,No Te Vayas,119.0,0.3866
+2270,vallenato,Felipe Peláez,Por Ti Y Para Ti,92.0,0.3804
+2271,vallenato,Felipe Peláez,Que no pase la magia,88.0,0.6023
+2272,vallenato,Felipe Peláez,Quien más te quiere,107.0,0.6636
+2273,vallenato,Felipe Peláez,Robarme tu corazon,81.0,0.4815
+2274,vallenato,Felipe Peláez,Se Te Olvidó,115.0,0.6348
+2275,vallenato,Felipe Peláez,Seguire soñando solo,82.0,0.8415
+2276,vallenato,Felipe Peláez,Será Mejor Que Me Olvides,130.0,0.7154
+2277,vallenato,Felipe Peláez,Solo amigos,47.0,0.7021
+2278,vallenato,Felipe Peláez,Voy Con Todo,136.0,0.375
+2279,vallenato,Felipe Peláez,Adolorido,88.0,0.7159
+2280,vallenato,Felipe Peláez,Cuando el amor se acaba,124.0,0.4758
+2281,vallenato,Felipe Peláez,Dama Un Besito,129.0,0.4729
+2282,vallenato,Felipe Peláez,El Milagrito,85.0,0.5176
+2283,vallenato,Felipe Peláez,Empecemos Del Cero,100.0,0.61
+2284,vallenato,Felipe Peláez,En Nombre de los Hombres,94.0,0.6915
+2285,vallenato,Felipe Peláez,He Vuelto a Respirar,112.0,0.5982
+2286,vallenato,Felipe Peláez,La reina de mi vida,57.0,0.9298
+2287,vallenato,Felipe Peláez,Me queda el consuelo,131.0,0.7405
+2288,vallenato,Felipe Peláez,Mirame de Frente (part. Kany Garcia),114.0,0.5
+2289,vallenato,Felipe Peláez,No Eras Tú,94.0,0.4894
+2290,vallenato,Felipe Peláez,No me Pidas que te olvide,155.0,0.6516
+2291,vallenato,Felipe Peláez,No puedo olvidarla,133.0,0.7218
+2292,vallenato,Felipe Peláez,Otra oportunidad,64.0,0.4375
+2293,vallenato,Felipe Peláez,Pa las que sea,151.0,0.5298
+2294,vallenato,Felipe Peláez,Que nunca sepan,154.0,0.7662
+2295,vallenato,Felipe Peláez,Quién te crees?,44.0,0.6364
+2296,vallenato,Los Diablitos,Tres Noches,145.0,0.6069
+2297,vallenato,Los Diablitos,Sueños de Olvido,145.0,0.5931
+2298,vallenato,Los Diablitos,Vuela Por Otro Rumbo,171.0,0.6842
+2299,vallenato,Los Diablitos,Que No Me Faltes Tú,161.0,0.4286
+2300,vallenato,Los Diablitos,No Voy a Llorar,143.0,0.5245
+2301,vallenato,Los Diablitos,Los Caminos de La Vida,117.0,0.641
+2302,vallenato,Los Diablitos,Novios Cruzados,128.0,0.75
+2303,vallenato,Los Diablitos,Historia,142.0,0.8239
+2304,vallenato,Los Diablitos,A Besitos,132.0,0.4621
+2305,vallenato,Los Diablitos,Busca un Confidente,100.0,0.62
+2306,vallenato,Los Diablitos,No te vayas,177.0,0.4802
+2307,vallenato,Los Diablitos,Mi Diosa Humana,149.0,0.4966
+2308,vallenato,Los Diablitos,¿Qué Hago Si Te Pierdo?,148.0,0.5676
+2309,vallenato,Los Diablitos,Sólo Quiéreme,127.0,0.5118
+2310,vallenato,Los Diablitos,Quien Perderá,125.0,0.64
+2311,vallenato,Los Diablitos,Me Tiraste Al Mar,150.0,0.5333
+2312,vallenato,Los Diablitos,Yo Te Tengo Que Olvidar,120.0,0.625
+2313,vallenato,Los Diablitos,Amor de Tres,124.0,0.5565
+2314,vallenato,Los Diablitos,Escúchame,127.0,0.5118
+2315,vallenato,Los Diablitos,El Final Del Amor,106.0,0.8208
+2316,vallenato,Los Diablitos,Donde Está,103.0,0.6893
+2317,vallenato,Los Diablitos,Dónde Están Esos Amores,72.0,0.7778
+2318,vallenato,Los Diablitos,Solo Pienso En Tenerla,142.0,0.4155
+2319,vallenato,Los Diablitos,Si No Me Falla El Corazón,152.0,0.5263
+2320,vallenato,Los Diablitos,Y No Estás Aquí,135.0,0.563
+2321,vallenato,Los Diablitos,Ocho De Junio,81.0,0.7901
+2322,vallenato,Los Diablitos,Por una Mentira,182.0,0.5549
+2323,vallenato,Los Diablitos,Hasta Cuándo Señor,116.0,0.7069
+2324,vallenato,Los Diablitos,Devuélveme Todo,113.0,0.4956
+2325,vallenato,Los Diablitos,Las Razones del Amor,175.0,0.4857
+2326,vallenato,Los Diablitos,Hoja En Blanco,149.0,0.7047
+2327,vallenato,Los Diablitos,Un Amor Tan Lindo,138.0,0.5652
+2328,vallenato,Los Diablitos,Amame,132.0,0.447
+2329,vallenato,Los Diablitos,Lo Que Quiero Eres Tú,90.0,0.5333
+2330,vallenato,Los Diablitos,Y Yo Ni Se Diga,115.0,0.6609
+2331,vallenato,Los Diablitos,Ya Tengo Quien Me Quiera,113.0,0.7257
+2332,vallenato,Los Diablitos,llamame,103.0,0.6796
+2333,vallenato,Los Diablitos,No Es Amigo El Corazón,149.0,0.349
+2334,vallenato,Los Diablitos,No La Lastimes Mas,91.0,0.8352
+2335,vallenato,Los Diablitos,Yo Soy Tu Cielo,104.0,0.4423
+2336,vallenato,Los Diablitos,"Alégrate, Mamá",127.0,0.6142
+2337,vallenato,Los Diablitos,Por Un Error,140.0,0.4929
+2338,vallenato,Los Diablitos,Te Daré Lo Que Soy,136.0,0.5441
+2339,vallenato,Patricia Teherán,Tarde Lo Conocí,127.0,0.7323
+2340,vallenato,Patricia Teherán,Todo Daria Por Ti,87.0,0.8391
+2341,vallenato,Patricia Teherán,Me Dejaste Sin Nada,98.0,0.7041
+2342,vallenato,Patricia Teherán,Amor de Papel,99.0,0.6162
+2343,vallenato,Patricia Teherán,Triste y Sola,79.0,0.6709
+2344,vallenato,Patricia Teherán,Acaso No Me Crees,90.0,0.7556
+2345,vallenato,Farid Ortiz,Mi Cafetal,49.0,0.4898
+2346,vallenato,Farid Ortiz,No Puedo Olvidarte,87.0,0.8736
+2347,vallenato,Farid Ortiz,Melodía Para Dios,154.0,0.6883
+2348,vallenato,Farid Ortiz,El Vendaval,109.0,0.5138
+2349,vallenato,Farid Ortiz,Pregúntele a Su Hija,123.0,0.3984
+2350,vallenato,Farid Ortiz,Quién Fue,86.0,0.8721
+2351,vallenato,Farid Ortiz,Prisionero de Amor,123.0,0.7724
+2352,vallenato,Farid Ortiz,ES MEJOR NO DECIRLO,98.0,0.7755
+2353,vallenato,Farid Ortiz,Aunque Mal Paguen Ellas,24.0,1.0
+2354,vallenato,Farid Ortiz,En Busca de Ella,90.0,0.6667
+2355,vallenato,Farid Ortiz,Se Acabaron,62.0,0.6935
+2356,vallenato,Farid Ortiz,Borrón y cuenta nueva,76.0,0.5395
+2357,vallenato,Farid Ortiz,Solo En La Vida (part. Emilio Oviedo),102.0,0.6275
+2358,vallenato,Farid Ortiz,Amor Prohibido,110.0,0.5
+2359,vallenato,Farid Ortiz,No Me Falles,53.0,0.5849
+2360,vallenato,Farid Ortiz,S.O.S.,106.0,0.566
+2361,vallenato,Farid Ortiz,Altos Del Rosario,84.0,0.3214
+2362,vallenato,Farid Ortiz,De nada sirve llorar,112.0,0.6161
+2363,vallenato,Farid Ortiz,Razones de Amor,98.0,0.6633
+2364,vallenato,Farid Ortiz,Solo Los Dos,76.0,0.7632
+2365,vallenato,Farid Ortiz,Te Bailaron El Indio,93.0,0.6022
+2366,vallenato,Farid Ortiz,De Que Te Beso Te Beso,53.0,0.6604
+2367,vallenato,Farid Ortiz,Acéptame,91.0,0.5604
+2368,vallenato,Farid Ortiz,Como Te Quise Te Olvido,97.0,0.6392
+2369,vallenato,Farid Ortiz,El Acoso,79.0,0.7595
+2370,vallenato,Los Betos,Volvi a Soñar,109.0,0.6606
+2371,vallenato,Los Betos,Castillo de Arena,97.0,0.8454
+2372,vallenato,Los Betos,Mis Viejos Queridos,134.0,0.5373
+2373,vallenato,Los Betos,Una Cancion Especial,111.0,0.8919
+2374,vallenato,Los Betos,Tu Hombre Soy Yo,122.0,0.6393
+2375,vallenato,Los Betos,Gitana,106.0,0.7547
+2376,vallenato,Los Betos,Cristal de Mis Pupilas,117.0,0.5726
+2377,vallenato,Los Betos,Mi Novia,79.0,0.9114
+2378,vallenato,Los Betos,Se Va La Reina,80.0,0.775
+2379,vallenato,Los Betos,Mi Media Naranja,139.0,0.6978
+2380,vallenato,Los Betos,Benditos Versos,132.0,0.7576
+2381,vallenato,Los Betos,Bendita Suerte,130.0,0.8615
+2382,vallenato,Los Betos,Cuando La Vi,118.0,0.8051
+2383,vallenato,Los Betos,La Demanda,76.0,0.8421
+2384,vallenato,Los Betos,La Mitad de Mi Vida,105.0,0.5429
+2385,vallenato,Los Betos,Mil Versos de Olvido,116.0,0.6983
+2386,vallenato,Los Betos,Asi No Es Ella,100.0,0.94
+2387,vallenato,Los Betos,Gemela,78.0,0.6795
+2388,vallenato,Los Betos,Aquel Amor,94.0,0.9043
+2389,vallenato,Los Betos,La Que Me Mueve El Piso,131.0,0.5267
+2390,vallenato,Los Betos,Cual de Los Dos,100.0,0.81
+2391,vallenato,Los Betos,Descenlace,107.0,0.9159
+2392,vallenato,Los Betos,Un Collar de Versos,109.0,0.789
+2393,vallenato,Los Betos,Canciones Lindas,92.0,0.8478
+2394,vallenato,Los Betos,Errante,133.0,0.6842
+2395,vallenato,Los Betos,La Formulita,114.0,0.807
+2396,vallenato,Los Betos,Que Ingratitud,133.0,0.6241
+2397,vallenato,Los Betos,Regalo Mis Canciones,100.0,0.71
+2398,vallenato,Los Betos,A Mi No Me Importa,56.0,0.9464
+2399,vallenato,Los Betos,Déjenme Quererla,79.0,0.6962
+2400,vallenato,Los Betos,Ilusión,114.0,0.5614
+2401,vallenato,Los Betos,Lluvia de Mujeres,102.0,0.7255
+2402,vallenato,Los Betos,No Cambies,49.0,0.8571
+2403,vallenato,Los Betos,Por Jugar Al Amor,120.0,0.6917
+2404,vallenato,Los Betos,Quiero Ser Tu Novio,135.0,0.4667
+2405,vallenato,Los Betos,Ausencia Sentimental,137.0,0.9124
+2406,vallenato,Los Betos,Lo Mismo Que Siento Yo,84.0,0.6429
+2407,vallenato,Los Betos,Y Hasta Mas,110.0,0.6636
+2408,vallenato,Los Betos,Pueblerina,116.0,0.7672
+2409,vallenato,Los Betos,La Ley Del Embudo,95.0,0.6
+2410,vallenato,Los Betos,Malas y Buenas,60.0,0.6333
+2411,vallenato,Los Betos,Olvida Esa Pena,61.0,0.7213
+2412,vallenato,Los Betos,Bendito Diciembre,126.0,0.746
+2413,vallenato,Los Betos,El besito,67.0,0.4776
+2414,vallenato,Los Betos,Flores De Abril,132.0,0.5152
+2415,vallenato,Los Betos,Que Bonita Ni Que Na,85.0,0.5059
+2416,vallenato,Martín Elías,Te Amaré,115.0,0.4087
+2417,vallenato,Martín Elías,El Terremoto,79.0,0.8101
+2418,vallenato,Martín Elías,Loco Por Tu Amor,148.0,0.6014
+2419,vallenato,Martín Elías,Abrete,127.0,0.5984
+2420,vallenato,Martín Elías,Benditos Celos,109.0,0.6147
+2421,vallenato,Martín Elías,En Cuerpo y Alma (part. Rolando Ochoa),106.0,0.5943
+2422,vallenato,Martín Elías,10 Razones Para Amarte (part. Juancho de La Espriella),136.0,0.4191
+2423,vallenato,Martín Elías,Al Fin Llegaste Tu,133.0,0.5564
+2424,vallenato,Martín Elías,El Latigo,116.0,0.4655
+2425,vallenato,Martín Elías,Cancelada de mi vida,122.0,0.5574
+2426,vallenato,Martín Elías,Linda,133.0,0.5338
+2427,vallenato,Martín Elías,No Tengas Duda de Mi,118.0,0.5593
+2428,vallenato,Martín Elías,Pecar Es Sabroso,101.0,0.7426
+2429,vallenato,Martín Elías,Amor Amor,49.0,0.449
+2430,vallenato,Martín Elías,El Complemento de Mi Vida,77.0,0.5455
+2431,vallenato,Martín Elías,Problema Tuyo,89.0,0.5843
+2432,vallenato,Martín Elías,El Que Quiero Yo,109.0,0.4587
+2433,vallenato,Martín Elías,Yo Soy Mundial,171.0,0.5263
+2434,vallenato,Carlos Vives,Pa' mayte,69.0,0.4348
+2435,vallenato,Carlos Vives,La Bicicleta (part. Shakira),160.0,0.4312
+2436,vallenato,Carlos Vives,Las Mujeres (part. Juanes),113.0,0.3805
+2437,vallenato,Carlos Vives,Robarte Un Beso (part. Sebastián Yatra),148.0,0.3041
+2438,vallenato,Carlos Vives,La Gota Fria,69.0,0.6812
+2439,vallenato,Carlos Vives,La Tierra Del Olvido,86.0,0.4651
+2440,vallenato,Carlos Vives,Volvi a Nacer,101.0,0.4752
+2441,vallenato,Carlos Vives,Carnavalito,77.0,0.1818
+2442,vallenato,Carlos Vives,Cuando Nos Volvamos a Encontrar (part. Marc Anthony),115.0,0.4783
+2443,vallenato,Carlos Vives,El Testamento,81.0,0.8519
+2444,vallenato,Carlos Vives,Carito,125.0,0.8
+2445,vallenato,Omar Geles,Serenata a Mamá,124.0,0.6613
+2446,vallenato,Omar Geles,A Blanco Y Negro,124.0,0.4516
+2447,vallenato,Omar Geles,Pueda ser que no me extrañes,70.0,0.8286
+2448,vallenato,Omar Geles,Hoja En Blanco,152.0,0.6974
+2449,vallenato,Omar Geles,Mi mamá me lo decía,111.0,0.4775
+2450,vallenato,Omar Geles,Eres mi Todo,131.0,0.542
+2451,vallenato,Omar Geles,Lo más dificil,135.0,0.5185
+2452,vallenato,Omar Geles,Chao Amor,162.0,0.4506
+2453,vallenato,Omar Geles,Sin tí no hay cielo,116.0,0.5172
+2454,vallenato,Omar Geles,A Ella Le Luce Todo,82.0,0.8049
+2455,vallenato,Omar Geles,Mi ilusión,178.0,0.5674
+2456,vallenato,Peter Manjarres,Obsesión,121.0,0.6529
+2457,vallenato,Peter Manjarres,Que Dios te bendiga,179.0,0.4302
+2458,vallenato,Peter Manjarres,Tu loco soy yo,146.0,0.5274
+2459,vallenato,Peter Manjarres,Amor De Mi Sabana,97.0,0.5979
+2460,vallenato,Peter Manjarres,Me Vale Ver...t,89.0,0.3708
+2461,vallenato,Peter Manjarres,Te Espeliculaste,106.0,0.566
+2462,vallenato,Peter Manjarres,Me Llevas Al Cielo,138.0,0.4783
+2463,vallenato,Peter Manjarres,Dime Que Sí,87.0,0.5057
+2464,vallenato,Peter Manjarres,El papa de los amores,92.0,0.7065
+2465,vallenato,Peter Manjarres,Imbatible (part. Sergio Luis Rodriguez),83.0,0.4699
+2466,salsa,Marc Anthony,Vivir Mi Vida,97.0,0.3505
+2467,salsa,Marc Anthony,Flor Pálida,85.0,0.6588
+2468,salsa,Marc Anthony,Muy Dentro De Mi,83.0,0.5542
+2469,salsa,Marc Anthony,Te Amaré,72.0,0.625
+2470,salsa,Marc Anthony,Tu Amor Me Hace Bien,87.0,0.6092
+2471,salsa,Marc Anthony,Vivir Lo Nuestro,168.0,0.381
+2472,salsa,Marc Anthony,Y Cómo Es El,83.0,0.5301
+2473,salsa,Marc Anthony,Ahora Quién (Salsa Versión),133.0,0.5038
+2474,salsa,Marc Anthony,Valió La Pena,102.0,0.4314
+2475,salsa,Marc Anthony,Y Hubo Alguien,150.0,0.5133
+2476,salsa,Marc Anthony,Hasta Ayer,110.0,0.6
+2477,salsa,Marc Anthony,Dejé de Amar (part. Don Felipe Muñiz),94.0,0.5319
+2478,salsa,Marc Anthony,Te Conozco Bien,114.0,0.4298
+2479,salsa,Marc Anthony,Que Precio Tiene El Cielo,144.0,0.4583
+2480,salsa,Marc Anthony,I Need You,364.0,0.2363
+2481,salsa,Marc Anthony,You Sang To Me,437.0,0.1876
+2482,salsa,Marc Anthony,My Baby You,181.0,0.4309
+2483,salsa,Marc Anthony,Contra La Corriente,56.0,0.4821
+2484,salsa,Marc Anthony,Cambio de Piel,110.0,0.4636
+2485,salsa,Marc Anthony,Pa’lla Voy,97.0,0.299
+2486,salsa,Marc Anthony,No Me Conoces,87.0,0.6782
+2487,salsa,Marc Anthony,When I Dream At Night,240.0,0.3292
+2488,salsa,Marc Anthony,Yo Trato,160.0,0.375
+2489,salsa,Marc Anthony,Volando Entre Tus Brazos,76.0,0.5
+2490,salsa,Marc Anthony,Este Loco Que Te Mira,96.0,0.6667
+2491,salsa,Marc Anthony,Tu Vida En La Mía,94.0,0.5851
+2492,salsa,Marc Anthony,Preciosa,103.0,0.6796
+2493,salsa,Marc Anthony,Dimelo (I Need To Know),46.0,0.6739
+2494,salsa,Marc Anthony,Escapémonos,86.0,0.5116
+2495,salsa,Marc Anthony,Mala,158.0,0.1709
+2496,salsa,Marc Anthony,I Need To Know,186.0,0.3441
+2497,salsa,Marc Anthony,Llegaste a Mí,153.0,0.3987
+2498,salsa,Marc Anthony,Parecen Viernes,101.0,0.4356
+2499,salsa,Marc Anthony,A Quien Quiero Mentirle,79.0,0.4051
+2500,salsa,Marc Anthony,Aguanile,161.0,0.3416
+2501,salsa,Marc Anthony,Amar Sin Mentiras,75.0,0.5333
+2502,salsa,Marc Anthony,Nada de Nada,75.0,0.68
+2503,salsa,Marc Anthony,Celos,134.0,0.5075
+2504,salsa,Marc Anthony,Nadie Como Ella,45.0,0.8667
+2505,salsa,Marc Anthony,Tan Solo Palabras,85.0,0.4118
+2506,salsa,Marc Anthony,Está Rico (part. Bad Bunny &amp; Will Smith),272.0,0.4559
+2507,salsa,Marc Anthony,Flor Pálida,65.0,0.6615
+2508,salsa,Marc Anthony,Lamento Borincano,99.0,0.7374
+2509,salsa,Marc Anthony,Palabras Del Alma,155.0,0.329
+2510,salsa,Marc Anthony,No Sabes Como Duele,43.0,0.8837
+2511,salsa,Marc Anthony,Si Te Vas,163.0,0.3497
+2512,salsa,Marc Anthony,Así Como Hoy,104.0,0.3462
+2513,salsa,Marc Anthony,El Que Te Amaba,105.0,0.3333
+2514,salsa,Marc Anthony,Un Mal Sueno,61.0,0.8852
+2515,salsa,Marc Anthony,Yo Le Mentí,95.0,0.4737
+2516,salsa,Rubén Blades,Amor y Control,133.0,0.6842
+2517,salsa,Rubén Blades,Lágrimas,168.0,0.5952
+2518,salsa,Rubén Blades,Pedro Navaja (part. Willie Colon),275.0,0.6109
+2519,salsa,Rubén Blades,Decisiones,163.0,0.7485
+2520,salsa,Rubén Blades,Patria,64.0,0.7188
+2521,salsa,Rubén Blades,Plástico (part. Willie Colon),273.0,0.5934
+2522,salsa,Rubén Blades,Sorpresa,152.0,0.7632
+2523,salsa,Rubén Blades,Maestra Vida,197.0,0.5838
+2524,salsa,Rubén Blades,El Padre Antonio (Y Su Monaguillo Andrés),201.0,0.5721
+2525,salsa,Rubén Blades,Adan Garcia,131.0,0.8168
+2526,salsa,Rubén Blades,Buscando Guayaba,137.0,0.4818
+2527,salsa,Rubén Blades,Plantación Adentro (part. Willie Colon),143.0,0.3427
+2528,salsa,Rubén Blades,Desapariciones,120.0,0.8583
+2529,salsa,Rubén Blades,Maria Lionza,176.0,0.4261
+2530,salsa,Rubén Blades,Por Tu Mala Maña,180.0,0.4944
+2531,salsa,Rubén Blades,Tiburon (part. Willie Colon),153.0,0.5294
+2532,salsa,Rubén Blades,Camaleón,100.0,0.55
+2533,salsa,Rubén Blades,Creo En Ti,85.0,0.8941
+2534,salsa,Rubén Blades,El Cantante,194.0,0.5309
+2535,salsa,Rubén Blades,Según El Color,155.0,0.4774
+2536,salsa,Rubén Blades,Tras La Tormenta,124.0,0.8226
+2537,salsa,Rubén Blades,Cipriano Armenteros,126.0,0.754
+2538,salsa,Rubén Blades,El Nacimiento de Ramiro,294.0,0.5204
+2539,salsa,Rubén Blades,Ojos De Perro Azul,151.0,0.6755
+2540,salsa,Rubén Blades,Caína,18.0,0.6111
+2541,salsa,Rubén Blades,De Que,86.0,0.5581
+2542,salsa,Rubén Blades,Paula C,207.0,0.4106
+2543,salsa,Rubén Blades,Yo Puedo Vivir Del Amor,227.0,0.4802
+2544,salsa,Rubén Blades,Caminando,62.0,0.6452
+2545,salsa,Rubén Blades,Cuentas Del Alma,64.0,0.7344
+2546,salsa,Rubén Blades,Juan Pachanga,128.0,0.4922
+2547,salsa,Rubén Blades,Las Calles,109.0,0.8991
+2548,salsa,Rubén Blades,Pablo Pueblo,183.0,0.5574
+2549,salsa,Rubén Blades,Naturaleza muerta,78.0,0.7308
+2550,salsa,Rubén Blades,Siembra,152.0,0.5461
+2551,salsa,Rubén Blades,Te Están Buscando (part. Willie  Colón),156.0,0.5385
+2552,salsa,Rubén Blades,Todos Vuelven,47.0,0.8511
+2553,salsa,Rubén Blades,El Cazangero,173.0,0.3584
+2554,salsa,Rubén Blades,Hipocresía,99.0,0.9192
+2555,salsa,Rubén Blades,La Perla,425.0,0.6918
+2556,salsa,Rubén Blades,Me Recordarás,42.0,0.7381
+2557,salsa,Rubén Blades,Vida,95.0,0.8947
+2558,salsa,Rubén Blades,Juanito Alimaña,195.0,0.559
+2559,salsa,Rubén Blades,Muévete,97.0,0.866
+2560,salsa,Rubén Blades,Sicarios,82.0,0.8293
+2561,salsa,Rubén Blades,Ya no te puedo querer,68.0,0.7206
+2562,salsa,Rubén Blades,Ligia Elena (part. Willie Colon),181.0,0.5083
+2563,salsa,Rubén Blades,Claro Oscuro,221.0,0.4525
+2564,salsa,Rubén Blades,G.D.B.D.,226.0,0.7965
+2565,salsa,Rubén Blades,Mi Niña Bonita,149.0,0.5034
+2566,salsa,Rey Ruiz,No Me Acostumbro,127.0,0.5827
+2567,salsa,Rey Ruiz,Si Te Preguntan,114.0,0.5263
+2568,salsa,Rey Ruiz,Mi Media Mitad,151.0,0.4172
+2569,salsa,Rey Ruiz,Luna Negra,109.0,0.3486
+2570,salsa,Rey Ruiz,Amiga,106.0,0.6509
+2571,salsa,Rey Ruiz,El Hombre de Tu Vida,136.0,0.4412
+2572,salsa,Rey Ruiz,Creo En El Amor,78.0,0.6282
+2573,salsa,Rey Ruiz,Hasta El Sol De Hoy,50.0,0.58
+2574,salsa,Rey Ruiz,Te Propongo,156.0,0.2692
+2575,salsa,Rey Ruiz,Amigos de Verdad,41.0,0.8537
+2576,salsa,Rey Ruiz,Aparentemente,125.0,0.448
+2577,salsa,Rey Ruiz,Ella,95.0,0.7158
+2578,salsa,Rey Ruiz,No Vale La Pena Enamorarse,70.0,0.4429
+2579,salsa,Rey Ruiz,Eso Digo Yo,120.0,0.6083
+2580,salsa,Rey Ruiz,Si Me Das Un Beso,142.0,0.4577
+2581,salsa,Rey Ruiz,Devorame Otra Vez,86.0,0.4651
+2582,salsa,Rey Ruiz,El Diablo Anda Suelto,175.0,0.4571
+2583,salsa,Rey Ruiz,Desde Que no Estas,53.0,0.8868
+2584,salsa,Rey Ruiz,El Rey Del Mundo,97.0,0.4742
+2585,salsa,Rey Ruiz,Corazon Arrepentido,147.0,0.5714
+2586,salsa,Rey Ruiz,Piano,89.0,0.5169
+2587,salsa,Rey Ruiz,Vengo (Version Salsa),138.0,0.529
+2588,salsa,Rey Ruiz,Enamorado,52.0,0.7115
+2589,salsa,Rey Ruiz,Para Olvidarte,49.0,0.7551
+2590,salsa,Rey Ruiz,Por eso ella esta conmigo,105.0,0.5524
+2591,salsa,Rey Ruiz,El Piano,40.0,0.775
+2592,salsa,Rey Ruiz,Max Demian,85.0,0.6588
+2593,salsa,Rey Ruiz,Tú No Sabes,111.0,0.5946
+2594,salsa,Rey Ruiz,Vereda Tropical,88.0,0.3977
+2595,salsa,Celia Cruz,La Vida Es Un Carnaval,116.0,0.3103
+2596,salsa,Celia Cruz,Burundanga (part. Lola Flores),145.0,0.1379
+2597,salsa,Celia Cruz,Lágrimas Negras,108.0,0.4537
+2598,salsa,Celia Cruz,Guantanamera,65.0,0.5385
+2599,salsa,Celia Cruz,Oye Como Va,102.0,0.4216
+2600,salsa,Celia Cruz,Te Busco,51.0,0.9412
+2601,salsa,Celia Cruz,Feliz en Tu Día,93.0,0.4946
+2602,salsa,Celia Cruz,Quimbara (part. Johnny Pacheco),234.0,0.188
+2603,salsa,Celia Cruz,La Negra Tiene Tumbao,128.0,0.4062
+2604,salsa,Celia Cruz,No Tiene Talento,95.0,0.6
+2605,salsa,Celia Cruz,Yerbero Moderno,166.0,0.1747
+2606,salsa,Celia Cruz,Yo Viviré (I Will Survive),163.0,0.5092
+2607,salsa,Celia Cruz,Ríe y Llora,84.0,0.4167
+2608,salsa,Celia Cruz,Isadora,194.0,0.3866
+2609,salsa,Celia Cruz,Dile Que Por Mí No Tema,49.0,0.7755
+2610,salsa,Celia Cruz,Usted Abusó,94.0,0.4043
+2611,salsa,Celia Cruz,Maquinolandera,141.0,0.2057
+2612,salsa,Celia Cruz,Que Le Den Candela,138.0,0.4783
+2613,salsa,Celia Cruz,Toro Mata (part. Johnny Pacheco),180.0,0.1444
+2614,salsa,Celia Cruz,"Ritmo, Tambor y Flores",171.0,0.1813
+2615,salsa,Celia Cruz,Vieja Luna,36.0,0.4722
+2616,salsa,Celia Cruz,Babalu,74.0,0.4459
+2617,salsa,Celia Cruz,Caramelo a Kilo.,158.0,0.1899
+2618,salsa,Celia Cruz,Las Pilanderas (dúo Matilde Díaz),130.0,0.3308
+2619,salsa,Celia Cruz,Tu Voz (part. Oscar D'León),96.0,0.4583
+2620,salsa,Celia Cruz,Ven Bernabé,91.0,0.6484
+2621,salsa,Celia Cruz,Cuando Salí de Cuba,91.0,0.4396
+2622,salsa,Celia Cruz,Bemba Colorá,235.0,0.3702
+2623,salsa,Celia Cruz,"Quizás, Quizás, Quizás",16.0,0.6875
+2624,salsa,Celia Cruz,Salsipuedes,172.0,0.3081
+2625,salsa,Celia Cruz,Tuya y Más Que Tuya,44.0,0.4318
+2626,salsa,Celia Cruz,Bamboleo,105.0,0.4762
+2627,salsa,Celia Cruz,Te Solté La Rienda,49.0,0.8571
+2628,salsa,Celia Cruz,Azúcar Negra,126.0,0.3254
+2629,salsa,Celia Cruz,Canto a Yemayá,76.0,0.3816
+2630,salsa,Celia Cruz,Cúcala,140.0,0.1571
+2631,salsa,Celia Cruz,Juancito Trucupey,102.0,0.2549
+2632,salsa,Celia Cruz,Por Si Acaso No Regreso,156.0,0.5577
+2633,salsa,Celia Cruz,Vasos Vacíos (part. Los Fabulosos Cadillacs),131.0,0.3359
+2634,salsa,Celia Cruz,Espérame En El Cielo,40.0,0.475
+2635,salsa,Celia Cruz,Historia de Una Rumba,135.0,0.4815
+2636,salsa,Celia Cruz,Perdón,61.0,0.3934
+2637,salsa,Celia Cruz,Cucurucucu Paloma,67.0,0.5821
+2638,salsa,Celia Cruz,El Son De Celia Y Oscar,206.0,0.5146
+2639,salsa,Celia Cruz,Siento La Nostalgia De Palmeras,67.0,0.5224
+2640,salsa,Celia Cruz,Cuando Estoy Contigo,55.0,0.6364
+2641,salsa,Celia Cruz,El Cóndor Pasa,28.0,0.8571
+2642,salsa,Celia Cruz,Gracia Divina,123.0,0.3008
+2643,salsa,Celia Cruz,Luna Sobre Matanzas,44.0,0.7955
+2644,salsa,Celia Cruz,"Mi Amor, Buenas Noches",56.0,0.3036
+2645,salsa,Héctor Lavoe,El Cantante,202.0,0.5743
+2646,salsa,Héctor Lavoe,Triste y Vacía,128.0,0.4922
+2647,salsa,Héctor Lavoe,Juanito Alimaña,216.0,0.4815
+2648,salsa,Héctor Lavoe,El Rey de La Puntualidad,123.0,0.6911
+2649,salsa,Héctor Lavoe,Ausencia,108.0,0.5833
+2650,salsa,Héctor Lavoe,Todo Tiene Su Final,68.0,0.8235
+2651,salsa,Héctor Lavoe,La Murga,52.0,0.4615
+2652,salsa,Héctor Lavoe,Mi Gente,21.0,0.8095
+2653,salsa,Héctor Lavoe,Periódico de Ayer,66.0,0.6515
+2654,salsa,Héctor Lavoe,El Dia de Mi Suerte,186.0,0.4677
+2655,salsa,Héctor Lavoe,Escarcha,143.0,0.4615
+2656,salsa,Héctor Lavoe,La Fama,74.0,0.7568
+2657,salsa,Héctor Lavoe,Calle Luna Calle Sol,133.0,0.406
+2658,salsa,Héctor Lavoe,El Todopoderoso,77.0,0.6234
+2659,salsa,Héctor Lavoe,Aléjate,121.0,0.5702
+2660,salsa,Héctor Lavoe,Amor De La Calle,85.0,0.4588
+2661,salsa,Héctor Lavoe,Loco,24.0,0.6667
+2662,salsa,Héctor Lavoe,La Banda,88.0,0.6477
+2663,salsa,Héctor Lavoe,Barrunto,86.0,0.5233
+2664,salsa,Héctor Lavoe,Consejo De Oro,118.0,0.8983
+2665,salsa,Héctor Lavoe,Che Che Cole,69.0,0.6087
+2666,salsa,Héctor Lavoe,Aires de Navidad,79.0,0.7215
+2667,salsa,Héctor Lavoe,Juana Peña,32.0,0.8125
+2668,salsa,Héctor Lavoe,Plazos Traicioneros,32.0,0.6562
+2669,salsa,Héctor Lavoe,Sombras Nada Mas,81.0,0.5679
+2670,salsa,Héctor Lavoe,Te Estan Buscando,43.0,0.5814
+2671,salsa,Héctor Lavoe,Pasé La Noche Fumando (part. Willie Colón),159.0,0.5283
+2672,salsa,Héctor Lavoe,Siento,165.0,0.4182
+2673,salsa,Héctor Lavoe,Déjala Que Siga,243.0,0.3086
+2674,salsa,Héctor Lavoe,Rompe Saraguey,70.0,0.4286
+2675,salsa,Héctor Lavoe,DAME UN CHANCE,51.0,0.8235
+2676,salsa,Héctor Lavoe,Panameña,124.0,0.3065
+2677,salsa,Héctor Lavoe,Vamos a Reir Un Poco,114.0,0.4211
+2678,salsa,Willie Colon,El Gran Varón,168.0,0.5238
+2679,salsa,Willie Colon,Idílio,124.0,0.4758
+2680,salsa,Willie Colon,Asia,177.0,0.4011
+2681,salsa,Willie Colon,Oh Que Sera!,158.0,0.7215
+2682,salsa,Willie Colon,Talento de TV,202.0,0.302
+2683,salsa,Willie Colon,Gitana,207.0,0.4251
+2684,salsa,Willie Colon,Mi Sueño,160.0,0.4375
+2685,salsa,Willie Colon,Soltera,101.0,0.6931
+2686,salsa,Willie Colon,Simon,186.0,0.543
+2687,salsa,Willie Colon,Sin Poderte Hablar,46.0,0.413
+2688,salsa,Willie Colon,Bohemia,80.0,0.7375
+2689,salsa,Willie Colon,Ah Ah Oh No,105.0,0.781
+2690,salsa,Willie Colon,Corazon Guerrero,126.0,0.9048
+2691,salsa,Willie Colon,Quiero Saber,80.0,0.3875
+2692,salsa,Willie Colon,"¿Qué Será, Qué Será?",192.0,0.6979
+2693,salsa,Willie Colon,Amor Verdadero,99.0,0.4242
+2694,salsa,Willie Colon,Pedro Navaja,261.0,0.613
+2695,salsa,Willie Colon,Tanto Amor,84.0,0.5595
+2696,salsa,Willie Colon,"Simon, El Gran Varón",179.0,0.5251
+2697,salsa,Willie Colon,Casanova,111.0,0.8198
+2698,salsa,Willie Colon,Eso Se Baila Así,85.0,0.5765
+2699,salsa,Willie Colon,Demasiado Corazón,99.0,0.6566
+2700,salsa,Willie Colon,Me Das Motivos,80.0,0.7625
+2701,salsa,Willie Colon,Así Es La Vida,142.0,0.4859
+2702,salsa,Willie Colon,Yo Te Podría Decir,77.0,0.5455
+2703,salsa,Willie Colon,Color Americano,178.0,0.4888
+2704,salsa,Willie Colon,Cueste Lo Que Cueste,122.0,0.4508
+2705,salsa,Willie Colon,Guaracha,94.0,0.883
+2706,salsa,Willie Colon,Por Eso Canto,139.0,0.5036
+2707,salsa,Willie Colon,Los Olores Del Amor,107.0,0.4673
+2708,salsa,Willie Colon,Falta de Consideracion,136.0,0.75
+2709,salsa,Willie Colon,Caer En Gracia,125.0,0.584
+2710,salsa,Willie Colon,Doña Lelé,68.0,0.6176
+2711,salsa,Willie Colon,El Diablo,64.0,0.5938
+2712,salsa,Willie Colon,No,95.0,0.9053
+2713,salsa,Willie Colon,Pregunta Por Ahí,69.0,0.5942
+2714,salsa,Willie Colon,Atrapado,152.0,0.6118
+2715,salsa,Willie Colon,Carmelina,140.0,0.5214
+2716,salsa,Willie Colon,Che Che Cole,69.0,0.6087
+2717,salsa,Willie Colon,Desahucio,93.0,0.914
+2718,salsa,Willie Colon,Desde Hoy,95.0,0.7368
+2719,salsa,Willie Colon,Aguijón,136.0,0.5735
+2720,salsa,Willie Colon,Buscando Trabajo,185.0,0.4486
+2721,salsa,Willie Colon,Como Un Huracan,40.0,0.9
+2722,salsa,Willie Colon,Dale Paso,180.0,0.4111
+2723,salsa,Willie Colon,Homenaje a Héctor Lavoe,57.0,0.5088
+2724,salsa,Willie Colon,Narcomula,136.0,0.8088
+2725,salsa,Willie Colon,No Me Fío Más,140.0,0.5
+2726,salsa,Willie Colon,Primera Noche De Amor,100.0,0.64
+2727,salsa,Willie Colon,"Qu Ser, Qu Ser?",122.0,0.8033
+2728,salsa,Grupo Niche,Se Pareció Tanto a Ti,124.0,0.7984
+2729,salsa,Grupo Niche,La Canoa Ranchaa,121.0,0.281
+2730,salsa,Grupo Niche,Sin Sentimiento,104.0,0.6346
+2731,salsa,Grupo Niche,Nuestro Sueño,97.0,0.4639
+2732,salsa,Grupo Niche,Algo Que Se Quede,169.0,0.4793
+2733,salsa,Grupo Niche,Una Aventura,83.0,0.4578
+2734,salsa,Grupo Niche,Cali Pachanguero,149.0,0.5503
+2735,salsa,Grupo Niche,Hagamos Lo Que Diga El Corazón,112.0,0.3839
+2736,salsa,Grupo Niche,Entrega,108.0,0.4907
+2737,salsa,Grupo Niche,Mi Pueblo Natal,39.0,0.8718
+2738,salsa,Grupo Niche,Busca Por Dentro,133.0,0.5714
+2739,salsa,Grupo Niche,Eres,161.0,0.6025
+2740,salsa,Grupo Niche,Con Sentimiento,113.0,0.8584
+2741,salsa,Grupo Niche,Ana Mile,164.0,0.5427
+2742,salsa,Grupo Niche,Mi hijo y yo,95.0,0.7053
+2743,salsa,Grupo Niche,Fantasía Herida,81.0,0.6543
+2744,salsa,Grupo Niche,Cómo Podré Disimular,107.0,0.6168
+2745,salsa,Grupo Niche,Magia de Tus Besos,120.0,0.6
+2746,salsa,Grupo Niche,La Danza De La Chancaca,230.0,0.5957
+2747,salsa,Grupo Niche,Porque Dios Te Hizo Tan Bella,113.0,0.4159
+2748,salsa,Grupo Niche,Gotas de Lluvia,109.0,0.5688
+2749,salsa,Grupo Niche,Buenaventura Y Caney,102.0,0.8333
+2750,salsa,Grupo Niche,Se Parece Tanto A Ti,125.0,0.792
+2751,salsa,Grupo Niche,Enamorada,137.0,0.562
+2752,salsa,Grupo Niche,Un Día Después,211.0,0.6398
+2753,salsa,Grupo Niche,Es mejor no despertar,97.0,0.5567
+2754,salsa,Grupo Niche,Cali Aji,124.0,0.3468
+2755,salsa,Grupo Niche,De Amor Nadie Se Muere,92.0,0.5652
+2756,salsa,Grupo Niche,Faltó Un Pañuelo,139.0,0.3309
+2757,salsa,Grupo Niche,Un Alto En El Camino,95.0,0.6632
+2758,salsa,Grupo Niche,Que nunca me falte tu amor,122.0,0.4836
+2759,salsa,Grupo Niche,Sin palabras,91.0,0.7363
+2760,salsa,Grupo Niche,Corazon sin corazon,179.0,0.3911
+2761,salsa,Grupo Niche,Digo yo,94.0,0.4043
+2762,salsa,Grupo Niche,Maldita forma de querer,112.0,0.5357
+2763,salsa,Grupo Niche,La Magia de Tus Besos,120.0,0.6083
+2764,salsa,Grupo Niche,No Se Te Ven Las Ganas,104.0,0.5962
+2765,salsa,Grupo Niche,Cosas Bonitas,89.0,0.5955
+2766,salsa,Grupo Niche,Del Puente Para Allá,206.0,0.3932
+2767,salsa,Grupo Niche,Tocando El Cielo,80.0,0.9
+2768,salsa,Grupo Niche,A prueba de Fuego,106.0,0.783
+2769,salsa,Grupo Niche,Ganas,120.0,0.5667
+2770,salsa,Grupo Niche,Me Sabe A Perú,149.0,0.4295
+2771,salsa,Grupo Niche,Y Te Vas A Casar,158.0,0.5127
+2772,salsa,Grupo Niche,Atrevida,85.0,0.6118
+2773,salsa,Grupo Niche,El Coco,102.0,0.4314
+2774,salsa,Grupo Niche,Jardin prohibido,140.0,0.4643
+2775,salsa,Grupo Niche,Valle Del Cauca,175.0,0.6114
+2776,salsa,Grupo Niche,Todo me huele a ti,104.0,0.4519
+2777,salsa,Grupo Niche,Tú Eres,160.0,0.5938
+2778,salsa,El Monta Cotorra,A Cojones (part. D Wise &amp; Yenza),137.0,0.4307
+2779,salsa,Eddie Santiago,Qué Locura Enamorarme de Ti,129.0,0.4961
+2780,salsa,Eddie Santiago,Lluvia,159.0,0.3585
+2781,salsa,Eddie Santiago,Tu Me Haces Falta,120.0,0.3667
+2782,salsa,Eddie Santiago,Tu Me Quemas,156.0,0.5256
+2783,salsa,Eddie Santiago,Que Locura Fue Enamorarme De Ti,112.0,0.5179
+2784,salsa,Eddie Santiago,Jardin Prohibido,142.0,0.4577
+2785,salsa,Eddie Santiago,Todo Empezó,64.0,0.8281
+2786,salsa,Eddie Santiago,Mía,130.0,0.4462
+2787,salsa,Eddie Santiago,Me Fallaste,103.0,0.4951
+2788,salsa,Eddie Santiago,Devorame Otra Vez,85.0,0.4941
+2789,salsa,Eddie Santiago,"Cada Vez, Otra Vez",88.0,0.5227
+2790,salsa,Eddie Santiago,Antidoto Y Veneno,107.0,0.6355
+2791,salsa,Eddie Santiago,"De Profesión, Tu Amante",94.0,0.7766
+2792,salsa,Eddie Santiago,Momento de Amor,79.0,0.5063
+2793,salsa,Eddie Santiago,Hasta Aquí Te Fui Fiel,60.0,0.6833
+2794,salsa,Eddie Santiago,El Triste,76.0,0.6053
+2795,salsa,Eddie Santiago,Una Mujer Como Tu,104.0,0.5577
+2796,salsa,Eddie Santiago,Jamas,123.0,0.4715
+2797,salsa,Eddie Santiago,Te Amo,112.0,0.4375
+2798,salsa,Eddie Santiago,Amar a Muerte,103.0,0.3786
+2799,salsa,Eddie Santiago,Que Maravilla Fue Sentirte,117.0,0.4359
+2800,salsa,Eddie Santiago,Pienso Solo En Ti,146.0,0.3836
+2801,salsa,Eddie Santiago,Necesito,78.0,0.5385
+2802,salsa,Eddie Santiago,Nena,148.0,0.4324
+2803,salsa,Eddie Santiago,Tu Amigo o Tu Amante,89.0,0.382
+2804,salsa,Eddie Santiago,Aquel Viejo Motel,111.0,0.6306
+2805,salsa,Eddie Santiago,Mañana,126.0,0.3413
+2806,salsa,Eddie Santiago,No He Podido Olvidarla,197.0,0.3655
+2807,salsa,Eddie Santiago,Que Puedo Hacer Yo,74.0,0.7432
+2808,salsa,Eddie Santiago,Te Equivocas,135.0,0.4815
+2809,salsa,Eddie Santiago,Amor de Cada Dia,57.0,0.5965
+2810,salsa,Eddie Santiago,Hagámoslo,104.0,0.5673
+2811,salsa,Eddie Santiago,Tu,119.0,0.5714
+2812,salsa,Eddie Santiago,A La Vez Tu Y Yo,110.0,0.3455
+2813,salsa,Eddie Santiago,Cabalgata,51.0,0.902
+2814,salsa,Eddie Santiago,Desesperado,105.0,0.5714
+2815,salsa,Eddie Santiago,Insaciable,147.0,0.3946
+2816,salsa,Eddie Santiago,Mi Vida,50.0,0.64
+2817,salsa,Eddie Santiago,Somos,62.0,0.5968
+2818,salsa,Eddie Santiago,Desnúdate Mujer,82.0,0.5366
+2819,salsa,Eddie Santiago,La Cita,97.0,0.4536
+2820,salsa,Eddie Santiago,Loco Por Tu Amor,57.0,0.4386
+2821,salsa,Eddie Santiago,Me Faltas Tu,73.0,0.5342
+2822,salsa,Eddie Santiago,Nadie Mejor Que Tu,75.0,0.8
+2823,salsa,Eddie Santiago,Cuando Tu Cuerpo Era Mio,106.0,0.5283
+2824,salsa,Eddie Santiago,Deseos,53.0,0.6038
+2825,salsa,Eddie Santiago,Detalles,81.0,0.8272
+2826,salsa,Eddie Santiago,Hechizo de Luna,144.0,0.3542
+2827,salsa,Eddie Santiago,Sin Ti,103.0,0.5049
+2828,salsa,Eddie Santiago,Una Nueva Oportunidad,101.0,0.4257
+2829,salsa,Víctor Manuelle,He Tratado,88.0,0.5
+2830,salsa,Víctor Manuelle,No Queria Engañarte,151.0,0.5364
+2831,salsa,Víctor Manuelle,Tengo Ganas,89.0,0.4382
+2832,salsa,Víctor Manuelle,Si Tú Me Besas,187.0,0.5027
+2833,salsa,Víctor Manuelle,Por ella,75.0,0.6133
+2834,salsa,Víctor Manuelle,"Ay, Amor (Feat. Hector Y Tito)",158.0,0.6646
+2835,salsa,Víctor Manuelle,Apiadate de Mi,147.0,0.3878
+2836,salsa,Víctor Manuelle,Volveras,101.0,0.5644
+2837,salsa,Víctor Manuelle,No Hace Falta Nada,75.0,0.5067
+2838,salsa,Víctor Manuelle,Dile a Ella,93.0,0.4624
+2839,salsa,Víctor Manuelle,Mala y Peligrosa,240.0,0.5042
+2840,salsa,Víctor Manuelle,Quitémonos la ropa,212.0,0.4575
+2841,salsa,Víctor Manuelle,La Razon De Mi Vida,133.0,0.4812
+2842,salsa,Víctor Manuelle,Víctimas las Dos (part. La India),169.0,0.6272
+2843,salsa,Víctor Manuelle,Como Una Estrella,96.0,0.5521
+2844,salsa,Víctor Manuelle,Evitaré,186.0,0.371
+2845,salsa,Víctor Manuelle,Pero Dile,115.0,0.5217
+2846,salsa,Víctor Manuelle,Maldita Suerte,124.0,0.5484
+2847,salsa,Víctor Manuelle,Algo Le Pasa a Mi Héroe,99.0,0.6869
+2848,salsa,Víctor Manuelle,No Todo Puede Llamarse Amor,192.0,0.5
+2849,salsa,Víctor Manuelle,Como Se Lo Explico Al Corazon,93.0,0.6452
+2850,salsa,Víctor Manuelle,Mentiras,142.0,0.4859
+2851,salsa,Víctor Manuelle,Pensamiento Y Palabra,64.0,0.8125
+2852,salsa,Víctor Manuelle,Nuestro Amor Se Ha Vuelto Ayer,128.0,0.4766
+2853,salsa,Víctor Manuelle,Solo Pienso En Ti,57.0,0.8947
+2854,salsa,Víctor Manuelle,Voy A Prometerme,131.0,0.3893
+2855,salsa,Víctor Manuelle,Al Igual Que Yo,133.0,0.4361
+2856,salsa,Víctor Manuelle,Como Duele,125.0,0.4
+2857,salsa,Víctor Manuelle,Me Da Lo Mismo,79.0,0.6582
+2858,salsa,Víctor Manuelle,No Alcanzo,76.0,0.5921
+2859,salsa,Víctor Manuelle,Agua Bendita,136.0,0.4559
+2860,salsa,Víctor Manuelle,Se Me Rompe El Alma,186.0,0.3118
+2861,salsa,Víctor Manuelle,Después de Nuevo Amigos,45.0,0.6667
+2862,salsa,Víctor Manuelle,Mix De Canciones,257.0,0.4514
+2863,salsa,Víctor Manuelle,No Eres La Mujer,138.0,0.3841
+2864,salsa,Víctor Manuelle,Nuestra Historia,132.0,0.4848
+2865,salsa,Víctor Manuelle,Por Ejemplo,164.0,0.3232
+2866,salsa,Víctor Manuelle,Asi Es La Mujer,72.0,0.625
+2867,salsa,Víctor Manuelle,Cómo Quisiera Decirte,128.0,0.4375
+2868,salsa,Víctor Manuelle,La Mujer Que Mas Te Duele,71.0,0.7746
+2869,salsa,Víctor Manuelle,Lo Que Fue No Será,53.0,0.8679
+2870,salsa,Víctor Manuelle,Nunca Habia Llorado Asi,112.0,0.5357
+2871,salsa,Víctor Manuelle,Que Suenen Los Tambores,200.0,0.335
+2872,salsa,Víctor Manuelle,Ahora Me Toca a Mi,47.0,0.8085
+2873,salsa,Víctor Manuelle,Antídoto Y Veneno,178.0,0.4157
+2874,salsa,Víctor Manuelle,Bella Sin Alma,62.0,0.8387
+2875,salsa,Víctor Manuelle,Ese Hombre (con Tito Nieves Y Brenda),139.0,0.6259
+2876,salsa,Víctor Manuelle,Hay Que Poner El Alma,142.0,0.5634
+2877,salsa,Víctor Manuelle,Instinto y Deseo,120.0,0.6583
+2878,salsa,Víctor Manuelle,Que Habria Sido de Mi,110.0,0.3545
+2879,salsa,La India,Ese Hombre,128.0,0.3984
+2880,salsa,La India,Dicen Que Soy,115.0,0.4261
+2881,salsa,La India,Que Ganas de no Verte Nunca más,142.0,0.3239
+2882,salsa,La India,Nunca Voy A Olvidarte,117.0,0.3077
+2883,salsa,La India,Mi Mayor Venganza,49.0,0.6939
+2884,salsa,La India,Vivir Lo Nuestro (part. Marc Anthony),111.0,0.5045
+2885,salsa,La India,Me Canse De Ser La Otra,53.0,0.6792
+2886,salsa,La India,Hazme El Amor (With Oscar D´León),142.0,0.6127
+2887,salsa,La India,Dejate Amar,141.0,0.2624
+2888,salsa,La India,Estupida,109.0,0.4679
+2889,salsa,La India,Costumbres,94.0,0.2872
+2890,salsa,La India,No Me Conviene,141.0,0.3546
+2891,salsa,La India,Tu Amor Es Mi Piel,72.0,0.5694
+2892,salsa,La India,Mi Primera Rumba,80.0,0.3625
+2893,salsa,La India,Sola (Balada),78.0,0.4615
+2894,salsa,La India,Seduceme,118.0,0.4237
+2895,salsa,La India,Soy mujer,118.0,0.6102
+2896,salsa,La India,Burlada Inocencia,168.0,0.6012
+2897,salsa,La India,El hombre perfecto,98.0,0.6327
+2898,salsa,La India,La Voz de La Experiencia,166.0,0.5783
+2899,salsa,La India,Te Vas Arepentir,116.0,0.5172
+2900,salsa,La India,Traicion,162.0,0.5864
+2901,salsa,La India,Ya no queda nada (tito jam tito nieves nicky jam y la india),176.0,0.5227
+2902,salsa,La India,Ella o Yo,102.0,0.402
+2903,salsa,La India,I Just Want To Hang Around You,228.0,0.3684
+2904,salsa,La India,Madre e Hija,78.0,0.641
+2905,salsa,La India,Que Te Pedi,31.0,0.7742
+2906,salsa,La India,Si Estuvieras Aquí,91.0,0.5385
+2907,salsa,La India,Si Tu Eres Mi Hombre,68.0,0.4853
+2908,salsa,La India,Solamente Una Noche,53.0,0.717
+2909,salsa,La India,Cuando hieres a una mujer,152.0,0.5395
+2910,salsa,La India,Dejame Volver Contigo,139.0,0.3094
+2911,salsa,La India,Hielo,144.0,0.3611
+2912,salsa,La India,Lagrimas,100.0,0.49
+2913,salsa,La India,Lo Siento Mi Amor,136.0,0.3971
+2914,salsa,La India,No Debes Jugar,97.0,0.5464
+2915,salsa,La India,Soledad,41.0,0.5122
+2916,salsa,La India,Tengo que dejarte ir,81.0,0.679
+2917,salsa,La India,Tiempo De Amor,111.0,0.3153
+2918,salsa,La India,Tu amor no me conviene.,124.0,0.3871
+2919,salsa,La India,Ahora soy diferente,125.0,0.504
+2920,salsa,La India,Amor Secreto,148.0,0.3108
+2921,salsa,La India,Aprietame así,25.0,0.92
+2922,salsa,La India,Dancing On The Fire,200.0,0.505
+2923,salsa,La India,El Anillo,110.0,0.4455
+2924,salsa,La India,Esa Mujer,120.0,0.4333
+2925,salsa,La India,No Debes Jugar,85.0,0.4235
+2926,salsa,La India,No es lo mismo,107.0,0.4579
+2927,salsa,La India,Que me importa,104.0,0.4904
+2928,salsa,La India,Right From The Start,307.0,0.2378
+2929,salsa,Oscar D'Leon,Llorarás,89.0,0.5618
+2930,salsa,Oscar D'Leon,Detalles,67.0,0.9104
+2931,salsa,Oscar D'Leon,Yo Quisiera,182.0,0.4286
+2932,salsa,Oscar D'Leon,La Mazucamba,167.0,0.4671
+2933,salsa,Oscar D'Leon,Mundo Perfecto (Las Locuras Del Emperador),52.0,0.8654
+2934,salsa,Oscar D'Leon,Yo Quiero Que Tu Vuelvas A Mi,176.0,0.2727
+2935,salsa,Oscar D'Leon,Que Bueno Baila Usted,45.0,0.7556
+2936,salsa,Oscar D'Leon,Padre e Hijo,126.0,0.6905
+2937,salsa,Oscar D'Leon,Calculadora,60.0,0.65
+2938,salsa,Oscar D'Leon,Rumba Rumbero,109.0,0.5229
+2939,salsa,Oscar D'Leon,Mujer de Arena,118.0,0.5339
+2940,salsa,Oscar D'Leon,hechicera,72.0,0.4722
+2941,salsa,Oscar D'Leon,Mi Negra Esta Cansa,172.0,0.2791
+2942,salsa,Oscar D'Leon,Que Se Sienta,122.0,0.4836
+2943,salsa,Oscar D'Leon,Enamoraito,61.0,0.6066
+2944,salsa,Oscar D'Leon,Lastima que seas Ajena,61.0,0.7377
+2945,salsa,Oscar D'Leon,Mirala Como Se Menea,50.0,0.96
+2946,salsa,Oscar D'Leon,Poco a poco,173.0,0.3179
+2947,salsa,Oscar D'Leon,Ave Maria Lola,166.0,0.247
+2948,salsa,Oscar D'Leon,Bonito y Sabroso,29.0,0.8621
+2949,salsa,Oscar D'Leon,Francisco Guaiabal,54.0,0.7037
+2950,salsa,Oscar D'Leon,Artista En Puerto Rico,86.0,0.7558
+2951,salsa,Oscar D'Leon,Me Fallaste,68.0,0.9118
+2952,salsa,Oscar D'Leon,Nostalgia,70.0,0.4571
+2953,salsa,Oscar D'Leon,Se Acabo El Amor,62.0,0.8065
+2954,salsa,Oscar D'Leon,Usted Señor,62.0,0.871
+2955,salsa,Oscar D'Leon,Vive Tu Vida,70.0,0.7429
+2956,salsa,Oscar D'Leon,Corazon Gitano,51.0,0.8039
+2957,salsa,Oscar D'Leon,El Regalito,54.0,0.6852
+2958,salsa,Oscar D'Leon,Hablando Solo Me Quedé,50.0,0.8
+2959,salsa,Oscar D'Leon,Jibarito Enamorado,50.0,0.88
+2960,salsa,Oscar D'Leon,Le Canto,73.0,0.6712
+2961,salsa,Oscar D'Leon,No Volveré,23.0,1.0
+2962,salsa,Oscar D'Leon,Punto Final,104.0,0.625
+2963,salsa,Cheo Feliciano,Pienso En Tí,42.0,0.5476
+2964,salsa,Cheo Feliciano,El Ratón,95.0,0.5895
+2965,salsa,Cheo Feliciano,Sobre Una Tumba Humilde,165.0,0.6727
+2966,salsa,Cheo Feliciano,Por Si Te Vuelvo A Ver,98.0,0.7449
+2967,salsa,Cheo Feliciano,Amada Mía,68.0,0.5882
+2968,salsa,Cheo Feliciano,Bello Amanecer,80.0,0.4375
+2969,salsa,Cheo Feliciano,Juguete,54.0,0.4815
+2970,salsa,Cheo Feliciano,Cuando Estoy Contigo,67.0,0.6418
+2971,salsa,Cheo Feliciano,Anacaona,77.0,0.4675
+2972,salsa,Cheo Feliciano,Como Un Tatuaje,151.0,0.5828
+2973,salsa,Cheo Feliciano,Si Por Mi Llueve,82.0,0.6098
+2974,salsa,Cheo Feliciano,Me Fascina Esa Mujer,116.0,0.4483
+2975,salsa,Cheo Feliciano,Yo No Soy Un Angel,120.0,0.625
+2976,salsa,Cheo Feliciano,Conversasión En Tiempo de Bolero,69.0,0.3333
+2977,salsa,Cheo Feliciano,Yo Soy,247.0,0.6883
+2978,salsa,Cheo Feliciano,Cachondea,113.0,0.4248
+2979,salsa,Cheo Feliciano,Nuestras Vidas,31.0,0.7419
+2980,salsa,Cheo Feliciano,Estampa Marina,121.0,0.7273
+2981,salsa,Cheo Feliciano,Mentira,92.0,0.8152
+2982,salsa,Cheo Feliciano,Sali Porque Sali,91.0,0.8132
+2983,salsa,Cheo Feliciano,Castillos de Arena,117.0,0.7009
+2984,salsa,Cheo Feliciano,Delirio,27.0,0.8148
+2985,salsa,Cheo Feliciano,Enamorado de Tí,120.0,0.625
+2986,salsa,Cheo Feliciano,Hacerte Venir,125.0,0.64
+2987,salsa,Cheo Feliciano,Juan Albañil,168.0,0.631
+2988,salsa,Cheo Feliciano,Mi Triste Problema,52.0,0.5577
+2989,salsa,Cheo Feliciano,Los Entierros,114.0,0.6842
+2990,salsa,Cheo Feliciano,El Ciego,65.0,0.5385
+2991,salsa,Cheo Feliciano,Una En En Millón,56.0,0.4464
+2992,salsa,Cheo Feliciano,Comerciante Del Amor,100.0,0.85
+2993,salsa,Cheo Feliciano,Como Ríen,40.0,0.925
+2994,salsa,Cheo Feliciano,Contigo Aprendí,54.0,0.5185
+2995,salsa,Cheo Feliciano,Quisiera Yo Tener,85.0,0.5412
+2996,salsa,Cheo Feliciano,Salomé,96.0,0.5729
+2997,salsa,Cheo Feliciano,Asi Soy,163.0,0.7239
+2998,salsa,Cheo Feliciano,Esto Es El Guaguancó,96.0,0.6146
+2999,salsa,Cheo Feliciano,Incomparable,30.0,0.8667
+3000,salsa,Cheo Feliciano,Mano Caliente,105.0,0.4381
+3001,salsa,Cheo Feliciano,Nabori,89.0,0.5281
+3002,salsa,Cheo Feliciano,Pa'que Afinquen,90.0,0.7667
+3003,salsa,Cheo Feliciano,Periódico de Siempre,108.0,0.7778
+3004,salsa,Cheo Feliciano,Trizas,122.0,0.6311
+3005,salsa,Cheo Feliciano,Voy A Prisa,91.0,0.3956
+3006,salsa,Cheo Feliciano,Amiga,57.0,0.8772
+3007,salsa,Cheo Feliciano,Armonioso Cantar,37.0,0.8378
+3008,salsa,Cheo Feliciano,Ausencia,27.0,0.8148
+3009,salsa,Cheo Feliciano,Brinda Por Mi,177.0,0.4011
+3010,salsa,Cheo Feliciano,Cheveron Con Salsa,65.0,0.6154
+3011,salsa,Cheo Feliciano,Cómo Puede Ser,37.0,0.9189
+3012,salsa,Cheo Feliciano,Cuantas Cosas,102.0,0.6176
+3013,salsa,Cheo Feliciano,De Ti Depende,61.0,0.3443
+3014,salsa,Cheo Feliciano,Esa Es La Que Es,35.0,0.6
+3015,salsa,Cheo Feliciano,Esa Melodía,85.0,0.6824
+3016,salsa,Cheo Feliciano,Isabel De La Noche,157.0,0.5732
+3017,salsa,Cheo Feliciano,Medianoche Y Sol,56.0,0.7857
+3018,salsa,Cheo Feliciano,Poema de Otoño,36.0,0.8056
+3019,salsa,Cheo Feliciano,Pregúntame,79.0,0.5949
+3020,salsa,Cheo Feliciano,Quédate Este Bolero,80.0,0.7125
+3021,salsa,Cheo Feliciano,Salsaludando,132.0,0.7045
+3022,salsa,Cheo Feliciano,Sentimiento,138.0,0.6159
+3023,salsa,Cheo Feliciano,Sí Me Dejaras Amarte,142.0,0.4155
+3024,salsa,Cheo Feliciano,Tal Vez Por Nada,87.0,0.6897
+3025,salsa,Cheo Feliciano,When Sunny Gets Blue,188.0,0.6596
+3026,salsa,Cheo Feliciano,When Sunny Gets Blue (En Español),44.0,0.8864
+3027,salsa,Ismael Rivera,El Incomprendido,69.0,0.4493
+3028,salsa,Ismael Rivera,Sale El Sol,90.0,0.3778
+3029,salsa,Ismael Rivera,Qué Te Pasa a Ti,104.0,0.2981
+3030,salsa,Ismael Rivera,No Soy Para Ti,94.0,0.5106
+3031,salsa,Ismael Rivera,El Nazareno,128.0,0.5312
+3032,salsa,Ismael Rivera,Mi Negrita Me Espera,105.0,0.2952
+3033,salsa,Ismael Rivera,Severa,232.0,0.194
+3034,salsa,Ismael Rivera,Mi Jaragual,154.0,0.4091
+3035,salsa,Ismael Rivera,Las Tumbas,90.0,0.4556
+3036,salsa,Ismael Rivera,Si Te Cojo,137.0,0.4745
+3037,salsa,Ismael Rivera,Dime Porque,127.0,0.5039
+3038,salsa,Ismael Rivera,Fantasía Sideral,29.0,0.8621
+3039,salsa,Ismael Rivera,Mañana Es Domingo,106.0,0.3679
+3040,salsa,Ismael Rivera,Caras lindas,174.0,0.4138
+3041,salsa,Ismael Rivera,Dueña De Mi Inspiracion,95.0,0.6526
+3042,salsa,Ismael Rivera,Lo Que Dijo La Gitana,102.0,0.4216
+3043,salsa,Ismael Rivera,Soy Feliz,79.0,0.4304
+3044,salsa,Ismael Rivera,El Pajaro Chogui,120.0,0.4083
+3045,salsa,Ismael Rivera,Traigo de Todo,154.0,0.3701
+3046,salsa,Ismael Rivera,Orgullosa,173.0,0.3699
+3047,salsa,Ismael Rivera,Un Telegrama,58.0,0.3276
+3048,salsa,Ismael Rivera,CARIMBO,123.0,0.3902
+3049,salsa,Ismael Rivera,Hola,76.0,0.25
+3050,salsa,Ismael Rivera,Solavaya,54.0,0.6667
+3051,salsa,Willie Gonzalez,Porqué No Estas Conmigo,142.0,0.6831
+3052,salsa,Willie Gonzalez,Quiero Morir En Tu Piel,176.0,0.4318
+3053,salsa,Willie Gonzalez,Tanto Amor,119.0,0.5966
+3054,salsa,Willie Gonzalez,Amor Pirata,111.0,0.6126
+3055,salsa,Willie Gonzalez,Pequeñas Cosas,128.0,0.4375
+3056,salsa,Willie Gonzalez,Hazme Olvidarla,183.0,0.3934
+3057,salsa,Willie Gonzalez,Si Supieras,72.0,0.4583
+3058,salsa,Willie Gonzalez,En La Intimidad,110.0,0.5727
+3059,salsa,Willie Gonzalez,Quiero,152.0,0.5197
+3060,salsa,Willie Gonzalez,No Es Casualidad,113.0,0.5398
+3061,salsa,Willie Gonzalez,No Podras Escapar de Mi,107.0,0.4393
+3062,salsa,Willie Gonzalez,Doble Vida,160.0,0.4188
+3063,salsa,Willie Gonzalez,Tan Solo,143.0,0.4755
+3064,salsa,Willie Gonzalez,Si Tú Fueras Mía,126.0,0.5159
