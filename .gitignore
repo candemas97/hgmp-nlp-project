@@ -1,0 +1,82 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyCharm artifacts
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Python environments
+bin/
+include/
+lib/
+lib64/
+share/
+pyvenv.cfg
+.env
+.venv/
+venv/
+ENV/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+*.db
+
+# datasets
+*.csv
+*.tsv
+*.xlsx
+
+# Large data files
+*.h5
+*.hdf5
+*.ckpt
+*.tar.gz
+*.tar
+*.pkl
+*.dill
+*.pt
+
+# Logs & outputs
+logs/
+output/
+*.log
+
+# TensorBoard
+events.out.tfevents.*
+*.tfevents
+# VS Code
+.vscode/
+
+
+output_models/
